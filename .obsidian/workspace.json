@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "859b305e1b4f6cbe",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c680d0e5d0febb1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d59128095825a517",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AnalisisFinanciero/Analisis Financiero Postobón.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Analisis Financiero Postobón"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "05b9f1f7c153d84e",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d50477b7e6be27e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f8880795e58b5676",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0c456f5b7d959361",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "abf01be695d254dc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "10b7d8c5bc9f4f60",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e7af8987f0f80c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c3cf95e1d8291c0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "f5adf9f03896c259",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "8ef3fb5dc3646932",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8c2c67e652a0021b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "f8880795e58b5676",
+  "lastOpenFiles": [
+    "AnalisisFinanciero/Captures",
+    "AnalisisFinanciero/Captures/Pasted image 20250829134218.png",
+    "AnalisisFinanciero/~$890903939_2024-12-31_Estado_de_cambios_en_el_patrimonio_traduccion.xlsx",
+    "AnalisisFinanciero/~$890903939_2024-12-31_Caratula_traduccion.xlsx",
+    "AnalisisFinanciero/890903939_2024-12-31_Estado_de_cambios_en_el_patrimonio_traduccion.pdf",
+    "AnalisisFinanciero/~$890903939_2024-12-31_Notas_Arrendamientos_traduccion.xlsx",
+    "AnalisisFinanciero/~$890903939_2024-12-31_Notas_Analisis_de_otras_ganancias_perdidas_y_otros_gastos_traduccion.xlsx",
+    "AnalisisFinanciero/~$890903939_2024-12-31_Notas_Analisis_de_ingresos_traduccion.xlsx",
+    "AnalisisFinanciero/~$890903939_2024-12-31_Notas_Activos_intangibles_distintos_de_la_plusvalia_traduccion.xlsx",
+    "AnalisisFinanciero/~$890903939_2024-12-31_Informacion_Circular_Basica_Juridica_capitulos_X_XIII_traduccion.xlsx",
+    "AnalisisFinanciero/Analisis Financiero Postobón.md",
+    "AnalisisFinanciero/mso419.tmp",
+    "AnalisisFinanciero/890903939_2024-12-31_Informacion_Circular_Basica_Juridica_capitulos_X_XIII_traduccion.xlsx"
+  ]
+}
