@@ -1,0 +1,93 @@
+{
+  "Cuentas comerciales por pagar, otras cuentas por pagar y otros pasivos": {
+    "Cuentas comerciales por pagar, otras cuentas por pagar y otros pasivos corrientes": {
+      "Cuentas comerciales por pagar corrientes": {
+        "Cuentas comerciales por pagar y otros pasivos financieros [resumen]": {
+          "Nacional o del exterior [miembro]": {
+            "Nacionales [miembro]": 518601419,
+            "En el exterior [miembro]": 113063413,
+            "Total saldo del ejercicio [miembro]": 631664832
+          },
+          "Bandas de tiempo acumuladas [miembro]": {
+            "Valor obligaciones no vencidas [miembro]": 631664832
+          }
+        }
+      },
+      "Otras cuentas por pagar corrientes": {
+        "Cuentas comerciales por pagar y otros pasivos financieros [resumen]": {
+          "Nacional o del exterior [miembro]": {
+            "Nacionales [miembro]": 0,
+            "Total saldo del ejercicio [miembro]": 0
+          }
+        }
+      },
+      "Total cuentas comerciales por pagar y otras cuentas por pagar corrientes": {
+        "Cuentas comerciales por pagar y otros pasivos financieros [resumen]": {
+          "Nacional o del exterior [miembro]": {
+            "Nacionales [miembro]": 518601419,
+            "En el exterior [miembro]": 113063413,
+            "Total saldo del ejercicio [miembro]": 631664832
+          },
+          "Bandas de tiempo acumuladas [miembro]": {
+            "Valor obligaciones no vencidas [miembro]": 631664832
+          }
+        }
+      },
+      "Otros pasivos financieros corrientes": {
+        "Cuentas comerciales por pagar y otros pasivos financieros [resumen]": {
+          "Nacional o del exterior [miembro]": {
+            "Nacionales [miembro]": 549100469,
+            "Total saldo del ejercicio [miembro]": 549100469
+          },
+          "Bandas de tiempo acumuladas [miembro]": {
+            "Valor obligaciones no vencidas [miembro]": 549100469
+          }
+        }
+      },
+      "Total cuentas comerciales por pagar, otras cuentas por pagar y otros pasivos corrientes": {
+        "Cuentas comerciales por pagar y otros pasivos financieros [resumen]": {
+          "Nacional o del exterior [miembro]": {
+            "Nacionales [miembro]": 1067701888,
+            "En el exterior [miembro]": 113063413,
+            "Total saldo del ejercicio [miembro]": 1180765301
+          },
+          "Bandas de tiempo acumuladas [miembro]": {
+            "Valor obligaciones no vencidas [miembro]": 1180765301
+          }
+        }
+      },
+      "Valor otras obligaciones vencidas corrientes": {},
+      "Número de oblicaciones vencidas corrientes": {}
+    },
+    "Cuentas comerciales por pagar, otras cuentas por pagar y otros pasivos NO corrientes": {
+      "Número de oblicaciones vencidas corrientes": {},
+      "Cuentas comerciales por pagar NO corrientes": {},
+      "Otras cuentas por pagar NO corrientes": {},
+      "Total cuentas comerciales por pagar y otras cuentas por pagar NO corrientes": {},
+      "Otros pasivos financieros NO corrientes": {
+        "Cuentas comerciales por pagar y otros pasivos financieros [resumen]": {
+          "Nacional o del exterior [miembro]": {
+            "Nacionales [miembro]": 284168112,
+            "Total saldo del ejercicio [miembro]": 284168112
+          },
+          "Bandas de tiempo acumuladas [miembro]": {
+            "Valor obligaciones no vencidas [miembro]": 284168112
+          }
+        }
+      },
+      "Total cuentas comerciales por pagar, otras cuentas por pagar y otros pasivos NO corrientes": {
+        "Cuentas comerciales por pagar y otros pasivos financieros [resumen]": {
+          "Nacional o del exterior [miembro]": {
+            "Nacionales [miembro]": 284168112,
+            "Total saldo del ejercicio [miembro]": 284168112
+          },
+          "Bandas de tiempo acumuladas [miembro]": {
+            "Valor obligaciones no vencidas [miembro]": 284168112
+          }
+        }
+      },
+      "Valor otras obligaciones vencidas NO corrientes": {},
+      "Número de obligaciones vencidas NO corrientes": {}
+    }
+  }
+}

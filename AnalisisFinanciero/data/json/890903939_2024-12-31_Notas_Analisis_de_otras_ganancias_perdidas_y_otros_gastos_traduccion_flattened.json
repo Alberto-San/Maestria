@@ -1,0 +1,58 @@
+{
+  "Análisis de Gastos [sinopsis]": {
+    "Ganancias [sinopsis]": {
+      "Ganancias por la disposicion de activos": {
+        "Periodo Actual": 9358155
+      },
+      "Otras ganancias": {
+        "Periodo Actual": 11614280
+      },
+      "Total ganancias": {
+        "Periodo Actual": 20972435
+      }
+    },
+    "Pérdidas [sinopsis]": {
+      "Total ganancias": {},
+      "Pérdidas por disposición de activos": {
+        "Periodo Actual": 4086
+      },
+      "Otras pérdidas": {
+        "Periodo Actual": 31254126
+      },
+      "Total pérdidas": {
+        "Periodo Actual": 31258212
+      }
+    },
+    "Otras ganancias (pérdidas)": {
+      "Total pérdidas": {
+        "Periodo Actual": -10285777
+      }
+    },
+    "Participación en las Ganancias (pérdidas) por la aplicación del método de participación [sinopsis]": {
+      "Total pérdidas": {},
+      "Participación en las ganancias por la aplicación del método de participación": {
+        "Periodo Actual": 900712
+      },
+      "Participación en las perdidas por la aplicación del método de participación": {
+        "Periodo Actual": 20167711
+      }
+    },
+    "Participación en las ganancias (pérdidas) de Subsidiarias, asociadas y negocios conjuntos que se contabilicen utilizando el método de la participación": {
+      "Participación en las perdidas por la aplicación del método de participación": {
+        "Periodo Actual": -19266999
+      }
+    },
+    "Clases de gasto de beneficios a los empleados": {
+      "Participación en las perdidas por la aplicación del método de participación": {},
+      "Sueldos y salarios": {},
+      "Aportaciones a la seguridad social": {},
+      "Otros beneficios a los empleados a corto plazo": {},
+      "Gastos por beneficios post-empleo, planes de aportaciones definidas": {},
+      "Gastos por beneficios post-empleo, planes de beneficios definidos": {},
+      "Gastos por beneficios de terminación": {},
+      "Otros beneficios a los empleados a largo plazo": {},
+      "Otros gastos de personal": {},
+      "Total de gastos por beneficios a los empleados": {}
+    }
+  }
+}

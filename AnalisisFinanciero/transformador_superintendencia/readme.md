@@ -1,0 +1,1 @@
+python3 main.py --input_dir "C:\Users\Usuario\Documents\Repositorios\Maestria\AnalisisFinanciero\postobon\flattened" --output_dir "C:\Users\Usuario\Documents\Repositorios\Maestria\AnalisisFinanciero\postobon\transform" --verbose

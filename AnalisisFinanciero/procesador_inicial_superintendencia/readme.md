@@ -1,0 +1,1 @@
+python3 flatten_excel.py --input_dir C:\Users\Usuario\Documents\Repositorios\Maestria\AnalisisFinanciero\postobon --output_subdir flattened --keep_all_columns --verbose

@@ -1,0 +1,21 @@
+{
+  "Información Circular Básica Jurídica, capitulos X y XIII": {
+    "¿Durante el año correspondiente al corte de la información que está presentando, se dedicó habitualmente a la comercialización de metales preciosos y piedras preciosas?": {
+      "Periodo Actual": "false"
+    },
+    "¿Durante el año correspondiente al corte de la información que está presentando, recibió uno o varios aportes de Activos Virtuales iguales o superiores (individualmente o en conjunto) a 100 SMLMV?": {
+      "Periodo Actual": "false"
+    },
+    "¿Durante el año correspondiente al corte de la información que está presentando, realizó, para o en nombre de otra persona natural o jurídica, una o más actividades u operaciones relacionadas con activos virtuales, iguales o superiores (individual o en conjunto) a 100 SMLMV ?": {
+      "Periodo Actual": "false"
+    },
+    "¿Durante el año correspondiente al corte de la información que está presentando, realizó uno o más negocios o transacciones internacionales (individualmente o en conjunto) por un monto igual o superior a 100 SMLMV?": {
+      "Periodo Actual": "true"
+    },
+    "¿Durante el año correspondiente al corte de la información que está presentando, firmó uno o más contratos con Entidades Estatales en una cuantía igual o superior  (individual o en conjunto) a 500 SMLMV?": {
+      "Periodo Actual": "false"
+    },
+    "¿Como sociedad perteneciente al sector de agentes inmobiliarios; realiza la prestación de servicios de intermediación (bienes no propios) en la compra, venta, permuta o arrendamiento de bienes inmuebles a favor de sus clientes?": {},
+    "¿Como sociedad perteneciente al sector de agentes inmobiliarios; realiza habitualmente la prestación de servicios en la compra o venta de bienes inmuebles a favor de sus clientes?": {}
+  }
+}

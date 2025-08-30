@@ -1,0 +1,73 @@
+{
+  "Información cuantitativa a revelar sobre activos por derecho de uso [resumen]": {
+    "Depreciación, activos por derecho de uso": {
+      "Activos [miembro]": {
+        "Propiedades, planta y equipo [miembro]": {
+          "Terrenos y construcciones [miembro]": {
+            "Edificios [miembro]": 7714331,
+            "Edificios [miembro]__2": 7714331
+          },
+          "Maquinaria [miembro]": {
+            "Edificios [miembro]": 973408
+          },
+          "Vehículos [miembro]": {
+            "Equipos de Transporte [miembro]": 1642412,
+            "Equipos de Transporte [miembro]__2": 1642412
+          },
+          "Otras propiedades, planta y equipo [miembro]": {
+            "Equipos de Transporte [miembro]__2": 10330151
+          }
+        }
+      }
+    },
+    "Valor en libros al final del ejercicio Activos por derecho de uso": {},
+    "Activos por derecho de uso: Activos revaluados, al costo": {
+      "Activos [miembro]": {
+        "Propiedades, planta y equipo [miembro]": {
+          "Terrenos y construcciones [miembro]": {
+            "Edificios [miembro]": 25624723,
+            "Edificios [miembro]__2": 25624723
+          },
+          "Maquinaria [miembro]": {
+            "Edificios [miembro]": 1973615
+          },
+          "Vehículos [miembro]": {
+            "Equipos de Transporte [miembro]": 7476855,
+            "Equipos de Transporte [miembro]__2": 7476855
+          },
+          "Otras propiedades, planta y equipo [miembro]": {
+            "Equipos de Transporte [miembro]__2": 35075193
+          }
+        }
+      }
+    },
+    "Activos por derecho de uso: Superávit de revaluación": {},
+    "Activos por derecho de uso: Incremento (disminución) en el superávit de revaluación": {},
+    "Gasto por intereses por los pasivos por arrendamiento": {
+      "Activos [miembro]": {
+        "Propiedades, planta y equipo [miembro]": {
+          "Terrenos y construcciones [miembro]": {
+            "Edificios [miembro]": 2476856,
+            "Edificios [miembro]__2": 2476856
+          },
+          "Maquinaria [miembro]": {
+            "Edificios [miembro]": 140393
+          },
+          "Vehículos [miembro]": {
+            "Equipos de Transporte [miembro]": 663175,
+            "Equipos de Transporte [miembro]__2": 663175
+          },
+          "Equipos informáticos [miembro]": {
+            "Equipos de Transporte [miembro]": 142357
+          },
+          "Otras propiedades, planta y equipo [miembro]": {
+            "Equipos de Transporte [miembro]__2": 3422781
+          }
+        }
+      }
+    },
+    "Gastos relacionados con arrendamientos a corto plazo para los cuales se ha usado la exención de reconocimiento": {},
+    "Gastos relacionados con arrendamientos de activos de bajo valor para los cuales se ha usado la exención de reconocimiento": {},
+    "Ingresos por subarrendamiento de activos por derecho de uso": {}
+  }
+}

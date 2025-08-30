@@ -1,0 +1,102 @@
+{
+  "Información a revelar sobre otras provisiones [sinopsis]": {
+    "Información a revelar sobre otras provisiones [partidas de los estados financieros]": {
+      "Conciliación de cambios en otras provisiones [sinopsis]": {
+        "Otras provisiones al comienzo del periodo": {
+          "Otras provisiones [miembro]": {
+            "Provisiones por procesos legales [miembro]": 1299120,
+            "Otras provisiones diversas [miembro]": 20664159,
+            "Otras provisiones diversas [miembro]__2": 21963279
+          }
+        },
+        "Cambios en otras provisiones [sinopsis]": {
+          "Provisiones adicionales, otras provisiones [resumen]": {
+            "Aumento de provisiones existentes, otras provisiones": {},
+            "Provisiones nuevas, otras provisiones": {
+              "Otras provisiones [miembro]": {
+                "Provisiones por procesos legales [miembro]": 152447,
+                "Otras provisiones diversas [miembro]": 9090666,
+                "Otras provisiones diversas [miembro]__2": 9243113
+              }
+            },
+            "Total provisiones adicionales, otras provisiones": {
+              "Otras provisiones [miembro]": {
+                "Provisiones por procesos legales [miembro]": 152447,
+                "Otras provisiones diversas [miembro]": 9090666,
+                "Otras provisiones diversas [miembro]__2": 9243113
+              }
+            }
+          },
+          "Provisiones utilizadas, otras provisiones": {
+            "Total provisiones adicionales, otras provisiones": {
+              "Otras provisiones [miembro]": {
+                "Provisiones por procesos legales [miembro]": 70000,
+                "Otras provisiones diversas [miembro]": 789159,
+                "Otras provisiones diversas [miembro]__2": 859159
+              }
+            }
+          },
+          "Provisiones revertidas no utilizadas, otras provisiones": {
+            "Total provisiones adicionales, otras provisiones": {
+              "Otras provisiones [miembro]": {
+                "Provisiones por procesos legales [miembro]": 30000,
+                "Otras provisiones diversas [miembro]__2": 30000
+              }
+            }
+          },
+          "Incremento por ajustes que surgen por el paso del tiempo, otras provisiones": {
+            "Total provisiones adicionales, otras provisiones": {}
+          },
+          "Total incremento (disminución) en otras provisiones": {
+            "Total provisiones adicionales, otras provisiones": {
+              "Otras provisiones [miembro]": {
+                "Provisiones por procesos legales [miembro]": 52447,
+                "Otras provisiones diversas [miembro]": 8301507,
+                "Otras provisiones diversas [miembro]__2": 8353954
+              }
+            }
+          }
+        },
+        "Total otras provisiones al final del periodo": {
+          "Total incremento (disminución) en otras provisiones": {
+            "Total provisiones adicionales, otras provisiones": {
+              "Otras provisiones [miembro]": {
+                "Provisiones por procesos legales [miembro]": 1351567,
+                "Otras provisiones diversas [miembro]": 28965666,
+                "Otras provisiones diversas [miembro]__2": 30317233
+              }
+            }
+          }
+        }
+      },
+      "Descripción de la naturaleza de obligaciones, calendario esperado de flujos de salida, indicación de incertidumbres de importes o calendario de salidas e hipótesis más importantes realizadas sobre eventos futuros, otras provisiones": {
+        "Total otras provisiones al final del periodo": {
+          "Total incremento (disminución) en otras provisiones": {
+            "Total provisiones adicionales, otras provisiones": {}
+          }
+        }
+      }
+    },
+    "Información a revelar sobre pasivos contingentes [sinopsis]": {
+      "Descripción de la naturaleza de obligaciones, calendario esperado de flujos de salida, indicación de incertidumbres de importes o calendario de salidas e hipótesis más importantes realizadas sobre eventos futuros, otras provisiones": {
+        "Total otras provisiones al final del periodo": {
+          "Total incremento (disminución) en otras provisiones": {
+            "Total provisiones adicionales, otras provisiones": {}
+          }
+        }
+      },
+      "Información a revelar sobre pasivos contingentes [partidas]": {
+        "Total otras provisiones al final del periodo": {
+          "Total incremento (disminución) en otras provisiones": {
+            "Total provisiones adicionales, otras provisiones": {}
+          }
+        },
+        "Descripción de la naturaleza de obligaciones, pasivos contingentes": {
+          "Total incremento (disminución) en otras provisiones": {
+            "Total provisiones adicionales, otras provisiones": {}
+          }
+        }
+      }
+    }
+  }
+}

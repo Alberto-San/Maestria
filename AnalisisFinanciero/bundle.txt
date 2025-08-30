@@ -1,0 +1,2390 @@
+{
+  "890903939_2024-12-31_Caratula_traduccion_flattened": {
+    "Carátula": {
+      "Datos básicos": {
+        "NIT": {
+          "Periodo Actual": 890903939
+        },
+        "Fecha de Corte": {
+          "Periodo Actual": "2024-12-31"
+        },
+        "El Máximo Órgano Social aprobó distribuir utilidades del ejercicio inmediatamente anterior": {
+          "Periodo Actual": "true",
+          "Valor de las utilidades decretadas en miles de pesos (ejercicio inmediatamente anterior)": {
+            "Periodo Actual": 44074579
+          }
+        }
+      },
+      "Información general": {
+        "El Máximo Órgano Social aprobó distribuir utilidades del ejercicio inmediatamente anterior": {
+          "Valor de las utilidades decretadas en miles de pesos (ejercicio inmediatamente anterior)": {}
+        },
+        "Razón social de la sociedad": {
+          "Valor de las utilidades decretadas en miles de pesos (ejercicio inmediatamente anterior)": {
+            "Periodo Actual": "POSTOBON S.A."
+          }
+        },
+        "Objeto social principal": {
+          "Valor de las utilidades decretadas en miles de pesos (ejercicio inmediatamente anterior)": {
+            "Periodo Actual": "PRODUCCION, IMPORTACION Y DISTRIBUCION DE BEBIDAS GASEOSAS, AGUAS, MALTAS, CERVEZASY BEBIDAS DE FRUTAS"
+          }
+        },
+        "Clasificación Industrial Internacional Uniforme Versión 4 A": {
+          "C (CIIU)": {
+            "Valor de las utilidades decretadas en miles de pesos (ejercicio inmediatamente anterior)": {
+              "Periodo Actual": "C1104 - Elaboración de bebidas no alcohólicas, producción de aguas minerales y otras aguas embotelladas"
+            }
+          }
+        },
+        "Corte de cuentas según estatutos": {
+          "Valor de las utilidades decretadas en miles de pesos (ejercicio inmediatamente anterior)": {
+            "Periodo Actual": "01. ANUAL"
+          }
+        },
+        "Fecha de constitución (Aaaa-Mm-Dd)": {
+          "Valor de las utilidades decretadas en miles de pesos (ejercicio inmediatamente anterior)": {
+            "Periodo Actual": "1933-11-17"
+          }
+        },
+        "Fecha de vencimiento (Aaaa-Mm-Dd)": {
+          "Valor de las utilidades decretadas en miles de pesos (ejercicio inmediatamente anterior)": {
+            "Periodo Actual": "2083-11-17"
+          }
+        },
+        "Estado actual": {
+          "Valor de las utilidades decretadas en miles de pesos (ejercicio inmediatamente anterior)": {
+            "Periodo Actual": "ACTIVA"
+          }
+        },
+        "Tipo societario": {
+          "Valor de las utilidades decretadas en miles de pesos (ejercicio inmediatamente anterior)": {
+            "Periodo Actual": "01. SOCIEDAD ANÓNIMA"
+          }
+        },
+        "La sociedad es": {
+          "Valor de las utilidades decretadas en miles de pesos (ejercicio inmediatamente anterior)": {
+            "Periodo Actual": "07. ACTIVIDAD ECONÓMICA DIFERENTE A LAS ANTERIORES"
+          }
+        }
+      },
+      "Actualización de datos": {
+        "La sociedad es": {
+          "Valor de las utilidades decretadas en miles de pesos (ejercicio inmediatamente anterior)": {}
+        },
+        "Dirección de notificación judicial registrada en Cámara de Comercio": {
+          "Valor de las utilidades decretadas en miles de pesos (ejercicio inmediatamente anterior)": {
+            "Periodo Actual": "CALLE 52 N° 47-42 PISO 25"
+          }
+        },
+        "Departamento de la dirección de notificación judicial": {
+          "Valor de las utilidades decretadas en miles de pesos (ejercicio inmediatamente anterior)": {
+            "Periodo Actual": "ANTIOQUIA"
+          }
+        },
+        "Ciudad de la dirección de notificación judicial": {
+          "Valor de las utilidades decretadas en miles de pesos (ejercicio inmediatamente anterior)": {
+            "Periodo Actual": "MEDELLIN-ANTIOQUIA"
+          }
+        },
+        "Dirección del domicilio": {
+          "Valor de las utilidades decretadas en miles de pesos (ejercicio inmediatamente anterior)": {
+            "Periodo Actual": "CALLE 52 N° 47-42 PISO 25"
+          }
+        },
+        "Departamento de la dirección del domicilio": {
+          "Valor de las utilidades decretadas en miles de pesos (ejercicio inmediatamente anterior)": {
+            "Periodo Actual": "ANTIOQUIA"
+          }
+        },
+        "Ciudad de la dirección del domicilio": {
+          "Valor de las utilidades decretadas en miles de pesos (ejercicio inmediatamente anterior)": {
+            "Periodo Actual": "MEDELLIN-ANTIOQUIA"
+          }
+        },
+        "Teléfono del domicilio": {
+          "Valor de las utilidades decretadas en miles de pesos (ejercicio inmediatamente anterior)": {
+            "Periodo Actual": 5765100
+          }
+        },
+        "Celular corporativo": {
+          "Valor de las utilidades decretadas en miles de pesos (ejercicio inmediatamente anterior)": {
+            "Periodo Actual": 3008543336
+          }
+        },
+        "E-mail de la sociedad": {
+          "Valor de las utilidades decretadas en miles de pesos (ejercicio inmediatamente anterior)": {
+            "Periodo Actual": "gaseosaspostobon@postobon.com.co"
+          }
+        },
+        "Matricula mercantil número": {
+          "Valor de las utilidades decretadas en miles de pesos (ejercicio inmediatamente anterior)": {
+            "Periodo Actual": "21-002557-04"
+          }
+        },
+        "Domicilio casa matriz sucursal de sociedad extranjera": {
+          "Valor de las utilidades decretadas en miles de pesos (ejercicio inmediatamente anterior)": {}
+        },
+        "País del domicilio casa matriz sucursal de sociedad extranjera": {
+          "Valor de las utilidades decretadas en miles de pesos (ejercicio inmediatamente anterior)": {}
+        }
+      },
+      "Información Sobre la Revisoría Fiscal": {
+        "País del domicilio casa matriz sucursal de sociedad extranjera": {
+          "Valor de las utilidades decretadas en miles de pesos (ejercicio inmediatamente anterior)": {}
+        },
+        "La compañía está obligada a tener Revisor fiscal?": {
+          "Valor de las utilidades decretadas en miles de pesos (ejercicio inmediatamente anterior)": {
+            "Periodo Actual": "true"
+          }
+        },
+        "El Revisor fiscal pertenece a una firma?": {
+          "Valor de las utilidades decretadas en miles de pesos (ejercicio inmediatamente anterior)": {
+            "Periodo Actual": "true"
+          }
+        },
+        "A que firma pertenece el Revisor Fiscal?": {
+          "Valor de las utilidades decretadas en miles de pesos (ejercicio inmediatamente anterior)": {
+            "Periodo Actual": "KPMG"
+          }
+        },
+        "Los estados finacieros estan acompañados del dictamen del Revisor fiscal?": {
+          "Valor de las utilidades decretadas en miles de pesos (ejercicio inmediatamente anterior)": {
+            "Periodo Actual": "true"
+          }
+        },
+        "Concepto del Revisor fiscal en su informe": {
+          "Valor de las utilidades decretadas en miles de pesos (ejercicio inmediatamente anterior)": {
+            "Periodo Actual": "03. LIMPIO"
+          }
+        }
+      },
+      "Detalle sobre este Informe": {
+        "Concepto del Revisor fiscal en su informe": {
+          "Valor de las utilidades decretadas en miles de pesos (ejercicio inmediatamente anterior)": {}
+        },
+        "Estos estados financieros presentan información reexpresada?": {
+          "Valor de las utilidades decretadas en miles de pesos (ejercicio inmediatamente anterior)": {
+            "Periodo Actual": "false"
+          }
+        },
+        "La información reexpresada corresponde a:": {
+          "Valor de las utilidades decretadas en miles de pesos (ejercicio inmediatamente anterior)": {}
+        },
+        "Reexpresión según normatividad que aplique": {
+          "Valor de las utilidades decretadas en miles de pesos (ejercicio inmediatamente anterior)": {}
+        }
+      },
+      "Información Sobre Notificación": {
+        "Reexpresión según normatividad que aplique": {
+          "Valor de las utilidades decretadas en miles de pesos (ejercicio inmediatamente anterior)": {}
+        },
+        "De conformidad con lo dispuesto en el artículo 56 del CPACA, el suscrito autoriza a la Superintendencia de Sociedades para que, a partir de la fecha de presentación del informe, realice la notificación electrónica de los actos administrativos que correspondan": {
+          "Valor de las utilidades decretadas en miles de pesos (ejercicio inmediatamente anterior)": {
+            "Periodo Actual": "true"
+          }
+        },
+        "E-mail de notificación electrónica": {
+          "Valor de las utilidades decretadas en miles de pesos (ejercicio inmediatamente anterior)": {
+            "Periodo Actual": "postobonofcentral@postobon.com.co ; gaseosaspostobon@postobon.com.co"
+          }
+        },
+        "Dirección de notificación física": {
+          "Valor de las utilidades decretadas en miles de pesos (ejercicio inmediatamente anterior)": {}
+        },
+        "Departamento de notificación física": {
+          "Valor de las utilidades decretadas en miles de pesos (ejercicio inmediatamente anterior)": {}
+        },
+        "Ciudad (Municipio) de notificación física": {
+          "Valor de las utilidades decretadas en miles de pesos (ejercicio inmediatamente anterior)": {}
+        }
+      },
+      "Punto de entrada aplicable": {
+        "Ciudad (Municipio) de notificación física": {
+          "Valor de las utilidades decretadas en miles de pesos (ejercicio inmediatamente anterior)": {}
+        },
+        "La Entidad posee inversiones en subsidiarias, asociadas y/o negocios conjuntos?": {
+          "Valor de las utilidades decretadas en miles de pesos (ejercicio inmediatamente anterior)": {
+            "Periodo Actual": "true"
+          }
+        }
+      }
+    }
+  },
+  "890903939_2024-12-31_Estado_de_cambios_en_el_patrimonio_traduccion_flattened": {
+    "Estado de cambios en el patrimonio [sinopsis]": {
+      "Estado de cambios en el patrimonio [partidas]": {
+        "Patrimonio al comienzo del periodo": {
+          "Patrimonio [miembro]": {
+            "Capital emitido [miembro]": 104859,
+            "Otras participaciones en el patrimonio [miembro]": 1094899,
+            "Superavit por revaluación [miembro]": 444273084,
+            "Otras reservas [miembro]": {
+              "Participación de otro resultado integral de asociadas y negocios conjuntos contabilizados utilizando el método de la participación [miembro]": -1589196,
+              "Reserva de nuevas mediciones de planes de beneficios definidos [miembro]": -1595593,
+              "Reserva Legal [miembro]": 21324246,
+              "Reserva ocasional y/o estatutaria [miembro]": 732389404,
+              "Total otras reservas [miembro]": 750528861
+            },
+            "Ganancias acumuladas [miembro]": {
+              "Ganancias acumuladas diferentes a las generadas por efectos de la convergencia [miembro]": 172874008,
+              "Ganancias acumuladas por efectos de la convergencia [miembro]": 136880273,
+              "Total ganancias acumuladas [miembro]": 309754281
+            },
+            "Total Patrimonio [miembro]": {
+              "Total ganancias acumuladas [miembro]": 1505755984
+            }
+          }
+        },
+        "Incremento (disminución) debido a cambios en políticas contables y correcciones de errores de periodos anteriores": {},
+        "Saldo reexpresado patrimonio al comienzo del periodo": {
+          "Patrimonio [miembro]": {
+            "Capital emitido [miembro]": 104859,
+            "Otras participaciones en el patrimonio [miembro]": 1094899,
+            "Superavit por revaluación [miembro]": 444273084,
+            "Otras reservas [miembro]": {
+              "Participación de otro resultado integral de asociadas y negocios conjuntos contabilizados utilizando el método de la participación [miembro]": -1589196,
+              "Reserva de nuevas mediciones de planes de beneficios definidos [miembro]": -1595593,
+              "Reserva Legal [miembro]": 21324246,
+              "Reserva ocasional y/o estatutaria [miembro]": 732389404,
+              "Total otras reservas [miembro]": 750528861
+            },
+            "Ganancias acumuladas [miembro]": {
+              "Ganancias acumuladas diferentes a las generadas por efectos de la convergencia [miembro]": 172874008,
+              "Ganancias acumuladas por efectos de la convergencia [miembro]": 136880273,
+              "Total ganancias acumuladas [miembro]": 309754281
+            },
+            "Total Patrimonio [miembro]": {
+              "Total ganancias acumuladas [miembro]": 1505755984
+            }
+          }
+        },
+        "Cambios en el patrimonio [sinopsis]": {
+          "Resultado integral [sinopsis]": {
+            "Ganancia (pérdida)": {
+              "Patrimonio [miembro]": {
+                "Ganancias acumuladas [miembro]": {
+                  "Ganancias acumuladas diferentes a las generadas por efectos de la convergencia [miembro]": 44074579,
+                  "Total ganancias acumuladas [miembro]": 44074579
+                },
+                "Total Patrimonio [miembro]": {
+                  "Total ganancias acumuladas [miembro]": 44074579
+                }
+              }
+            },
+            "Otro resultado integral": {
+              "Patrimonio [miembro]": {
+                "Superavit por revaluación [miembro]": 0,
+                "Otras reservas [miembro]": {
+                  "Reserva de nuevas mediciones de planes de beneficios definidos [miembro]": -180115,
+                  "Total otras reservas [miembro]": -180115
+                },
+                "Total Patrimonio [miembro]": {
+                  "Total ganancias acumuladas [miembro]": -180115
+                }
+              }
+            },
+            "Resultado integral total": {
+              "Patrimonio [miembro]": {
+                "Superavit por revaluación [miembro]": 0,
+                "Otras reservas [miembro]": {
+                  "Reserva de nuevas mediciones de planes de beneficios definidos [miembro]": -180115,
+                  "Total otras reservas [miembro]": -180115
+                },
+                "Ganancias acumuladas [miembro]": {
+                  "Ganancias acumuladas diferentes a las generadas por efectos de la convergencia [miembro]": 44074579,
+                  "Total ganancias acumuladas [miembro]": 44074579
+                },
+                "Total Patrimonio [miembro]": {
+                  "Total ganancias acumuladas [miembro]": 43894464
+                }
+              }
+            }
+          },
+          "Emisión de patrimonio": {
+            "Resultado integral total": {}
+          },
+          "Dividendos reconocidos como distribuciones a los propietarios": {
+            "Resultado integral total": {}
+          },
+          "Incrementos por otras aportaciones de los propietarios, patrimonio": {
+            "Resultado integral total": {}
+          },
+          "Disminución por otras distribuciones a los propietarios, patrimonio": {
+            "Resultado integral total": {}
+          },
+          "Incrementos (disminuciones) por otros cambios, patrimonio": {
+            "Resultado integral total": {
+              "Patrimonio [miembro]": {
+                "Otras reservas [miembro]": {
+                  "Reserva ocasional y/o estatutaria [miembro]": 172874007,
+                  "Total otras reservas [miembro]": 172874007
+                },
+                "Ganancias acumuladas [miembro]": {
+                  "Ganancias acumuladas diferentes a las generadas por efectos de la convergencia [miembro]": -46202119,
+                  "Ganancias acumuladas por efectos de la convergencia [miembro]": -6668101,
+                  "Total ganancias acumuladas [miembro]": -52870220
+                },
+                "Total Patrimonio [miembro]": {
+                  "Total ganancias acumuladas [miembro]": 120003787
+                }
+              }
+            }
+          },
+          "Incrementos (disminuciones) por transacciones con acciones propias, patrimonio": {
+            "Resultado integral total": {}
+          },
+          "Incrementos (disminuciones) por cambios las participaciones en la propiedad de subsidiarias que no dan lugar a pérdida de control, patrimonio": {
+            "Resultado integral total": {
+              "Patrimonio [miembro]": {
+                "Otras reservas [miembro]": {
+                  "Participación de otro resultado integral de asociadas y negocios conjuntos contabilizados utilizando el método de la participación [miembro]": -171775,
+                  "Total otras reservas [miembro]": -171775
+                },
+                "Total Patrimonio [miembro]": {
+                  "Total ganancias acumuladas [miembro]": -171775
+                }
+              }
+            }
+          },
+          "Incrementos (disminuciones) por transacciones con pagos basados en acciones, patrimonio": {
+            "Resultado integral total": {
+              "Patrimonio [miembro]": {
+                "Ganancias acumuladas [miembro]": {
+                  "Ganancias acumuladas diferentes a las generadas por efectos de la convergencia [miembro]": -117556832,
+                  "Total ganancias acumuladas [miembro]": -117556832
+                },
+                "Total Patrimonio [miembro]": {
+                  "Total ganancias acumuladas [miembro]": -117556832
+                }
+              }
+            }
+          },
+          "Importe eliminado de reservas de coberturas de flujos de efectivo e incluido en el costo inicial u otro importe en libros de activos (pasivos) no financieros o compromisos en firme para los que se aplica la contabilidad de coberturas del valor razonable": {
+            "Resultado integral total": {}
+          },
+          "Importe eliminado de reservas de cambios en el valor temporal del dinero de opciones e incluido en el costo inicial u otro importe en libros de activos (pasivos) no financieros o compromisos en firme para los que se aplica la contabilidad de coberturas del valor razonable": {
+            "Resultado integral total": {}
+          },
+          "Importe eliminado de reservas de cambios en el valor de los elementos a término de contratos a término e incluido en el costo inicial u otro importe en libros de activos (pasivos) no financieros o compromisos en firme para los que se aplica la contabilidad de coberturas del valor razonable": {
+            "Resultado integral total": {}
+          },
+          "Importe eliminado de reservas de cambios en el valor de los diferenciales de tasa cambio de moneda extranjera e incluido en el costo inicial u otro importe en libros de activos (pasivos) no financieros o compromisos en firme para los que se aplica la contabilidad de coberturas del valor razonable": {
+            "Resultado integral total": {}
+          },
+          "Total incremento (disminución) en el patrimonio": {
+            "Resultado integral total": {
+              "Patrimonio [miembro]": {
+                "Superavit por revaluación [miembro]": 0,
+                "Otras reservas [miembro]": {
+                  "Participación de otro resultado integral de asociadas y negocios conjuntos contabilizados utilizando el método de la participación [miembro]": -171775,
+                  "Reserva de nuevas mediciones de planes de beneficios definidos [miembro]": -180115,
+                  "Reserva ocasional y/o estatutaria [miembro]": 172874007,
+                  "Total otras reservas [miembro]": 172522117
+                },
+                "Ganancias acumuladas [miembro]": {
+                  "Ganancias acumuladas diferentes a las generadas por efectos de la convergencia [miembro]": -119684372,
+                  "Ganancias acumuladas por efectos de la convergencia [miembro]": -6668101,
+                  "Total ganancias acumuladas [miembro]": -126352473
+                },
+                "Total Patrimonio [miembro]": {
+                  "Total ganancias acumuladas [miembro]": 46169644
+                }
+              }
+            }
+          }
+        },
+        "Patrimonio al final del periodo": {
+          "Total incremento (disminución) en el patrimonio": {
+            "Resultado integral total": {
+              "Patrimonio [miembro]": {
+                "Capital emitido [miembro]": 104859,
+                "Otras participaciones en el patrimonio [miembro]": 1094899,
+                "Superavit por revaluación [miembro]": 444273084,
+                "Otras reservas [miembro]": {
+                  "Participación de otro resultado integral de asociadas y negocios conjuntos contabilizados utilizando el método de la participación [miembro]": -1760971,
+                  "Reserva de nuevas mediciones de planes de beneficios definidos [miembro]": -1775708,
+                  "Reserva Legal [miembro]": 21324246,
+                  "Reserva ocasional y/o estatutaria [miembro]": 905263411,
+                  "Total otras reservas [miembro]": 923050978
+                },
+                "Ganancias acumuladas [miembro]": {
+                  "Ganancias acumuladas diferentes a las generadas por efectos de la convergencia [miembro]": 53189636,
+                  "Ganancias acumuladas por efectos de la convergencia [miembro]": 130212172,
+                  "Total ganancias acumuladas [miembro]": 183401808
+                },
+                "Total Patrimonio [miembro]": {
+                  "Total ganancias acumuladas [miembro]": 1551925628
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "890903939_2024-12-31_Informacion_Circular_Basica_Juridica_capitulos_X_XIII_traduccion_flattened": {
+    "Información Circular Básica Jurídica, capitulos X y XIII": {
+      "¿Durante el año correspondiente al corte de la información que está presentando, se dedicó habitualmente a la comercialización de metales preciosos y piedras preciosas?": {
+        "Periodo Actual": "false"
+      },
+      "¿Durante el año correspondiente al corte de la información que está presentando, recibió uno o varios aportes de Activos Virtuales iguales o superiores (individualmente o en conjunto) a 100 SMLMV?": {
+        "Periodo Actual": "false"
+      },
+      "¿Durante el año correspondiente al corte de la información que está presentando, realizó, para o en nombre de otra persona natural o jurídica, una o más actividades u operaciones relacionadas con activos virtuales, iguales o superiores (individual o en conjunto) a 100 SMLMV ?": {
+        "Periodo Actual": "false"
+      },
+      "¿Durante el año correspondiente al corte de la información que está presentando, realizó uno o más negocios o transacciones internacionales (individualmente o en conjunto) por un monto igual o superior a 100 SMLMV?": {
+        "Periodo Actual": "true"
+      },
+      "¿Durante el año correspondiente al corte de la información que está presentando, firmó uno o más contratos con Entidades Estatales en una cuantía igual o superior  (individual o en conjunto) a 500 SMLMV?": {
+        "Periodo Actual": "false"
+      },
+      "¿Como sociedad perteneciente al sector de agentes inmobiliarios; realiza la prestación de servicios de intermediación (bienes no propios) en la compra, venta, permuta o arrendamiento de bienes inmuebles a favor de sus clientes?": {},
+      "¿Como sociedad perteneciente al sector de agentes inmobiliarios; realiza habitualmente la prestación de servicios en la compra o venta de bienes inmuebles a favor de sus clientes?": {}
+    }
+  },
+  "890903939_2024-12-31_Notas_Activos_intangibles_distintos_de_la_plusvalia_traduccion_flattened": {
+    "Información a revelar detallada sobre activos intangibles [resumen]": {
+      "Descripción método de amortización, activos intangibles distintos de la plusvalía": {
+        "Activos intangibles distintos de la plusvalía [miembro]": {
+          "Marcas comerciales [miembro]": "Linea Recta",
+          "Licencias y franquicias [miembro]": "Linea Recta",
+          "Otros activos intangibles [miembro]": "N/A (Proyectos en curso)"
+        }
+      },
+      "Vidas útiles o tasas de amortización, activos intangibles distintos de la plusvalía": {
+        "Activos intangibles distintos de la plusvalía [miembro]": {
+          "Marcas comerciales [miembro]": 10,
+          "Licencias y franquicias [miembro]": "1-5",
+          "Otros activos intangibles [miembro]": "N/A (Proyectos en curso)"
+        }
+      },
+      "Conciliación de cambios en activos intangibles distintos de la plusvalía [sinopsis]": {
+        "Activos intangibles distintos de la plusvalía al comienzo del periodo": {
+          "Activos intangibles distintos de la plusvalía [miembro]": {
+            "Marcas comerciales [miembro]": 28532418,
+            "Licencias y franquicias [miembro]": 8937312,
+            "Derechos [Miembro]": 0,
+            "Otros activos intangibles [miembro]": 44547562,
+            "Otros activos intangibles [miembro]__2": 82017292
+          }
+        },
+        "Incrementos distintos de los procedentes de combinaciones de negocios, activos intangibles distintos de la plusvalía": {
+          "Activos intangibles distintos de la plusvalía [miembro]": {
+            "Licencias y franquicias [miembro]": 12100197,
+            "Otros activos intangibles [miembro]": 8105290,
+            "Otros activos intangibles [miembro]__2": 20205487
+          }
+        },
+        "Adquisiciones realizadas mediante combinaciones de negocios, activos intangibles distintos a la plusvalía": {},
+        "Amortización, activos intangibles distintos de la plusvalía": {
+          "Activos intangibles distintos de la plusvalía [miembro]": {
+            "Licencias y franquicias [miembro]": 7459239,
+            "Derechos [Miembro]": -63992,
+            "Otros activos intangibles [miembro]__2": 7395247
+          }
+        },
+        "Pérdidas por deterioro de valor reconocidas en el resultado del periodo, activos intangibles distintos de la plusvalía": {},
+        "Reversión de pérdidas por deterioro de valor reconocidas en el resultado del periodo, activos intangibles distintos de la plusvalía": {},
+        "Incrementos (disminuciones) por transferencias y otros cambios, activos intangibles distintos de la plusvalía [resumen]": {
+          "Incrementos (disminuciones) por transferencias, activos intangibles distintas de la plusvalía": {
+            "Activos intangibles distintos de la plusvalía [miembro]": {
+              "Licencias y franquicias [miembro]": 19069556,
+              "Otros activos intangibles [miembro]": -19069556,
+              "Otros activos intangibles [miembro]__2": 0
+            }
+          },
+          "Incrementos (disminuciones) por otros cambios, activos intangibles distintos de la plusvalía": {},
+          "Intangibles, valor en libros activos por derecho de uso (arrendamientos)": {}
+        },
+        "Total incrementos (disminuciones) por transferencias y otros cambios, activos intangibles distintos de la plusvalía": {
+          "Intangibles, valor en libros activos por derecho de uso (arrendamientos)": {
+            "Activos intangibles distintos de la plusvalía [miembro]": {
+              "Licencias y franquicias [miembro]": 19069556,
+              "Otros activos intangibles [miembro]": -19069556,
+              "Otros activos intangibles [miembro]__2": 0
+            }
+          }
+        },
+        "Disposiciones y retiros de servicio, activos intangibles distintos de la plusvalía [resumen]": {
+          "Intangibles, valor en libros activos por derecho de uso (arrendamientos)": {},
+          "Disposiciones, activos intangibles distintos de la plusvalía": {},
+          "Retiros de servicio, activos intangibles distintos de la plusvalía": {
+            "Activos intangibles distintos de la plusvalía [miembro]": {
+              "Licencias y franquicias [miembro]": 2146337,
+              "Derechos [Miembro]": 63992,
+              "Otros activos intangibles [miembro]__2": 2210329
+            }
+          },
+          "Total de disposiciones y retiros de servicio, activos intangibles distintos de la plusvalía": {
+            "Activos intangibles distintos de la plusvalía [miembro]": {
+              "Licencias y franquicias [miembro]": 2146337,
+              "Derechos [Miembro]": 63992,
+              "Otros activos intangibles [miembro]__2": 2210329
+            }
+          }
+        },
+        "Disminuciones por clasificar como mantenidos para la venta, activos intangibles distintos de la plusvalía": {
+          "Total de disposiciones y retiros de servicio, activos intangibles distintos de la plusvalía": {}
+        },
+        "Total incremento (disminución) en activos intangibles distintos de la plusvalía": {
+          "Total de disposiciones y retiros de servicio, activos intangibles distintos de la plusvalía": {
+            "Activos intangibles distintos de la plusvalía [miembro]": {
+              "Licencias y franquicias [miembro]": 21564177,
+              "Derechos [Miembro]": 0,
+              "Otros activos intangibles [miembro]": -10964266,
+              "Otros activos intangibles [miembro]__2": 10599911
+            }
+          }
+        },
+        "Activos intangibles distintos de la plusvalía al final del periodo": {
+          "Total de disposiciones y retiros de servicio, activos intangibles distintos de la plusvalía": {
+            "Activos intangibles distintos de la plusvalía [miembro]": {
+              "Marcas comerciales [miembro]": 28532418,
+              "Licencias y franquicias [miembro]": 30501489,
+              "Derechos [Miembro]": 0,
+              "Otros activos intangibles [miembro]": 33583296,
+              "Otros activos intangibles [miembro]__2": 92617203
+            }
+          }
+        }
+      }
+    }
+  },
+  "890903939_2024-12-31_Notas_Analisis_de_ingresos_traduccion_flattened": {
+    "Ingresos de actividades ordinarias procedentes de la venta de bienes": {},
+    "Ingresos de actividades ordinarias procedentes de la venta de bienes: 1": {
+      "Detalles sobre ingresos": {
+        "CIIU": "C1104 - Elaboración de bebidas no alcohólicas, producción de aguas minerales y otras aguas embotelladas",
+        "Saldo": 2548060615
+      }
+    },
+    "Ingresos de actividades ordinarias procedentes de la venta de bienes: 2": {},
+    "Ingresos de actividades ordinarias procedentes de la venta de bienes: 3": {},
+    "Ingresos de actividades ordinarias procedentes de la venta de bienes: 4": {},
+    "Ingresos de actividades ordinarias procedentes de la venta de bienes: 5": {},
+    "Ingresos de actividades ordinarias procedentes de la venta de bienes: 6": {},
+    "Ingresos de actividades ordinarias procedentes de la venta de bienes: 7": {},
+    "Ingresos de actividades ordinarias procedentes de la venta de bienes: 8": {},
+    "Ingresos de actividades ordinarias procedentes de la venta de bienes: 9": {},
+    "Ingresos de actividades ordinarias procedentes de la venta de bienes: 10": {},
+    "Ingresos de actividades ordinarias procedentes de la venta de bienes: 11": {},
+    "Ingresos de actividades ordinarias procedentes de la venta de bienes: 12": {},
+    "Ingresos de actividades ordinarias procedentes de la venta de bienes: 13": {},
+    "Ingresos de actividades ordinarias procedentes de la venta de bienes: 14": {},
+    "Ingresos de actividades ordinarias procedentes de la venta de bienes: 15": {},
+    "Ingresos de actividades ordinarias procedentes de la venta de bienes: 16": {},
+    "Ingresos de actividades ordinarias procedentes de la venta de bienes: 17": {},
+    "Ingresos de actividades ordinarias procedentes de la venta de bienes: 18": {},
+    "Ingresos de actividades ordinarias procedentes de la venta de bienes: 19": {},
+    "Ingresos de actividades ordinarias procedentes de la venta de bienes: 20": {},
+    "Ingresos de actividades ordinarias procedentes de la venta de bienes: 21": {},
+    "Ingresos de actividades ordinarias procedentes de la venta de bienes: 22": {},
+    "Ingresos de actividades ordinarias procedentes de la venta de bienes: 23": {},
+    "Ingresos de actividades ordinarias procedentes de la venta de bienes: 24": {},
+    "Ingresos de actividades ordinarias procedentes de la venta de bienes: 25": {},
+    "Ingresos de actividades ordinarias procedentes de la venta de bienes: 26": {},
+    "Ingresos de actividades ordinarias procedentes de la venta de bienes: 27": {},
+    "Ingresos de actividades ordinarias procedentes de la venta de bienes: 28": {},
+    "Ingresos de actividades ordinarias procedentes de la venta de bienes: 29": {},
+    "Ingresos de actividades ordinarias procedentes de la venta de bienes: 30": {},
+    "Ingresos de actividades ordinarias procedentes de la venta de bienes: 31": {},
+    "Ingresos de actividades ordinarias procedentes de la venta de bienes: 32": {},
+    "Ingresos de actividades ordinarias procedentes de la venta de bienes: 33": {},
+    "Ingresos de actividades ordinarias procedentes de la venta de bienes: 34": {},
+    "Ingresos de actividades ordinarias procedentes de la venta de bienes: 35": {},
+    "Ingresos de actividades ordinarias procedentes de la venta de bienes: 36": {},
+    "Ingresos de actividades ordinarias procedentes de la venta de bienes: 37": {},
+    "Ingresos de actividades ordinarias procedentes de la venta de bienes: 38": {},
+    "Ingresos de actividades ordinarias procedentes de la venta de bienes: 39": {},
+    "Ingresos de actividades ordinarias procedentes de la venta de bienes: 40": {},
+    "Ingresos de actividades ordinarias procedentes de la venta de bienes: 41": {},
+    "Ingresos de actividades ordinarias procedentes de la venta de bienes: 42": {},
+    "Ingresos de actividades ordinarias procedentes de la venta de bienes: 43": {},
+    "Ingresos de actividades ordinarias procedentes de la venta de bienes: 44": {},
+    "Ingresos de actividades ordinarias procedentes de la venta de bienes: 45": {},
+    "Ingresos de actividades ordinarias procedentes de la venta de bienes: 46": {},
+    "Ingresos de actividades ordinarias procedentes de la venta de bienes: 47": {},
+    "Ingresos de actividades ordinarias procedentes de la venta de bienes: 48": {},
+    "Ingresos de actividades ordinarias procedentes de la venta de bienes: 49": {},
+    "Ingresos de actividades ordinarias procedentes de la venta de bienes: 50": {},
+    "Ingresos de actividades ordinarias procedentes de la venta de bienes: 51": {},
+    "Ingresos de actividades ordinarias procedentes de la venta de bienes: 52": {},
+    "Ingresos de actividades ordinarias procedentes de la venta de bienes: 53": {},
+    "Ingresos de actividades ordinarias procedentes de la venta de bienes: 54": {},
+    "Ingresos de actividades ordinarias procedentes de la venta de bienes: 55": {},
+    "Ingresos de actividades ordinarias procedentes de la venta de bienes: 56": {},
+    "Ingresos de actividades ordinarias procedentes de la venta de bienes: 57": {},
+    "Ingresos de actividades ordinarias procedentes de la venta de bienes: 58": {},
+    "Ingresos de actividades ordinarias procedentes de la venta de bienes: 59": {},
+    "Ingresos de actividades ordinarias procedentes de la venta de bienes: 60": {},
+    "Ingresos de actividades ordinarias procedentes de la venta de bienes: 61": {},
+    "Ingresos de actividades ordinarias procedentes de la venta de bienes: 62": {},
+    "Ingresos de actividades ordinarias procedentes de la venta de bienes: 63": {},
+    "Ingresos de actividades ordinarias procedentes de la venta de bienes: 64": {},
+    "Ingresos de actividades ordinarias procedentes de la venta de bienes: 65": {},
+    "Ingresos de actividades ordinarias procedentes de la venta de bienes: 66": {},
+    "Ingresos de actividades ordinarias procedentes de la venta de bienes: 67": {},
+    "Ingresos de actividades ordinarias procedentes de la venta de bienes: 68": {},
+    "Ingresos de actividades ordinarias procedentes de la venta de bienes: 69": {},
+    "Ingresos de actividades ordinarias procedentes de la venta de bienes: 70": {},
+    "Ingresos de actividades ordinarias procedentes de la venta de bienes: 71": {},
+    "Ingresos de actividades ordinarias procedentes de la venta de bienes: 72": {},
+    "Ingresos de actividades ordinarias procedentes de la venta de bienes: 73": {},
+    "Ingresos de actividades ordinarias procedentes de la venta de bienes: 74": {},
+    "Ingresos de actividades ordinarias procedentes de la venta de bienes: 75": {},
+    "Ingresos de actividades ordinarias procedentes de la venta de bienes: 76": {},
+    "Ingresos de actividades ordinarias procedentes de la venta de bienes: 77": {},
+    "Ingresos de actividades ordinarias procedentes de la venta de bienes: 78": {},
+    "Ingresos de actividades ordinarias procedentes de la venta de bienes: 79": {},
+    "Ingresos de actividades ordinarias procedentes de la venta de bienes: 80": {},
+    "Ingresos de actividades ordinarias procedentes de la venta de bienes: 81": {},
+    "Ingresos de actividades ordinarias procedentes de la venta de bienes: 82": {},
+    "Ingresos de actividades ordinarias procedentes de la venta de bienes: 83": {},
+    "Ingresos de actividades ordinarias procedentes de la venta de bienes: 84": {},
+    "Ingresos de actividades ordinarias procedentes de la venta de bienes: 85": {},
+    "Ingresos de actividades ordinarias procedentes de la venta de bienes: 86": {},
+    "Ingresos de actividades ordinarias procedentes de la venta de bienes: 87": {},
+    "Ingresos de actividades ordinarias procedentes de la venta de bienes: 88": {},
+    "Ingresos de actividades ordinarias procedentes de la venta de bienes: 89": {},
+    "Ingresos de actividades ordinarias procedentes de la venta de bienes: 90": {},
+    "Ingresos de actividades ordinarias procedentes de la venta de bienes: 91": {},
+    "Ingresos de actividades ordinarias procedentes de la venta de bienes: 92": {},
+    "Ingresos de actividades ordinarias procedentes de la venta de bienes: 93": {},
+    "Ingresos de actividades ordinarias procedentes de la venta de bienes: 94": {},
+    "Ingresos de actividades ordinarias procedentes de la venta de bienes: 95": {},
+    "Ingresos de actividades ordinarias procedentes de la venta de bienes: 96": {},
+    "Ingresos de actividades ordinarias procedentes de la venta de bienes: 97": {},
+    "Ingresos de actividades ordinarias procedentes de la venta de bienes: 98": {},
+    "Ingresos de actividades ordinarias procedentes de la venta de bienes: 99": {},
+    "Ingresos de actividades ordinarias procedentes de la venta de bienes: 100": {},
+    "Total de Ingresos de actividades ordinarias procedentes de la venta de bienes": {
+      "Detalles sobre ingresos": {
+        "Saldo": 2548060615
+      }
+    },
+    "Ingresos de actividades ordinarias procedentes de la prestación de servicios": {},
+    "Ingresos de actividades ordinarias procedentes de la prestación de servicios: 1": {
+      "Detalles sobre ingresos": {
+        "CIIU": "G4632 - Comercio al por mayor de bebidas y tabaco",
+        "Saldo": 298639916
+      }
+    },
+    "Ingresos de actividades ordinarias procedentes de la prestación de servicios: 2": {},
+    "Ingresos de actividades ordinarias procedentes de la prestación de servicios: 3": {},
+    "Ingresos de actividades ordinarias procedentes de la prestación de servicios: 4": {},
+    "Ingresos de actividades ordinarias procedentes de la prestación de servicios: 5": {},
+    "Ingresos de actividades ordinarias procedentes de la prestación de servicios: 6": {},
+    "Ingresos de actividades ordinarias procedentes de la prestación de servicios: 7": {},
+    "Ingresos de actividades ordinarias procedentes de la prestación de servicios: 8": {},
+    "Ingresos de actividades ordinarias procedentes de la prestación de servicios: 9": {},
+    "Ingresos de actividades ordinarias procedentes de la prestación de servicios: 10": {},
+    "Ingresos de actividades ordinarias procedentes de la prestación de servicios: 11": {},
+    "Ingresos de actividades ordinarias procedentes de la prestación de servicios: 12": {},
+    "Ingresos de actividades ordinarias procedentes de la prestación de servicios: 13": {},
+    "Ingresos de actividades ordinarias procedentes de la prestación de servicios: 14": {},
+    "Ingresos de actividades ordinarias procedentes de la prestación de servicios: 15": {},
+    "Ingresos de actividades ordinarias procedentes de la prestación de servicios: 16": {},
+    "Ingresos de actividades ordinarias procedentes de la prestación de servicios: 17": {},
+    "Ingresos de actividades ordinarias procedentes de la prestación de servicios: 18": {},
+    "Ingresos de actividades ordinarias procedentes de la prestación de servicios: 19": {},
+    "Ingresos de actividades ordinarias procedentes de la prestación de servicios: 20": {},
+    "Ingresos de actividades ordinarias procedentes de la prestación de servicios: 21": {},
+    "Ingresos de actividades ordinarias procedentes de la prestación de servicios: 22": {},
+    "Ingresos de actividades ordinarias procedentes de la prestación de servicios: 23": {},
+    "Ingresos de actividades ordinarias procedentes de la prestación de servicios: 24": {},
+    "Ingresos de actividades ordinarias procedentes de la prestación de servicios: 25": {},
+    "Ingresos de actividades ordinarias procedentes de la prestación de servicios: 26": {},
+    "Ingresos de actividades ordinarias procedentes de la prestación de servicios: 27": {},
+    "Ingresos de actividades ordinarias procedentes de la prestación de servicios: 28": {},
+    "Ingresos de actividades ordinarias procedentes de la prestación de servicios: 29": {},
+    "Ingresos de actividades ordinarias procedentes de la prestación de servicios: 30": {},
+    "Ingresos de actividades ordinarias procedentes de la prestación de servicios: 31": {},
+    "Ingresos de actividades ordinarias procedentes de la prestación de servicios: 32": {},
+    "Ingresos de actividades ordinarias procedentes de la prestación de servicios: 33": {},
+    "Ingresos de actividades ordinarias procedentes de la prestación de servicios: 34": {},
+    "Ingresos de actividades ordinarias procedentes de la prestación de servicios: 35": {},
+    "Ingresos de actividades ordinarias procedentes de la prestación de servicios: 36": {},
+    "Ingresos de actividades ordinarias procedentes de la prestación de servicios: 37": {},
+    "Ingresos de actividades ordinarias procedentes de la prestación de servicios: 38": {},
+    "Ingresos de actividades ordinarias procedentes de la prestación de servicios: 39": {},
+    "Ingresos de actividades ordinarias procedentes de la prestación de servicios: 40": {},
+    "Ingresos de actividades ordinarias procedentes de la prestación de servicios: 41": {},
+    "Ingresos de actividades ordinarias procedentes de la prestación de servicios: 42": {},
+    "Ingresos de actividades ordinarias procedentes de la prestación de servicios: 43": {},
+    "Ingresos de actividades ordinarias procedentes de la prestación de servicios: 44": {},
+    "Ingresos de actividades ordinarias procedentes de la prestación de servicios: 45": {},
+    "Ingresos de actividades ordinarias procedentes de la prestación de servicios: 46": {},
+    "Ingresos de actividades ordinarias procedentes de la prestación de servicios: 47": {},
+    "Ingresos de actividades ordinarias procedentes de la prestación de servicios: 48": {},
+    "Ingresos de actividades ordinarias procedentes de la prestación de servicios: 49": {},
+    "Ingresos de actividades ordinarias procedentes de la prestación de servicios: 50": {},
+    "Ingresos de actividades ordinarias procedentes de la prestación de servicios: 51": {},
+    "Ingresos de actividades ordinarias procedentes de la prestación de servicios: 52": {},
+    "Ingresos de actividades ordinarias procedentes de la prestación de servicios: 53": {},
+    "Ingresos de actividades ordinarias procedentes de la prestación de servicios: 54": {},
+    "Ingresos de actividades ordinarias procedentes de la prestación de servicios: 55": {},
+    "Ingresos de actividades ordinarias procedentes de la prestación de servicios: 56": {},
+    "Ingresos de actividades ordinarias procedentes de la prestación de servicios: 57": {},
+    "Ingresos de actividades ordinarias procedentes de la prestación de servicios: 58": {},
+    "Ingresos de actividades ordinarias procedentes de la prestación de servicios: 59": {},
+    "Ingresos de actividades ordinarias procedentes de la prestación de servicios: 60": {},
+    "Ingresos de actividades ordinarias procedentes de la prestación de servicios: 61": {},
+    "Ingresos de actividades ordinarias procedentes de la prestación de servicios: 62": {},
+    "Ingresos de actividades ordinarias procedentes de la prestación de servicios: 63": {},
+    "Ingresos de actividades ordinarias procedentes de la prestación de servicios: 64": {},
+    "Ingresos de actividades ordinarias procedentes de la prestación de servicios: 65": {},
+    "Ingresos de actividades ordinarias procedentes de la prestación de servicios: 66": {},
+    "Ingresos de actividades ordinarias procedentes de la prestación de servicios: 67": {},
+    "Ingresos de actividades ordinarias procedentes de la prestación de servicios: 68": {},
+    "Ingresos de actividades ordinarias procedentes de la prestación de servicios: 69": {},
+    "Ingresos de actividades ordinarias procedentes de la prestación de servicios: 70": {},
+    "Ingresos de actividades ordinarias procedentes de la prestación de servicios: 71": {},
+    "Ingresos de actividades ordinarias procedentes de la prestación de servicios: 72": {},
+    "Ingresos de actividades ordinarias procedentes de la prestación de servicios: 73": {},
+    "Ingresos de actividades ordinarias procedentes de la prestación de servicios: 74": {},
+    "Ingresos de actividades ordinarias procedentes de la prestación de servicios: 75": {},
+    "Ingresos de actividades ordinarias procedentes de la prestación de servicios: 76": {},
+    "Ingresos de actividades ordinarias procedentes de la prestación de servicios: 77": {},
+    "Ingresos de actividades ordinarias procedentes de la prestación de servicios: 78": {},
+    "Ingresos de actividades ordinarias procedentes de la prestación de servicios: 79": {},
+    "Ingresos de actividades ordinarias procedentes de la prestación de servicios: 80": {},
+    "Ingresos de actividades ordinarias procedentes de la prestación de servicios: 81": {},
+    "Ingresos de actividades ordinarias procedentes de la prestación de servicios: 82": {},
+    "Ingresos de actividades ordinarias procedentes de la prestación de servicios: 83": {},
+    "Ingresos de actividades ordinarias procedentes de la prestación de servicios: 84": {},
+    "Ingresos de actividades ordinarias procedentes de la prestación de servicios: 85": {},
+    "Ingresos de actividades ordinarias procedentes de la prestación de servicios: 86": {},
+    "Ingresos de actividades ordinarias procedentes de la prestación de servicios: 87": {},
+    "Ingresos de actividades ordinarias procedentes de la prestación de servicios: 88": {},
+    "Ingresos de actividades ordinarias procedentes de la prestación de servicios: 89": {},
+    "Ingresos de actividades ordinarias procedentes de la prestación de servicios: 90": {},
+    "Ingresos de actividades ordinarias procedentes de la prestación de servicios: 91": {},
+    "Ingresos de actividades ordinarias procedentes de la prestación de servicios: 92": {},
+    "Ingresos de actividades ordinarias procedentes de la prestación de servicios: 93": {},
+    "Ingresos de actividades ordinarias procedentes de la prestación de servicios: 94": {},
+    "Ingresos de actividades ordinarias procedentes de la prestación de servicios: 95": {},
+    "Ingresos de actividades ordinarias procedentes de la prestación de servicios: 96": {},
+    "Ingresos de actividades ordinarias procedentes de la prestación de servicios: 97": {},
+    "Ingresos de actividades ordinarias procedentes de la prestación de servicios: 98": {},
+    "Ingresos de actividades ordinarias procedentes de la prestación de servicios: 99": {},
+    "Ingresos de actividades ordinarias procedentes de la prestación de servicios: 100": {},
+    "Total de Ingresos de actividades ordinarias procedentes de la prestación de servicios": {
+      "Detalles sobre ingresos": {
+        "Saldo": 298639916
+      }
+    },
+    "Ingresos de actividades ordinarias procedentes de contratos de construcción": {},
+    "Ingresos de actividades ordinarias procedentes de contratos de construcción: 1": {},
+    "Ingresos de actividades ordinarias procedentes de contratos de construcción: 2": {},
+    "Ingresos de actividades ordinarias procedentes de contratos de construcción: 3": {},
+    "Ingresos de actividades ordinarias procedentes de contratos de construcción: 4": {},
+    "Ingresos de actividades ordinarias procedentes de contratos de construcción: 5": {},
+    "Ingresos de actividades ordinarias procedentes de contratos de construcción: 6": {},
+    "Ingresos de actividades ordinarias procedentes de contratos de construcción: 7": {},
+    "Ingresos de actividades ordinarias procedentes de contratos de construcción: 8": {},
+    "Ingresos de actividades ordinarias procedentes de contratos de construcción: 9": {},
+    "Ingresos de actividades ordinarias procedentes de contratos de construcción: 10": {},
+    "Ingresos de actividades ordinarias procedentes de contratos de construcción: 11": {},
+    "Ingresos de actividades ordinarias procedentes de contratos de construcción: 12": {},
+    "Ingresos de actividades ordinarias procedentes de contratos de construcción: 13": {},
+    "Ingresos de actividades ordinarias procedentes de contratos de construcción: 14": {},
+    "Ingresos de actividades ordinarias procedentes de contratos de construcción: 15": {},
+    "Ingresos de actividades ordinarias procedentes de contratos de construcción: 16": {},
+    "Ingresos de actividades ordinarias procedentes de contratos de construcción: 17": {},
+    "Ingresos de actividades ordinarias procedentes de contratos de construcción: 18": {},
+    "Ingresos de actividades ordinarias procedentes de contratos de construcción: 19": {},
+    "Ingresos de actividades ordinarias procedentes de contratos de construcción: 20": {},
+    "Ingresos de actividades ordinarias procedentes de contratos de construcción: 21": {},
+    "Ingresos de actividades ordinarias procedentes de contratos de construcción: 22": {},
+    "Ingresos de actividades ordinarias procedentes de contratos de construcción: 23": {},
+    "Ingresos de actividades ordinarias procedentes de contratos de construcción: 24": {},
+    "Ingresos de actividades ordinarias procedentes de contratos de construcción: 25": {},
+    "Ingresos de actividades ordinarias procedentes de contratos de construcción: 26": {},
+    "Ingresos de actividades ordinarias procedentes de contratos de construcción: 27": {},
+    "Ingresos de actividades ordinarias procedentes de contratos de construcción: 28": {},
+    "Ingresos de actividades ordinarias procedentes de contratos de construcción: 29": {},
+    "Ingresos de actividades ordinarias procedentes de contratos de construcción: 30": {},
+    "Ingresos de actividades ordinarias procedentes de contratos de construcción: 31": {},
+    "Ingresos de actividades ordinarias procedentes de contratos de construcción: 32": {},
+    "Ingresos de actividades ordinarias procedentes de contratos de construcción: 33": {},
+    "Ingresos de actividades ordinarias procedentes de contratos de construcción: 34": {},
+    "Ingresos de actividades ordinarias procedentes de contratos de construcción: 35": {},
+    "Ingresos de actividades ordinarias procedentes de contratos de construcción: 36": {},
+    "Ingresos de actividades ordinarias procedentes de contratos de construcción: 37": {},
+    "Ingresos de actividades ordinarias procedentes de contratos de construcción: 38": {},
+    "Ingresos de actividades ordinarias procedentes de contratos de construcción: 39": {},
+    "Ingresos de actividades ordinarias procedentes de contratos de construcción: 40": {},
+    "Ingresos de actividades ordinarias procedentes de contratos de construcción: 41": {},
+    "Ingresos de actividades ordinarias procedentes de contratos de construcción: 42": {},
+    "Ingresos de actividades ordinarias procedentes de contratos de construcción: 43": {},
+    "Ingresos de actividades ordinarias procedentes de contratos de construcción: 44": {},
+    "Ingresos de actividades ordinarias procedentes de contratos de construcción: 45": {},
+    "Ingresos de actividades ordinarias procedentes de contratos de construcción: 46": {},
+    "Ingresos de actividades ordinarias procedentes de contratos de construcción: 47": {},
+    "Ingresos de actividades ordinarias procedentes de contratos de construcción: 48": {},
+    "Ingresos de actividades ordinarias procedentes de contratos de construcción: 49": {},
+    "Ingresos de actividades ordinarias procedentes de contratos de construcción: 50": {},
+    "Ingresos de actividades ordinarias procedentes de contratos de construcción: 51": {},
+    "Ingresos de actividades ordinarias procedentes de contratos de construcción: 52": {},
+    "Ingresos de actividades ordinarias procedentes de contratos de construcción: 53": {},
+    "Ingresos de actividades ordinarias procedentes de contratos de construcción: 54": {},
+    "Ingresos de actividades ordinarias procedentes de contratos de construcción: 55": {},
+    "Ingresos de actividades ordinarias procedentes de contratos de construcción: 56": {},
+    "Ingresos de actividades ordinarias procedentes de contratos de construcción: 57": {},
+    "Ingresos de actividades ordinarias procedentes de contratos de construcción: 58": {},
+    "Ingresos de actividades ordinarias procedentes de contratos de construcción: 59": {},
+    "Ingresos de actividades ordinarias procedentes de contratos de construcción: 60": {},
+    "Ingresos de actividades ordinarias procedentes de contratos de construcción: 61": {},
+    "Ingresos de actividades ordinarias procedentes de contratos de construcción: 62": {},
+    "Ingresos de actividades ordinarias procedentes de contratos de construcción: 63": {},
+    "Ingresos de actividades ordinarias procedentes de contratos de construcción: 64": {},
+    "Ingresos de actividades ordinarias procedentes de contratos de construcción: 65": {},
+    "Ingresos de actividades ordinarias procedentes de contratos de construcción: 66": {},
+    "Ingresos de actividades ordinarias procedentes de contratos de construcción: 67": {},
+    "Ingresos de actividades ordinarias procedentes de contratos de construcción: 68": {},
+    "Ingresos de actividades ordinarias procedentes de contratos de construcción: 69": {},
+    "Ingresos de actividades ordinarias procedentes de contratos de construcción: 70": {},
+    "Ingresos de actividades ordinarias procedentes de contratos de construcción: 71": {},
+    "Ingresos de actividades ordinarias procedentes de contratos de construcción: 72": {},
+    "Ingresos de actividades ordinarias procedentes de contratos de construcción: 73": {},
+    "Ingresos de actividades ordinarias procedentes de contratos de construcción: 74": {},
+    "Ingresos de actividades ordinarias procedentes de contratos de construcción: 75": {},
+    "Ingresos de actividades ordinarias procedentes de contratos de construcción: 76": {},
+    "Ingresos de actividades ordinarias procedentes de contratos de construcción: 77": {},
+    "Ingresos de actividades ordinarias procedentes de contratos de construcción: 78": {},
+    "Ingresos de actividades ordinarias procedentes de contratos de construcción: 79": {},
+    "Ingresos de actividades ordinarias procedentes de contratos de construcción: 80": {},
+    "Ingresos de actividades ordinarias procedentes de contratos de construcción: 81": {},
+    "Ingresos de actividades ordinarias procedentes de contratos de construcción: 82": {},
+    "Ingresos de actividades ordinarias procedentes de contratos de construcción: 83": {},
+    "Ingresos de actividades ordinarias procedentes de contratos de construcción: 84": {},
+    "Ingresos de actividades ordinarias procedentes de contratos de construcción: 85": {},
+    "Ingresos de actividades ordinarias procedentes de contratos de construcción: 86": {},
+    "Ingresos de actividades ordinarias procedentes de contratos de construcción: 87": {},
+    "Ingresos de actividades ordinarias procedentes de contratos de construcción: 88": {},
+    "Ingresos de actividades ordinarias procedentes de contratos de construcción: 89": {},
+    "Ingresos de actividades ordinarias procedentes de contratos de construcción: 90": {},
+    "Ingresos de actividades ordinarias procedentes de contratos de construcción: 91": {},
+    "Ingresos de actividades ordinarias procedentes de contratos de construcción: 92": {},
+    "Ingresos de actividades ordinarias procedentes de contratos de construcción: 93": {},
+    "Ingresos de actividades ordinarias procedentes de contratos de construcción: 94": {},
+    "Ingresos de actividades ordinarias procedentes de contratos de construcción: 95": {},
+    "Ingresos de actividades ordinarias procedentes de contratos de construcción: 96": {},
+    "Ingresos de actividades ordinarias procedentes de contratos de construcción: 97": {},
+    "Ingresos de actividades ordinarias procedentes de contratos de construcción: 98": {},
+    "Ingresos de actividades ordinarias procedentes de contratos de construcción: 99": {},
+    "Ingresos de actividades ordinarias procedentes de contratos de construcción: 100": {},
+    "Total de Ingresos de actividades ordinarias procedentes de contratos de construcción": {},
+    "Ingresos de actividades ordinarias procedentes de dividendos": {},
+    "Ingresos de actividades ordinarias procedentes de dividendos: 1": {},
+    "Ingresos de actividades ordinarias procedentes de dividendos: 2": {},
+    "Ingresos de actividades ordinarias procedentes de dividendos: 3": {},
+    "Ingresos de actividades ordinarias procedentes de dividendos: 4": {},
+    "Ingresos de actividades ordinarias procedentes de dividendos: 5": {},
+    "Ingresos de actividades ordinarias procedentes de dividendos: 6": {},
+    "Ingresos de actividades ordinarias procedentes de dividendos: 7": {},
+    "Ingresos de actividades ordinarias procedentes de dividendos: 8": {},
+    "Ingresos de actividades ordinarias procedentes de dividendos: 9": {},
+    "Ingresos de actividades ordinarias procedentes de dividendos: 10": {},
+    "Ingresos de actividades ordinarias procedentes de dividendos: 11": {},
+    "Ingresos de actividades ordinarias procedentes de dividendos: 12": {},
+    "Ingresos de actividades ordinarias procedentes de dividendos: 13": {},
+    "Ingresos de actividades ordinarias procedentes de dividendos: 14": {},
+    "Ingresos de actividades ordinarias procedentes de dividendos: 15": {},
+    "Ingresos de actividades ordinarias procedentes de dividendos: 16": {},
+    "Ingresos de actividades ordinarias procedentes de dividendos: 17": {},
+    "Ingresos de actividades ordinarias procedentes de dividendos: 18": {},
+    "Ingresos de actividades ordinarias procedentes de dividendos: 19": {},
+    "Ingresos de actividades ordinarias procedentes de dividendos: 20": {},
+    "Ingresos de actividades ordinarias procedentes de dividendos: 21": {},
+    "Ingresos de actividades ordinarias procedentes de dividendos: 22": {},
+    "Ingresos de actividades ordinarias procedentes de dividendos: 23": {},
+    "Ingresos de actividades ordinarias procedentes de dividendos: 24": {},
+    "Ingresos de actividades ordinarias procedentes de dividendos: 25": {},
+    "Ingresos de actividades ordinarias procedentes de dividendos: 26": {},
+    "Ingresos de actividades ordinarias procedentes de dividendos: 27": {},
+    "Ingresos de actividades ordinarias procedentes de dividendos: 28": {},
+    "Ingresos de actividades ordinarias procedentes de dividendos: 29": {},
+    "Ingresos de actividades ordinarias procedentes de dividendos: 30": {},
+    "Ingresos de actividades ordinarias procedentes de dividendos: 31": {},
+    "Ingresos de actividades ordinarias procedentes de dividendos: 32": {},
+    "Ingresos de actividades ordinarias procedentes de dividendos: 33": {},
+    "Ingresos de actividades ordinarias procedentes de dividendos: 34": {},
+    "Ingresos de actividades ordinarias procedentes de dividendos: 35": {},
+    "Ingresos de actividades ordinarias procedentes de dividendos: 36": {},
+    "Ingresos de actividades ordinarias procedentes de dividendos: 37": {},
+    "Ingresos de actividades ordinarias procedentes de dividendos: 38": {},
+    "Ingresos de actividades ordinarias procedentes de dividendos: 39": {},
+    "Ingresos de actividades ordinarias procedentes de dividendos: 40": {},
+    "Ingresos de actividades ordinarias procedentes de dividendos: 41": {},
+    "Ingresos de actividades ordinarias procedentes de dividendos: 42": {},
+    "Ingresos de actividades ordinarias procedentes de dividendos: 43": {},
+    "Ingresos de actividades ordinarias procedentes de dividendos: 44": {},
+    "Ingresos de actividades ordinarias procedentes de dividendos: 45": {},
+    "Ingresos de actividades ordinarias procedentes de dividendos: 46": {},
+    "Ingresos de actividades ordinarias procedentes de dividendos: 47": {},
+    "Ingresos de actividades ordinarias procedentes de dividendos: 48": {},
+    "Ingresos de actividades ordinarias procedentes de dividendos: 49": {},
+    "Ingresos de actividades ordinarias procedentes de dividendos: 50": {},
+    "Ingresos de actividades ordinarias procedentes de dividendos: 51": {},
+    "Ingresos de actividades ordinarias procedentes de dividendos: 52": {},
+    "Ingresos de actividades ordinarias procedentes de dividendos: 53": {},
+    "Ingresos de actividades ordinarias procedentes de dividendos: 54": {},
+    "Ingresos de actividades ordinarias procedentes de dividendos: 55": {},
+    "Ingresos de actividades ordinarias procedentes de dividendos: 56": {},
+    "Ingresos de actividades ordinarias procedentes de dividendos: 57": {},
+    "Ingresos de actividades ordinarias procedentes de dividendos: 58": {},
+    "Ingresos de actividades ordinarias procedentes de dividendos: 59": {},
+    "Ingresos de actividades ordinarias procedentes de dividendos: 60": {},
+    "Ingresos de actividades ordinarias procedentes de dividendos: 61": {},
+    "Ingresos de actividades ordinarias procedentes de dividendos: 62": {},
+    "Ingresos de actividades ordinarias procedentes de dividendos: 63": {},
+    "Ingresos de actividades ordinarias procedentes de dividendos: 64": {},
+    "Ingresos de actividades ordinarias procedentes de dividendos: 65": {},
+    "Ingresos de actividades ordinarias procedentes de dividendos: 66": {},
+    "Ingresos de actividades ordinarias procedentes de dividendos: 67": {},
+    "Ingresos de actividades ordinarias procedentes de dividendos: 68": {},
+    "Ingresos de actividades ordinarias procedentes de dividendos: 69": {},
+    "Ingresos de actividades ordinarias procedentes de dividendos: 70": {},
+    "Ingresos de actividades ordinarias procedentes de dividendos: 71": {},
+    "Ingresos de actividades ordinarias procedentes de dividendos: 72": {},
+    "Ingresos de actividades ordinarias procedentes de dividendos: 73": {},
+    "Ingresos de actividades ordinarias procedentes de dividendos: 74": {},
+    "Ingresos de actividades ordinarias procedentes de dividendos: 75": {},
+    "Ingresos de actividades ordinarias procedentes de dividendos: 76": {},
+    "Ingresos de actividades ordinarias procedentes de dividendos: 77": {},
+    "Ingresos de actividades ordinarias procedentes de dividendos: 78": {},
+    "Ingresos de actividades ordinarias procedentes de dividendos: 79": {},
+    "Ingresos de actividades ordinarias procedentes de dividendos: 80": {},
+    "Ingresos de actividades ordinarias procedentes de dividendos: 81": {},
+    "Ingresos de actividades ordinarias procedentes de dividendos: 82": {},
+    "Ingresos de actividades ordinarias procedentes de dividendos: 83": {},
+    "Ingresos de actividades ordinarias procedentes de dividendos: 84": {},
+    "Ingresos de actividades ordinarias procedentes de dividendos: 85": {},
+    "Ingresos de actividades ordinarias procedentes de dividendos: 86": {},
+    "Ingresos de actividades ordinarias procedentes de dividendos: 87": {},
+    "Ingresos de actividades ordinarias procedentes de dividendos: 88": {},
+    "Ingresos de actividades ordinarias procedentes de dividendos: 89": {},
+    "Ingresos de actividades ordinarias procedentes de dividendos: 90": {},
+    "Ingresos de actividades ordinarias procedentes de dividendos: 91": {},
+    "Ingresos de actividades ordinarias procedentes de dividendos: 92": {},
+    "Ingresos de actividades ordinarias procedentes de dividendos: 93": {},
+    "Ingresos de actividades ordinarias procedentes de dividendos: 94": {},
+    "Ingresos de actividades ordinarias procedentes de dividendos: 95": {},
+    "Ingresos de actividades ordinarias procedentes de dividendos: 96": {},
+    "Ingresos de actividades ordinarias procedentes de dividendos: 97": {},
+    "Ingresos de actividades ordinarias procedentes de dividendos: 98": {},
+    "Ingresos de actividades ordinarias procedentes de dividendos: 99": {},
+    "Ingresos de actividades ordinarias procedentes de dividendos: 100": {},
+    "Total de Ingresos de actividades ordinarias procedentes de dividendos": {},
+    "Total de Ingresos de actividades ordinarias": {
+      "Detalles sobre ingresos": {
+        "Saldo": 2846700531
+      }
+    }
+  },
+  "890903939_2024-12-31_Notas_Analisis_de_otras_ganancias_perdidas_y_otros_gastos_traduccion_flattened": {
+    "Análisis de Gastos [sinopsis]": {
+      "Ganancias [sinopsis]": {
+        "Ganancias por la disposicion de activos": {
+          "Periodo Actual": 9358155
+        },
+        "Otras ganancias": {
+          "Periodo Actual": 11614280
+        },
+        "Total ganancias": {
+          "Periodo Actual": 20972435
+        }
+      },
+      "Pérdidas [sinopsis]": {
+        "Total ganancias": {},
+        "Pérdidas por disposición de activos": {
+          "Periodo Actual": 4086
+        },
+        "Otras pérdidas": {
+          "Periodo Actual": 31254126
+        },
+        "Total pérdidas": {
+          "Periodo Actual": 31258212
+        }
+      },
+      "Otras ganancias (pérdidas)": {
+        "Total pérdidas": {
+          "Periodo Actual": -10285777
+        }
+      },
+      "Participación en las Ganancias (pérdidas) por la aplicación del método de participación [sinopsis]": {
+        "Total pérdidas": {},
+        "Participación en las ganancias por la aplicación del método de participación": {
+          "Periodo Actual": 900712
+        },
+        "Participación en las perdidas por la aplicación del método de participación": {
+          "Periodo Actual": 20167711
+        }
+      },
+      "Participación en las ganancias (pérdidas) de Subsidiarias, asociadas y negocios conjuntos que se contabilicen utilizando el método de la participación": {
+        "Participación en las perdidas por la aplicación del método de participación": {
+          "Periodo Actual": -19266999
+        }
+      },
+      "Clases de gasto de beneficios a los empleados": {
+        "Participación en las perdidas por la aplicación del método de participación": {},
+        "Sueldos y salarios": {},
+        "Aportaciones a la seguridad social": {},
+        "Otros beneficios a los empleados a corto plazo": {},
+        "Gastos por beneficios post-empleo, planes de aportaciones definidas": {},
+        "Gastos por beneficios post-empleo, planes de beneficios definidos": {},
+        "Gastos por beneficios de terminación": {},
+        "Otros beneficios a los empleados a largo plazo": {},
+        "Otros gastos de personal": {},
+        "Total de gastos por beneficios a los empleados": {}
+      }
+    }
+  },
+  "890903939_2024-12-31_Notas_Arrendamientos_traduccion_flattened": {
+    "Información cuantitativa a revelar sobre activos por derecho de uso [resumen]": {
+      "Depreciación, activos por derecho de uso": {
+        "Activos [miembro]": {
+          "Propiedades, planta y equipo [miembro]": {
+            "Terrenos y construcciones [miembro]": {
+              "Edificios [miembro]": 7714331,
+              "Edificios [miembro]__2": 7714331
+            },
+            "Maquinaria [miembro]": {
+              "Edificios [miembro]": 973408
+            },
+            "Vehículos [miembro]": {
+              "Equipos de Transporte [miembro]": 1642412,
+              "Equipos de Transporte [miembro]__2": 1642412
+            },
+            "Otras propiedades, planta y equipo [miembro]": {
+              "Equipos de Transporte [miembro]__2": 10330151
+            }
+          }
+        }
+      },
+      "Valor en libros al final del ejercicio Activos por derecho de uso": {},
+      "Activos por derecho de uso: Activos revaluados, al costo": {
+        "Activos [miembro]": {
+          "Propiedades, planta y equipo [miembro]": {
+            "Terrenos y construcciones [miembro]": {
+              "Edificios [miembro]": 25624723,
+              "Edificios [miembro]__2": 25624723
+            },
+            "Maquinaria [miembro]": {
+              "Edificios [miembro]": 1973615
+            },
+            "Vehículos [miembro]": {
+              "Equipos de Transporte [miembro]": 7476855,
+              "Equipos de Transporte [miembro]__2": 7476855
+            },
+            "Otras propiedades, planta y equipo [miembro]": {
+              "Equipos de Transporte [miembro]__2": 35075193
+            }
+          }
+        }
+      },
+      "Activos por derecho de uso: Superávit de revaluación": {},
+      "Activos por derecho de uso: Incremento (disminución) en el superávit de revaluación": {},
+      "Gasto por intereses por los pasivos por arrendamiento": {
+        "Activos [miembro]": {
+          "Propiedades, planta y equipo [miembro]": {
+            "Terrenos y construcciones [miembro]": {
+              "Edificios [miembro]": 2476856,
+              "Edificios [miembro]__2": 2476856
+            },
+            "Maquinaria [miembro]": {
+              "Edificios [miembro]": 140393
+            },
+            "Vehículos [miembro]": {
+              "Equipos de Transporte [miembro]": 663175,
+              "Equipos de Transporte [miembro]__2": 663175
+            },
+            "Equipos informáticos [miembro]": {
+              "Equipos de Transporte [miembro]": 142357
+            },
+            "Otras propiedades, planta y equipo [miembro]": {
+              "Equipos de Transporte [miembro]__2": 3422781
+            }
+          }
+        }
+      },
+      "Gastos relacionados con arrendamientos a corto plazo para los cuales se ha usado la exención de reconocimiento": {},
+      "Gastos relacionados con arrendamientos de activos de bajo valor para los cuales se ha usado la exención de reconocimiento": {},
+      "Ingresos por subarrendamiento de activos por derecho de uso": {}
+    }
+  },
+  "890903939_2024-12-31_Notas_Cuentas_comerciales_por_cobrar_y_otras_cuentas_por_cobrar_traduccion_flattened": {
+    "Cuentas comerciales por cobrar y otras cuentas por cobrar": {
+      "Cuentas comerciales por cobrar y otras cuentas por cobrar corrientes": {
+        "Cuentas comerciales por cobrar": {
+          "Cuentas comerciales por cobrar que no están en mora ni deterioradas de valor": {
+            "Cuentas comerciales por cobrar y otras cuentas por cobrar [resumen]": {
+              "Nacional o del exterior [miembro]": {
+                "Nacionales [miembro]": 691753308,
+                "En el exterior [miembro]": 34909064,
+                "Total saldo del ejercicio [miembro]": 726662372
+              },
+              "Bandas de tiempo acumuladas [miembro]": {
+                "Valor no vencidas [miembro]": 726662372
+              }
+            }
+          },
+          "Cuentas comerciales por cobrar en mora pero no deterioradas de valor": {
+            "Cuentas comerciales por cobrar y otras cuentas por cobrar [resumen]": {
+              "Nacional o del exterior [miembro]": {
+                "Nacionales [miembro]": 17926928,
+                "Total saldo del ejercicio [miembro]": 17926928
+              },
+              "Bandas de tiempo acumuladas [miembro]": {
+                "Valor vencidas de 1 a 90 días [miembro]": 13977858,
+                "Valor vencidas de 91 a 180 días [miembro]": 470645,
+                "Valor vencidas de 181 a 360 días  [miembro]": 104224,
+                "Valor vencidas de mas de 360 días [miembro]": 3374201,
+                "Total cuentas por cobrar vencidas [miembro]": 17926928
+              }
+            }
+          },
+          "Cuentas comerciales por cobrar deterioradas de valor": {
+            "Cuentas comerciales por cobrar y otras cuentas por cobrar [resumen]": {
+              "Nacional o del exterior [miembro]": {
+                "Nacionales [miembro]": 21733251,
+                "Total saldo del ejercicio [miembro]": 21733251
+              },
+              "Bandas de tiempo acumuladas [miembro]": {
+                "Valor vencidas de mas de 360 días [miembro]": 21733251,
+                "Total cuentas por cobrar vencidas [miembro]": 21733251
+              }
+            }
+          },
+          "Deterioro (menor valor)": {
+            "Cuentas comerciales por cobrar y otras cuentas por cobrar [resumen]": {
+              "Nacional o del exterior [miembro]": {
+                "Nacionales [miembro]": 21733251,
+                "Total saldo del ejercicio [miembro]": 21733251
+              },
+              "Bandas de tiempo acumuladas [miembro]": {
+                "Valor vencidas de mas de 360 días [miembro]": 21733251,
+                "Total cuentas por cobrar vencidas [miembro]": 21733251
+              }
+            }
+          },
+          "Total cuentas comerciales por cobrar corrientes": {
+            "Cuentas comerciales por cobrar y otras cuentas por cobrar [resumen]": {
+              "Nacional o del exterior [miembro]": {
+                "Nacionales [miembro]": 709680236,
+                "En el exterior [miembro]": 34909064,
+                "Total saldo del ejercicio [miembro]": 744589300
+              },
+              "Bandas de tiempo acumuladas [miembro]": {
+                "Valor no vencidas [miembro]": 726662372,
+                "Valor vencidas de 1 a 90 días [miembro]": 13977858,
+                "Valor vencidas de 91 a 180 días [miembro]": 470645,
+                "Valor vencidas de 181 a 360 días  [miembro]": 104224,
+                "Valor vencidas de mas de 360 días [miembro]": 3374201,
+                "Total cuentas por cobrar vencidas [miembro]": 17926928
+              }
+            }
+          }
+        },
+        "Otras cuentas por cobrar": {
+          "Total cuentas comerciales por cobrar corrientes": {},
+          "Otras cuentas por cobrar que no están en mora ni deterioradas de valor": {
+            "Cuentas comerciales por cobrar y otras cuentas por cobrar [resumen]": {
+              "Nacional o del exterior [miembro]": {
+                "Nacionales [miembro]": 27434917,
+                "Total saldo del ejercicio [miembro]": 27434917
+              },
+              "Bandas de tiempo acumuladas [miembro]": {
+                "Valor no vencidas [miembro]": 27434917
+              }
+            }
+          },
+          "Otras cuentas por cobrar en mora pero no deterioradas de valor": {},
+          "Otras cuentas por cobrar deterioradas de valor": {},
+          "Deterioro (menor valor)": {},
+          "Total otras cuentas por cobrar corrientes": {
+            "Cuentas comerciales por cobrar y otras cuentas por cobrar [resumen]": {
+              "Nacional o del exterior [miembro]": {
+                "Nacionales [miembro]": 27434917,
+                "Total saldo del ejercicio [miembro]": 27434917
+              },
+              "Bandas de tiempo acumuladas [miembro]": {
+                "Valor no vencidas [miembro]": 27434917
+              }
+            }
+          }
+        },
+        "Total cuentas por cobrar y otras cuentas por cobrar corrientes": {
+          "Total otras cuentas por cobrar corrientes": {
+            "Cuentas comerciales por cobrar y otras cuentas por cobrar [resumen]": {
+              "Nacional o del exterior [miembro]": {
+                "Nacionales [miembro]": 737115153,
+                "En el exterior [miembro]": 34909064,
+                "Total saldo del ejercicio [miembro]": 772024217
+              },
+              "Bandas de tiempo acumuladas [miembro]": {
+                "Valor vencidas de 1 a 90 días [miembro]": 13977858,
+                "Valor vencidas de 91 a 180 días [miembro]": 470645,
+                "Valor vencidas de 181 a 360 días  [miembro]": 104224,
+                "Valor vencidas de mas de 360 días [miembro]": 3374201,
+                "Total cuentas por cobrar vencidas [miembro]": 17926928
+              }
+            }
+          }
+        },
+        "Número de cuentas por cobrar corrientes vencidas": {
+          "Total otras cuentas por cobrar corrientes": {
+            "Cuentas comerciales por cobrar y otras cuentas por cobrar [resumen]": {
+              "Bandas de tiempo acumuladas [miembro]": {
+                "Valor vencidas de 1 a 90 días [miembro]": 862,
+                "Valor vencidas de 91 a 180 días [miembro]": 214,
+                "Valor vencidas de 181 a 360 días  [miembro]": 394,
+                "Valor vencidas de mas de 360 días [miembro]": 232,
+                "Total cuentas por cobrar vencidas [miembro]": 1702
+              }
+            }
+          }
+        }
+      },
+      "Cuentas comerciales por cobrar y otras cuentas por cobrar no corrientes": {
+        "Número de cuentas por cobrar corrientes vencidas": {
+          "Total otras cuentas por cobrar corrientes": {}
+        },
+        "Cuentas comerciales por cobrar": {
+          "Total otras cuentas por cobrar corrientes": {},
+          "Cuentas comerciales por cobrar que no están en mora ni deterioradas de valor": {
+            "Cuentas comerciales por cobrar y otras cuentas por cobrar [resumen]": {
+              "Nacional o del exterior [miembro]": {
+                "Nacionales [miembro]": 181997451,
+                "Total saldo del ejercicio [miembro]": 181997451
+              },
+              "Bandas de tiempo acumuladas [miembro]": {
+                "Valor no vencidas [miembro]": 181997451
+              }
+            }
+          },
+          "Cuentas comerciales por cobrar en mora pero no deterioradas de valor": {},
+          "Cuentas comerciales por cobrar deterioradas de valor": {
+            "Cuentas comerciales por cobrar y otras cuentas por cobrar [resumen]": {
+              "Nacional o del exterior [miembro]": {
+                "Nacionales [miembro]": 2367595,
+                "Total saldo del ejercicio [miembro]": 2367595
+              },
+              "Bandas de tiempo acumuladas [miembro]": {
+                "Valor vencidas de mas de 360 días [miembro]": 2367595,
+                "Total cuentas por cobrar vencidas [miembro]": 2367595
+              }
+            }
+          },
+          "Deterioro (menor valor)": {
+            "Cuentas comerciales por cobrar y otras cuentas por cobrar [resumen]": {
+              "Nacional o del exterior [miembro]": {
+                "Nacionales [miembro]": 2367595,
+                "Total saldo del ejercicio [miembro]": 2367595
+              },
+              "Bandas de tiempo acumuladas [miembro]": {
+                "Valor vencidas de mas de 360 días [miembro]": 2367595,
+                "Total cuentas por cobrar vencidas [miembro]": 2367595
+              }
+            }
+          },
+          "Total cuentas comerciales por cobrar no corrientes": {
+            "Cuentas comerciales por cobrar y otras cuentas por cobrar [resumen]": {
+              "Nacional o del exterior [miembro]": {
+                "Nacionales [miembro]": 181997451,
+                "Total saldo del ejercicio [miembro]": 181997451
+              },
+              "Bandas de tiempo acumuladas [miembro]": {
+                "Valor no vencidas [miembro]": 181997451,
+                "Valor vencidas de mas de 360 días [miembro]": 0,
+                "Total cuentas por cobrar vencidas [miembro]": 0
+              }
+            }
+          }
+        },
+        "Otras cuentas por cobrar": {
+          "Total cuentas comerciales por cobrar no corrientes": {},
+          "Otras cuentas por cobrar que no están en mora ni deterioradas de valor": {
+            "Cuentas comerciales por cobrar y otras cuentas por cobrar [resumen]": {
+              "Nacional o del exterior [miembro]": {
+                "Nacionales [miembro]": 658556,
+                "Total saldo del ejercicio [miembro]": 658556
+              },
+              "Bandas de tiempo acumuladas [miembro]": {
+                "Valor no vencidas [miembro]": 658556
+              }
+            }
+          },
+          "Otras cuentas por cobrar en mora pero no deterioradas de valor": {},
+          "Otras cuentas por cobrar deterioradas de valor": {},
+          "Deterioro (menor valor)": {},
+          "Total otras cuentas por cobrar no corrientes": {
+            "Cuentas comerciales por cobrar y otras cuentas por cobrar [resumen]": {
+              "Nacional o del exterior [miembro]": {
+                "Nacionales [miembro]": 658556,
+                "Total saldo del ejercicio [miembro]": 658556
+              },
+              "Bandas de tiempo acumuladas [miembro]": {
+                "Valor no vencidas [miembro]": 658556
+              }
+            }
+          }
+        },
+        "Total cuentas por cobrar y otras cuentas por cobrar no corrientes": {
+          "Total otras cuentas por cobrar no corrientes": {
+            "Cuentas comerciales por cobrar y otras cuentas por cobrar [resumen]": {
+              "Nacional o del exterior [miembro]": {
+                "Nacionales [miembro]": 182656007,
+                "Total saldo del ejercicio [miembro]": 182656007
+              },
+              "Bandas de tiempo acumuladas [miembro]": {
+                "Valor vencidas de mas de 360 días [miembro]": 0,
+                "Total cuentas por cobrar vencidas [miembro]": 0
+              }
+            }
+          }
+        },
+        "Número de cuentas por cobrar no corrientes vencidas": {
+          "Total otras cuentas por cobrar no corrientes": {}
+        }
+      }
+    }
+  },
+  "890903939_2024-12-31_Notas_Cuentas_comerciales_por_pagar_otras_cuentas_por_pagar_y_otros_pasivos_financieros_traduccion_flattened": {
+    "Cuentas comerciales por pagar, otras cuentas por pagar y otros pasivos": {
+      "Cuentas comerciales por pagar, otras cuentas por pagar y otros pasivos corrientes": {
+        "Cuentas comerciales por pagar corrientes": {
+          "Cuentas comerciales por pagar y otros pasivos financieros [resumen]": {
+            "Nacional o del exterior [miembro]": {
+              "Nacionales [miembro]": 518601419,
+              "En el exterior [miembro]": 113063413,
+              "Total saldo del ejercicio [miembro]": 631664832
+            },
+            "Bandas de tiempo acumuladas [miembro]": {
+              "Valor obligaciones no vencidas [miembro]": 631664832
+            }
+          }
+        },
+        "Otras cuentas por pagar corrientes": {
+          "Cuentas comerciales por pagar y otros pasivos financieros [resumen]": {
+            "Nacional o del exterior [miembro]": {
+              "Nacionales [miembro]": 0,
+              "Total saldo del ejercicio [miembro]": 0
+            }
+          }
+        },
+        "Total cuentas comerciales por pagar y otras cuentas por pagar corrientes": {
+          "Cuentas comerciales por pagar y otros pasivos financieros [resumen]": {
+            "Nacional o del exterior [miembro]": {
+              "Nacionales [miembro]": 518601419,
+              "En el exterior [miembro]": 113063413,
+              "Total saldo del ejercicio [miembro]": 631664832
+            },
+            "Bandas de tiempo acumuladas [miembro]": {
+              "Valor obligaciones no vencidas [miembro]": 631664832
+            }
+          }
+        },
+        "Otros pasivos financieros corrientes": {
+          "Cuentas comerciales por pagar y otros pasivos financieros [resumen]": {
+            "Nacional o del exterior [miembro]": {
+              "Nacionales [miembro]": 549100469,
+              "Total saldo del ejercicio [miembro]": 549100469
+            },
+            "Bandas de tiempo acumuladas [miembro]": {
+              "Valor obligaciones no vencidas [miembro]": 549100469
+            }
+          }
+        },
+        "Total cuentas comerciales por pagar, otras cuentas por pagar y otros pasivos corrientes": {
+          "Cuentas comerciales por pagar y otros pasivos financieros [resumen]": {
+            "Nacional o del exterior [miembro]": {
+              "Nacionales [miembro]": 1067701888,
+              "En el exterior [miembro]": 113063413,
+              "Total saldo del ejercicio [miembro]": 1180765301
+            },
+            "Bandas de tiempo acumuladas [miembro]": {
+              "Valor obligaciones no vencidas [miembro]": 1180765301
+            }
+          }
+        },
+        "Valor otras obligaciones vencidas corrientes": {},
+        "Número de oblicaciones vencidas corrientes": {}
+      },
+      "Cuentas comerciales por pagar, otras cuentas por pagar y otros pasivos NO corrientes": {
+        "Número de oblicaciones vencidas corrientes": {},
+        "Cuentas comerciales por pagar NO corrientes": {},
+        "Otras cuentas por pagar NO corrientes": {},
+        "Total cuentas comerciales por pagar y otras cuentas por pagar NO corrientes": {},
+        "Otros pasivos financieros NO corrientes": {
+          "Cuentas comerciales por pagar y otros pasivos financieros [resumen]": {
+            "Nacional o del exterior [miembro]": {
+              "Nacionales [miembro]": 284168112,
+              "Total saldo del ejercicio [miembro]": 284168112
+            },
+            "Bandas de tiempo acumuladas [miembro]": {
+              "Valor obligaciones no vencidas [miembro]": 284168112
+            }
+          }
+        },
+        "Total cuentas comerciales por pagar, otras cuentas por pagar y otros pasivos NO corrientes": {
+          "Cuentas comerciales por pagar y otros pasivos financieros [resumen]": {
+            "Nacional o del exterior [miembro]": {
+              "Nacionales [miembro]": 284168112,
+              "Total saldo del ejercicio [miembro]": 284168112
+            },
+            "Bandas de tiempo acumuladas [miembro]": {
+              "Valor obligaciones no vencidas [miembro]": 284168112
+            }
+          }
+        },
+        "Valor otras obligaciones vencidas NO corrientes": {},
+        "Número de obligaciones vencidas NO corrientes": {}
+      }
+    }
+  },
+  "890903939_2024-12-31_Notas_Informacion_a_revelar_sobre_asociadas_traduccion_flattened": {
+    "Fila Asociada [Eje]": {},
+    "Fila Asociada [Eje]: 1": {
+      "Información a revelar sobre asociadas [resumen]": {
+        "Información a revelar sobre asociadas [partidas de los estados financieros]": {
+          "Nombre de la asociada": "NUCLEOS E INVERSIONES FORESTALES DE COLOMBIA SA",
+          "NIT de la Asociada": 811016049,
+          "Domicilio principal de la asociada": "MEDELLIN",
+          "País donde está constituida la asociada": "169 - COLOMBIA",
+          "Porcentaje de participación en asociadas": 0,
+          "Porcentaje de derechos de voto mantenidos en asociadas": 0,
+          "Dividendos recibidos de la asociada": 0,
+          "Activos de la asociada": 39799289,
+          "Pasivos de la asociada": 32817630,
+          "Patrimonio de la asociada": 6981659,
+          "Otro resultado integral de la asociada": 0,
+          "Resultado Integral de la asociada": 2714875,
+          "Valor razonable de inversiones en asociadas para las que existen precios de mercado cotizados": 0,
+          "Inversiones contabilizadas utilizando el método de la participación de la asociada": 2124,
+          "Participación en otro resultado integral de asociadas y negocios conjuntos que se contabilicen utilizando el método de la participación, neto de impuestos": 544,
+          "Participación en el resultado integral total de asociadas y negocios conjuntos contabilizados utilizando el método de la participación": 69
+        }
+      }
+    },
+    "Fila Asociada [Eje]: 2": {
+      "Información a revelar sobre asociadas [resumen]": {
+        "Información a revelar sobre asociadas [partidas de los estados financieros]": {
+          "Nombre de la asociada": "CIPRESES DE COLOMBIA S.A.",
+          "NIT de la Asociada": 890903541,
+          "Domicilio principal de la asociada": "MEDELLIN",
+          "País donde está constituida la asociada": "169 - COLOMBIA",
+          "Porcentaje de participación en asociadas": 0,
+          "Porcentaje de derechos de voto mantenidos en asociadas": 0,
+          "Dividendos recibidos de la asociada": 0,
+          "Activos de la asociada": 182154614,
+          "Pasivos de la asociada": 15767616,
+          "Patrimonio de la asociada": 166386998,
+          "Otro resultado integral de la asociada": 10185799,
+          "Resultado Integral de la asociada": 17181006,
+          "Valor razonable de inversiones en asociadas para las que existen precios de mercado cotizados": 0,
+          "Inversiones contabilizadas utilizando el método de la participación de la asociada": 12159274,
+          "Participación en otro resultado integral de asociadas y negocios conjuntos que se contabilicen utilizando el método de la participación, neto de impuestos": 536254,
+          "Participación en el resultado integral total de asociadas y negocios conjuntos contabilizados utilizando el método de la participación": -118048
+        }
+      }
+    },
+    "Fila Asociada [Eje]: 3": {},
+    "Fila Asociada [Eje]: 4": {},
+    "Fila Asociada [Eje]: 5": {},
+    "Fila Asociada [Eje]: 6": {},
+    "Fila Asociada [Eje]: 7": {},
+    "Fila Asociada [Eje]: 8": {},
+    "Fila Asociada [Eje]: 9": {},
+    "Fila Asociada [Eje]: 10": {},
+    "Fila Asociada [Eje]: 11": {},
+    "Fila Asociada [Eje]: 12": {},
+    "Fila Asociada [Eje]: 13": {},
+    "Fila Asociada [Eje]: 14": {},
+    "Fila Asociada [Eje]: 15": {},
+    "Fila Asociada [Eje]: 16": {},
+    "Fila Asociada [Eje]: 17": {},
+    "Fila Asociada [Eje]: 18": {},
+    "Fila Asociada [Eje]: 19": {},
+    "Fila Asociada [Eje]: 20": {},
+    "Fila Asociada [Eje]: 21": {},
+    "Fila Asociada [Eje]: 22": {},
+    "Fila Asociada [Eje]: 23": {},
+    "Fila Asociada [Eje]: 24": {},
+    "Fila Asociada [Eje]: 25": {},
+    "Fila Asociada [Eje]: 26": {},
+    "Fila Asociada [Eje]: 27": {},
+    "Fila Asociada [Eje]: 28": {},
+    "Fila Asociada [Eje]: 29": {},
+    "Fila Asociada [Eje]: 30": {},
+    "Fila Asociada [Eje]: 31": {},
+    "Fila Asociada [Eje]: 32": {},
+    "Fila Asociada [Eje]: 33": {},
+    "Fila Asociada [Eje]: 34": {},
+    "Fila Asociada [Eje]: 35": {},
+    "Fila Asociada [Eje]: 36": {},
+    "Fila Asociada [Eje]: 37": {},
+    "Fila Asociada [Eje]: 38": {},
+    "Fila Asociada [Eje]: 39": {},
+    "Fila Asociada [Eje]: 40": {},
+    "Fila Asociada [Eje]: 41": {},
+    "Fila Asociada [Eje]: 42": {},
+    "Fila Asociada [Eje]: 43": {},
+    "Fila Asociada [Eje]: 44": {},
+    "Fila Asociada [Eje]: 45": {},
+    "Fila Asociada [Eje]: 46": {},
+    "Fila Asociada [Eje]: 47": {},
+    "Fila Asociada [Eje]: 48": {},
+    "Fila Asociada [Eje]: 49": {},
+    "Fila Asociada [Eje]: 50": {},
+    "Fila Asociada [Eje]: 51": {},
+    "Fila Asociada [Eje]: 52": {},
+    "Fila Asociada [Eje]: 53": {},
+    "Fila Asociada [Eje]: 54": {},
+    "Fila Asociada [Eje]: 55": {},
+    "Fila Asociada [Eje]: 56": {},
+    "Fila Asociada [Eje]: 57": {},
+    "Fila Asociada [Eje]: 58": {},
+    "Fila Asociada [Eje]: 59": {},
+    "Fila Asociada [Eje]: 60": {},
+    "Fila Asociada [Eje]: 61": {},
+    "Fila Asociada [Eje]: 62": {},
+    "Fila Asociada [Eje]: 63": {},
+    "Fila Asociada [Eje]: 64": {},
+    "Fila Asociada [Eje]: 65": {},
+    "Fila Asociada [Eje]: 66": {},
+    "Fila Asociada [Eje]: 67": {},
+    "Fila Asociada [Eje]: 68": {},
+    "Fila Asociada [Eje]: 69": {},
+    "Fila Asociada [Eje]: 70": {},
+    "Fila Asociada [Eje]: 71": {},
+    "Fila Asociada [Eje]: 72": {},
+    "Fila Asociada [Eje]: 73": {},
+    "Fila Asociada [Eje]: 74": {},
+    "Fila Asociada [Eje]: 75": {},
+    "Fila Asociada [Eje]: 76": {},
+    "Fila Asociada [Eje]: 77": {},
+    "Fila Asociada [Eje]: 78": {},
+    "Fila Asociada [Eje]: 79": {},
+    "Fila Asociada [Eje]: 80": {},
+    "Fila Asociada [Eje]: 81": {},
+    "Fila Asociada [Eje]: 82": {},
+    "Fila Asociada [Eje]: 83": {},
+    "Fila Asociada [Eje]: 84": {},
+    "Fila Asociada [Eje]: 85": {},
+    "Fila Asociada [Eje]: 86": {},
+    "Fila Asociada [Eje]: 87": {},
+    "Fila Asociada [Eje]: 88": {},
+    "Fila Asociada [Eje]: 89": {},
+    "Fila Asociada [Eje]: 90": {},
+    "Fila Asociada [Eje]: 91": {},
+    "Fila Asociada [Eje]: 92": {},
+    "Fila Asociada [Eje]: 93": {},
+    "Fila Asociada [Eje]: 94": {},
+    "Fila Asociada [Eje]: 95": {},
+    "Fila Asociada [Eje]: 96": {},
+    "Fila Asociada [Eje]: 97": {},
+    "Fila Asociada [Eje]: 98": {},
+    "Fila Asociada [Eje]: 99": {},
+    "Fila Asociada [Eje]: 100": {},
+    "Total Asociadas": {
+      "Información a revelar sobre asociadas [resumen]": {
+        "Información a revelar sobre asociadas [partidas de los estados financieros]": {
+          "Dividendos recibidos de la asociada": 0,
+          "Activos de la asociada": 221953903,
+          "Pasivos de la asociada": 48585246,
+          "Patrimonio de la asociada": 173368657,
+          "Otro resultado integral de la asociada": 10185799,
+          "Resultado Integral de la asociada": 19895881,
+          "Valor razonable de inversiones en asociadas para las que existen precios de mercado cotizados": 0,
+          "Inversiones contabilizadas utilizando el método de la participación de la asociada": 12161398,
+          "Participación en otro resultado integral de asociadas y negocios conjuntos que se contabilicen utilizando el método de la participación, neto de impuestos": 536798,
+          "Participación en el resultado integral total de asociadas y negocios conjuntos contabilizados utilizando el método de la participación": -117979
+        }
+      }
+    }
+  },
+  "890903939_2024-12-31_Notas_Informacion_a_revelar_sobre_negocios_conjuntos_traduccion_flattened": {
+    "Fila Negocios Conjuntos [Eje]": {},
+    "Fila Negocios Conjuntos [Eje]: 1": {
+      "Información a revelar sobre negocios conjuntos [resumen]": {
+        "Nombre del negocio conjunto": "CENTRAL CERVECERA DE COLOMBIA S.A.S.",
+        "NIT del Negocio Conjunto": 900785905,
+        "Domicilio principal del negocio conjunto": "BOGOTA",
+        "País donde está constituido el negocio conjunto": "169 - COLOMBIA",
+        "Porcentaje de participacion en el negocio conjunto": 0,
+        "Porcentaje de derechos de voto mantenidos en negocios conjuntos": 0,
+        "Descripción de si las inversiones en negocios conjuntos se miden utilizando el método de la participación o al valor razonable": 0,
+        "Dividendos recibidos del negocio conjunto": 0,
+        "Activos del negocio conjunto": 707475000,
+        "Pasivos del negocio conjunto": 549755000,
+        "Patrimonio del negocio conjunto": 157720000,
+        "Otro resultado integral del negocio conjunto": 0,
+        "Resultado Integral del negocio conjunto": -99349000,
+        "Valor razonable de inversiones en negocios conjuntos para las que existen precios de mercado cotizados": 0,
+        "Inversiones contabilizadas utilizando el método de la participación del negocio conjunto": 32017543
+      }
+    },
+    "Fila Negocios Conjuntos [Eje]: 2": {
+      "Información a revelar sobre negocios conjuntos [resumen]": {
+        "Nombre del negocio conjunto": "ZONA FRANCA CENTRAL CERVECERA S.A.S.",
+        "NIT del Negocio Conjunto": 901079460,
+        "Domicilio principal del negocio conjunto": "SESQUILE",
+        "País donde está constituido el negocio conjunto": "169 - COLOMBIA",
+        "Porcentaje de participacion en el negocio conjunto": 0,
+        "Porcentaje de derechos de voto mantenidos en negocios conjuntos": 0,
+        "Descripción de si las inversiones en negocios conjuntos se miden utilizando el método de la participación o al valor razonable": 0,
+        "Dividendos recibidos del negocio conjunto": 0,
+        "Activos del negocio conjunto": 1070495000,
+        "Pasivos del negocio conjunto": 138216000,
+        "Patrimonio del negocio conjunto": 932279000,
+        "Otro resultado integral del negocio conjunto": 0,
+        "Resultado Integral del negocio conjunto": 1792000,
+        "Valor razonable de inversiones en negocios conjuntos para las que existen precios de mercado cotizados": 0,
+        "Inversiones contabilizadas utilizando el método de la participación del negocio conjunto": 189252941
+      }
+    },
+    "Fila Negocios Conjuntos [Eje]: 3": {},
+    "Fila Negocios Conjuntos [Eje]: 4": {},
+    "Fila Negocios Conjuntos [Eje]: 5": {},
+    "Fila Negocios Conjuntos [Eje]: 6": {},
+    "Fila Negocios Conjuntos [Eje]: 7": {},
+    "Fila Negocios Conjuntos [Eje]: 8": {},
+    "Fila Negocios Conjuntos [Eje]: 9": {},
+    "Fila Negocios Conjuntos [Eje]: 10": {},
+    "Fila Negocios Conjuntos [Eje]: 11": {},
+    "Fila Negocios Conjuntos [Eje]: 12": {},
+    "Fila Negocios Conjuntos [Eje]: 13": {},
+    "Fila Negocios Conjuntos [Eje]: 14": {},
+    "Fila Negocios Conjuntos [Eje]: 15": {},
+    "Fila Negocios Conjuntos [Eje]: 16": {},
+    "Fila Negocios Conjuntos [Eje]: 17": {},
+    "Fila Negocios Conjuntos [Eje]: 18": {},
+    "Fila Negocios Conjuntos [Eje]: 19": {},
+    "Fila Negocios Conjuntos [Eje]: 20": {},
+    "Fila Negocios Conjuntos [Eje]: 21": {},
+    "Fila Negocios Conjuntos [Eje]: 22": {},
+    "Fila Negocios Conjuntos [Eje]: 23": {},
+    "Fila Negocios Conjuntos [Eje]: 24": {},
+    "Fila Negocios Conjuntos [Eje]: 25": {},
+    "Fila Negocios Conjuntos [Eje]: 26": {},
+    "Fila Negocios Conjuntos [Eje]: 27": {},
+    "Fila Negocios Conjuntos [Eje]: 28": {},
+    "Fila Negocios Conjuntos [Eje]: 29": {},
+    "Fila Negocios Conjuntos [Eje]: 30": {},
+    "Fila Negocios Conjuntos [Eje]: 31": {},
+    "Fila Negocios Conjuntos [Eje]: 32": {},
+    "Fila Negocios Conjuntos [Eje]: 33": {},
+    "Fila Negocios Conjuntos [Eje]: 34": {},
+    "Fila Negocios Conjuntos [Eje]: 35": {},
+    "Fila Negocios Conjuntos [Eje]: 36": {},
+    "Fila Negocios Conjuntos [Eje]: 37": {},
+    "Fila Negocios Conjuntos [Eje]: 38": {},
+    "Fila Negocios Conjuntos [Eje]: 39": {},
+    "Fila Negocios Conjuntos [Eje]: 40": {},
+    "Fila Negocios Conjuntos [Eje]: 41": {},
+    "Fila Negocios Conjuntos [Eje]: 42": {},
+    "Fila Negocios Conjuntos [Eje]: 43": {},
+    "Fila Negocios Conjuntos [Eje]: 44": {},
+    "Fila Negocios Conjuntos [Eje]: 45": {},
+    "Fila Negocios Conjuntos [Eje]: 46": {},
+    "Fila Negocios Conjuntos [Eje]: 47": {},
+    "Fila Negocios Conjuntos [Eje]: 48": {},
+    "Fila Negocios Conjuntos [Eje]: 49": {},
+    "Fila Negocios Conjuntos [Eje]: 50": {},
+    "Fila Negocios Conjuntos [Eje]: 51": {},
+    "Fila Negocios Conjuntos [Eje]: 52": {},
+    "Fila Negocios Conjuntos [Eje]: 53": {},
+    "Fila Negocios Conjuntos [Eje]: 54": {},
+    "Fila Negocios Conjuntos [Eje]: 55": {},
+    "Fila Negocios Conjuntos [Eje]: 56": {},
+    "Fila Negocios Conjuntos [Eje]: 57": {},
+    "Fila Negocios Conjuntos [Eje]: 58": {},
+    "Fila Negocios Conjuntos [Eje]: 59": {},
+    "Fila Negocios Conjuntos [Eje]: 60": {},
+    "Fila Negocios Conjuntos [Eje]: 61": {},
+    "Fila Negocios Conjuntos [Eje]: 62": {},
+    "Fila Negocios Conjuntos [Eje]: 63": {},
+    "Fila Negocios Conjuntos [Eje]: 64": {},
+    "Fila Negocios Conjuntos [Eje]: 65": {},
+    "Fila Negocios Conjuntos [Eje]: 66": {},
+    "Fila Negocios Conjuntos [Eje]: 67": {},
+    "Fila Negocios Conjuntos [Eje]: 68": {},
+    "Fila Negocios Conjuntos [Eje]: 69": {},
+    "Fila Negocios Conjuntos [Eje]: 70": {},
+    "Fila Negocios Conjuntos [Eje]: 71": {},
+    "Fila Negocios Conjuntos [Eje]: 72": {},
+    "Fila Negocios Conjuntos [Eje]: 73": {},
+    "Fila Negocios Conjuntos [Eje]: 74": {},
+    "Fila Negocios Conjuntos [Eje]: 75": {},
+    "Fila Negocios Conjuntos [Eje]: 76": {},
+    "Fila Negocios Conjuntos [Eje]: 77": {},
+    "Fila Negocios Conjuntos [Eje]: 78": {},
+    "Fila Negocios Conjuntos [Eje]: 79": {},
+    "Fila Negocios Conjuntos [Eje]: 80": {},
+    "Fila Negocios Conjuntos [Eje]: 81": {},
+    "Fila Negocios Conjuntos [Eje]: 82": {},
+    "Fila Negocios Conjuntos [Eje]: 83": {},
+    "Fila Negocios Conjuntos [Eje]: 84": {},
+    "Fila Negocios Conjuntos [Eje]: 85": {},
+    "Fila Negocios Conjuntos [Eje]: 86": {},
+    "Fila Negocios Conjuntos [Eje]: 87": {},
+    "Fila Negocios Conjuntos [Eje]: 88": {},
+    "Fila Negocios Conjuntos [Eje]: 89": {},
+    "Fila Negocios Conjuntos [Eje]: 90": {},
+    "Fila Negocios Conjuntos [Eje]: 91": {},
+    "Fila Negocios Conjuntos [Eje]: 92": {},
+    "Fila Negocios Conjuntos [Eje]: 93": {},
+    "Fila Negocios Conjuntos [Eje]: 94": {},
+    "Fila Negocios Conjuntos [Eje]: 95": {},
+    "Fila Negocios Conjuntos [Eje]: 96": {},
+    "Fila Negocios Conjuntos [Eje]: 97": {},
+    "Fila Negocios Conjuntos [Eje]: 98": {},
+    "Fila Negocios Conjuntos [Eje]: 99": {},
+    "Fila Negocios Conjuntos [Eje]: 100": {},
+    "Total Negocios": {
+      "Información a revelar sobre negocios conjuntos [resumen]": {
+        "Dividendos recibidos del negocio conjunto": 0,
+        "Activos del negocio conjunto": 1777970000,
+        "Pasivos del negocio conjunto": 687971000,
+        "Patrimonio del negocio conjunto": 1089999000,
+        "Otro resultado integral del negocio conjunto": 0,
+        "Resultado Integral del negocio conjunto": -97557000,
+        "Valor razonable de inversiones en negocios conjuntos para las que existen precios de mercado cotizados": 0,
+        "Inversiones contabilizadas utilizando el método de la participación del negocio conjunto": 221270484
+      }
+    }
+  },
+  "890903939_2024-12-31_Notas_Información_a_revelar_sobre_propiedades_de_inversion_traduccion_flattened": {
+    "Información a revelar detallada sobre propiedades de inversión [resumen]": {
+      "Descripción de los activos": {},
+      "Descripción de los métodos y suposiciones significativas aplicadas para determinar el valor razonable de propiedades de inversión": {},
+      "Explicación de porqué el valor razonable no puede ser medido con fiabilidad para propiedades de inversión, modelo del costo": {},
+      "Conciliación de cambios en propiedades de inversión [resumen]": {
+        "Propiedades de inversión al comienzo del periodo": {
+          "Propiedades de inversión [resumen]": {
+            "Propiedades de inversión al valor razonable [miembro]": 4004000,
+            "Propiedades de inversión al costo menos depreciación acumulada y deterioro": {
+              "[miembro]": 79404140
+            }
+          }
+        },
+        "Cambios en las propiedades de inversión [resumen]": {
+          "Incrementos distintos de los procedentes de combinaciones de negocios, propiedades de inversión": {},
+          "Adquisiciones realizadas mediante combinaciones de negocios, propiedades de inversión": {},
+          "Ganancias (pérdidas) por ajuste del valor razonable, propiedades de inversión": {},
+          "Transferencia a propiedades de inversion al valor razonable, cuando pasa a estar disponible la medición fiable del Valor razonable": {},
+          "Transferencia de (a) inventarios y bienes inmuebles ocupados por el propietario, propiedades de inversión": {
+            "Propiedades de inversión [resumen]": {
+              "Propiedades de inversión al costo menos depreciación acumulada y deterioro": {
+                "[miembro]": 4788225
+              }
+            }
+          },
+          "Depreciación, propiedades de inversiòn al costo menos depreciación acumulada y deterioro": {
+            "Propiedades de inversión [resumen]": {
+              "Propiedades de inversión al costo menos depreciación acumulada y deterioro": {
+                "[miembro]": 1454211
+              }
+            }
+          },
+          "Pérdidas por deterioro de valor reconocidas en el resultado del periodo, propiedades de inversión al costo": {},
+          "Reversión de pérdidas por deterioro de valor reconocidas en el resultado del periodo, propiedades de inversiòn al costo": {},
+          "Incrementos (disminuciones) por otros cambios, propiedades de inversión": {},
+          "Disposiciones, propiedades de inversión": {}
+        },
+        "Propiedades de inversión al final del periodo": {
+          "Disposiciones, propiedades de inversión": {
+            "Propiedades de inversión [resumen]": {
+              "Propiedades de inversión al valor razonable [miembro]": 4004000,
+              "Propiedades de inversión al costo menos depreciación acumulada y deterioro": {
+                "[miembro]": 82738154
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "890903939_2024-12-31_Notas_Otras_provisiones_pasivos_contingentes_traduccion_flattened": {
+    "Información a revelar sobre otras provisiones [sinopsis]": {
+      "Información a revelar sobre otras provisiones [partidas de los estados financieros]": {
+        "Conciliación de cambios en otras provisiones [sinopsis]": {
+          "Otras provisiones al comienzo del periodo": {
+            "Otras provisiones [miembro]": {
+              "Provisiones por procesos legales [miembro]": 1299120,
+              "Otras provisiones diversas [miembro]": 20664159,
+              "Otras provisiones diversas [miembro]__2": 21963279
+            }
+          },
+          "Cambios en otras provisiones [sinopsis]": {
+            "Provisiones adicionales, otras provisiones [resumen]": {
+              "Aumento de provisiones existentes, otras provisiones": {},
+              "Provisiones nuevas, otras provisiones": {
+                "Otras provisiones [miembro]": {
+                  "Provisiones por procesos legales [miembro]": 152447,
+                  "Otras provisiones diversas [miembro]": 9090666,
+                  "Otras provisiones diversas [miembro]__2": 9243113
+                }
+              },
+              "Total provisiones adicionales, otras provisiones": {
+                "Otras provisiones [miembro]": {
+                  "Provisiones por procesos legales [miembro]": 152447,
+                  "Otras provisiones diversas [miembro]": 9090666,
+                  "Otras provisiones diversas [miembro]__2": 9243113
+                }
+              }
+            },
+            "Provisiones utilizadas, otras provisiones": {
+              "Total provisiones adicionales, otras provisiones": {
+                "Otras provisiones [miembro]": {
+                  "Provisiones por procesos legales [miembro]": 70000,
+                  "Otras provisiones diversas [miembro]": 789159,
+                  "Otras provisiones diversas [miembro]__2": 859159
+                }
+              }
+            },
+            "Provisiones revertidas no utilizadas, otras provisiones": {
+              "Total provisiones adicionales, otras provisiones": {
+                "Otras provisiones [miembro]": {
+                  "Provisiones por procesos legales [miembro]": 30000,
+                  "Otras provisiones diversas [miembro]__2": 30000
+                }
+              }
+            },
+            "Incremento por ajustes que surgen por el paso del tiempo, otras provisiones": {
+              "Total provisiones adicionales, otras provisiones": {}
+            },
+            "Total incremento (disminución) en otras provisiones": {
+              "Total provisiones adicionales, otras provisiones": {
+                "Otras provisiones [miembro]": {
+                  "Provisiones por procesos legales [miembro]": 52447,
+                  "Otras provisiones diversas [miembro]": 8301507,
+                  "Otras provisiones diversas [miembro]__2": 8353954
+                }
+              }
+            }
+          },
+          "Total otras provisiones al final del periodo": {
+            "Total incremento (disminución) en otras provisiones": {
+              "Total provisiones adicionales, otras provisiones": {
+                "Otras provisiones [miembro]": {
+                  "Provisiones por procesos legales [miembro]": 1351567,
+                  "Otras provisiones diversas [miembro]": 28965666,
+                  "Otras provisiones diversas [miembro]__2": 30317233
+                }
+              }
+            }
+          }
+        },
+        "Descripción de la naturaleza de obligaciones, calendario esperado de flujos de salida, indicación de incertidumbres de importes o calendario de salidas e hipótesis más importantes realizadas sobre eventos futuros, otras provisiones": {
+          "Total otras provisiones al final del periodo": {
+            "Total incremento (disminución) en otras provisiones": {
+              "Total provisiones adicionales, otras provisiones": {}
+            }
+          }
+        }
+      },
+      "Información a revelar sobre pasivos contingentes [sinopsis]": {
+        "Descripción de la naturaleza de obligaciones, calendario esperado de flujos de salida, indicación de incertidumbres de importes o calendario de salidas e hipótesis más importantes realizadas sobre eventos futuros, otras provisiones": {
+          "Total otras provisiones al final del periodo": {
+            "Total incremento (disminución) en otras provisiones": {
+              "Total provisiones adicionales, otras provisiones": {}
+            }
+          }
+        },
+        "Información a revelar sobre pasivos contingentes [partidas]": {
+          "Total otras provisiones al final del periodo": {
+            "Total incremento (disminución) en otras provisiones": {
+              "Total provisiones adicionales, otras provisiones": {}
+            }
+          },
+          "Descripción de la naturaleza de obligaciones, pasivos contingentes": {
+            "Total incremento (disminución) en otras provisiones": {
+              "Total provisiones adicionales, otras provisiones": {}
+            }
+          }
+        }
+      }
+    }
+  },
+  "890903939_2024-12-31_Notas_Propiedades_planta_y_equipo_traduccion_flattened": {
+    "Información a revelar detallada sobre propiedades, planta y equipo [resumen]": {
+      "Información a revelar detallada sobre propiedades, planta y equipo [partidas de los estados financieros]": {
+        "Bases de medición, propiedades, planta y equipo": {
+          "Propiedades, planta y equipo [miembro]": {
+            "Terrenos y construcciones [miembro]": {
+              "Terrenos [miembro]": "Valor razonable",
+              "Edificios [miembro]": "Costo"
+            },
+            "Maquinaria [miembro]": {
+              "Edificios [miembro]": "Costo"
+            },
+            "Vehículos [miembro]": {
+              "Equipos de Transporte [miembro]": "Costo"
+            },
+            "Enseres y accesorios [miembro]": {
+              "Equipos de Transporte [miembro]": "Costo"
+            },
+            "Equipos informáticos [miembro]": {
+              "Equipos de Transporte [miembro]": "Costo"
+            },
+            "Equipos de redes y comunicación [miembro]": {
+              "Equipos de Transporte [miembro]": "Costo"
+            },
+            "Infraestructura de red [miembro]": {
+              "Equipos de Transporte [miembro]": "Costo"
+            },
+            "Construcciones en proceso [miembro]": {
+              "Equipos de Transporte [miembro]": "Costo"
+            }
+          }
+        },
+        "Método de depreciación, propiedades, planta y equipo": {
+          "Propiedades, planta y equipo [miembro]": {
+            "Terrenos y construcciones [miembro]": {
+              "Edificios [miembro]": "Línea Recta"
+            },
+            "Maquinaria [miembro]": {
+              "Edificios [miembro]": "Línea Recta"
+            },
+            "Vehículos [miembro]": {
+              "Equipos de Transporte [miembro]": "Línea Recta"
+            },
+            "Enseres y accesorios [miembro]": {
+              "Equipos de Transporte [miembro]": "Línea Recta"
+            },
+            "Equipos informáticos [miembro]": {
+              "Equipos de Transporte [miembro]": "Línea Recta"
+            },
+            "Equipos de redes y comunicación [miembro]": {
+              "Equipos de Transporte [miembro]": "Línea Recta"
+            },
+            "Infraestructura de red [miembro]": {
+              "Equipos de Transporte [miembro]": "Línea Recta"
+            },
+            "Construcciones en proceso [miembro]": {
+              "Equipos de Transporte [miembro]": "Línea Recta"
+            }
+          }
+        },
+        "Vidas útiles o tasas de depreciación, propiedades, planta y equipo": {
+          "Propiedades, planta y equipo [miembro]": {
+            "Terrenos y construcciones [miembro]": {
+              "Edificios [miembro]": "40-60"
+            },
+            "Maquinaria [miembro]": {
+              "Edificios [miembro]": "5-35"
+            },
+            "Vehículos [miembro]": {
+              "Equipos de Transporte [miembro]": "5-15"
+            },
+            "Enseres y accesorios [miembro]": {
+              "Equipos de Transporte [miembro]": 10
+            },
+            "Equipos informáticos [miembro]": {
+              "Equipos de Transporte [miembro]": "5-10"
+            },
+            "Equipos de redes y comunicación [miembro]": {
+              "Equipos de Transporte [miembro]": "3-10"
+            },
+            "Infraestructura de red [miembro]": {
+              "Equipos de Transporte [miembro]": "20 - 45"
+            }
+          }
+        },
+        "Fecha de vigencia de revaluación, propiedades, planta y equipo": {},
+        "Explicación de la implicación del tasador independiente en la revaluación, propiedades, planta y equipo": {},
+        "Explicación del método de revaluación y supuestos significativos, propiedad, planta y equipo": {},
+        "Conciliación de cambios en propiedades, planta y equipo [sinopsis]": {
+          "Propiedades, planta y equipo al comienzo del periodo": {
+            "Propiedades, planta y equipo [miembro]": {
+              "Terrenos y construcciones [miembro]": {
+                "Terrenos [miembro]": 564404822,
+                "Edificios [miembro]": 299611111,
+                "Edificios [miembro]__2": 864015933
+              },
+              "Maquinaria [miembro]": {
+                "Edificios [miembro]": 468938730
+              },
+              "Vehículos [miembro]": {
+                "Equipos de Transporte [miembro]": 32446754,
+                "Equipos de Transporte [miembro]__2": 32446754
+              },
+              "Enseres y accesorios [miembro]": {
+                "Equipos de Transporte [miembro]": 10565335
+              },
+              "Equipos informáticos [miembro]": {
+                "Equipos de Transporte [miembro]": 778875
+              },
+              "Equipos de redes y comunicación [miembro]": {
+                "Equipos de Transporte [miembro]": 31088826
+              },
+              "Infraestructura de red [miembro]": {
+                "Equipos de Transporte [miembro]": 56745038
+              },
+              "Construcciones en proceso [miembro]": {
+                "Equipos de Transporte [miembro]": 56161240
+              },
+              "Otras [miembro]": {
+                "Equipos de Transporte [miembro]": 57928852,
+                "Equipos de Transporte [miembro]__2": 1578669583
+              }
+            }
+          },
+          "Cambios en propiedades, planta y equipo [sinopsis]": {
+            "Incrementos distintos de los procedentes de combinaciones de negocios, propiedades, planta y equipo": {
+              "Propiedades, planta y equipo [miembro]": {
+                "Terrenos y construcciones [miembro]": {
+                  "Edificios [miembro]": 29676,
+                  "Edificios [miembro]__2": 29676
+                },
+                "Maquinaria [miembro]": {
+                  "Edificios [miembro]": 25690488
+                },
+                "Vehículos [miembro]": {
+                  "Equipos de Transporte [miembro]": 10795966,
+                  "Equipos de Transporte [miembro]__2": 10795966
+                },
+                "Enseres y accesorios [miembro]": {
+                  "Equipos de Transporte [miembro]": 754613
+                },
+                "Equipos informáticos [miembro]": {
+                  "Equipos de Transporte [miembro]": 248037
+                },
+                "Equipos de redes y comunicación [miembro]": {
+                  "Equipos de Transporte [miembro]": 4428455
+                },
+                "Construcciones en proceso [miembro]": {
+                  "Equipos de Transporte [miembro]": 29095173
+                },
+                "Otras [miembro]": {
+                  "Equipos de Transporte [miembro]": 26168344,
+                  "Equipos de Transporte [miembro]__2": 97210752
+                }
+              }
+            },
+            "Adquisiciones realizadas mediante combinaciones de negocios, propiedades, planta y equipo": {},
+            "Depreciación, propiedades, planta y equipo": {
+              "Propiedades, planta y equipo [miembro]": {
+                "Terrenos y construcciones [miembro]": {
+                  "Edificios [miembro]": 7792750,
+                  "Edificios [miembro]__2": 7792750
+                },
+                "Maquinaria [miembro]": {
+                  "Edificios [miembro]": 27601242
+                },
+                "Vehículos [miembro]": {
+                  "Equipos de Transporte [miembro]": 518598,
+                  "Equipos de Transporte [miembro]__2": 518598
+                },
+                "Enseres y accesorios [miembro]": {
+                  "Equipos de Transporte [miembro]": -960852
+                },
+                "Equipos informáticos [miembro]": {
+                  "Equipos de Transporte [miembro]": 237051
+                },
+                "Equipos de redes y comunicación [miembro]": {
+                  "Equipos de Transporte [miembro]": 15471808
+                },
+                "Infraestructura de red [miembro]": {
+                  "Equipos de Transporte [miembro]": 2515123
+                },
+                "Otras [miembro]": {
+                  "Equipos de Transporte [miembro]": 7519942,
+                  "Equipos de Transporte [miembro]__2": 60695662
+                }
+              }
+            },
+            "Pérdidas por deterioro de valor reconocidas en el resultado del periodo, propiedades, planta y equipo": {},
+            "Reversión de pérdidas por deterioro de valor reconocidas en el resultado del periodo, propiedades, planta y equipo": {},
+            "Incrementos (disminuciones) de revaluaciones, propiedades, planta y equipo": {},
+            "Pérdidas por deterioro de valor reconocidas en otro resultado integral, propiedades, planta y equipo": {},
+            "Reversión de pérdidas por deterioro de valor reconocidas en otro resultado integral, propiedades, planta y equipo": {},
+            "Incrementos (disminuciones) por transferencias y otros cambios, propiedades, planta y equipo [resumen]": {
+              "Incrementos (disminuciones) por transferencias desde (hacia) propiedades de inversión, propiedades, planta y equipo": {},
+              "Incrementos (disminuciones) por transferencias desde construcciones en proceso , propiedades, planta y equipo": {
+                "Propiedades, planta y equipo [miembro]": {
+                  "Terrenos y construcciones [miembro]": {
+                    "Edificios [miembro]": 10614097,
+                    "Edificios [miembro]__2": 10614097
+                  },
+                  "Maquinaria [miembro]": {
+                    "Edificios [miembro]": 38059717
+                  },
+                  "Vehículos [miembro]": {
+                    "Equipos de Transporte [miembro]": 859120,
+                    "Equipos de Transporte [miembro]__2": 859120
+                  },
+                  "Enseres y accesorios [miembro]": {
+                    "Equipos de Transporte [miembro]": 1072156
+                  },
+                  "Equipos informáticos [miembro]": {
+                    "Equipos de Transporte [miembro]": 1535
+                  },
+                  "Equipos de redes y comunicación [miembro]": {
+                    "Equipos de Transporte [miembro]": 352911
+                  },
+                  "Infraestructura de red [miembro]": {
+                    "Equipos de Transporte [miembro]": 3172138
+                  },
+                  "Construcciones en proceso [miembro]": {
+                    "Equipos de Transporte [miembro]": -59166687
+                  },
+                  "Otras [miembro]": {
+                    "Equipos de Transporte [miembro]": 10168463,
+                    "Equipos de Transporte [miembro]__2": 5133450
+                  }
+                }
+              },
+              "Incrementos (disminuciones) por otros cambios, propiedades, planta y equipo": {},
+              "Propiedades, planta y equipo, valor en libros activos por derecho de uso (arrendamientos)": {},
+              "Total incrementos (disminuciones) por transferencias y otros cambios, propiedades, planta y equipo": {
+                "Propiedades, planta y equipo [miembro]": {
+                  "Terrenos y construcciones [miembro]": {
+                    "Edificios [miembro]": 10614097,
+                    "Edificios [miembro]__2": 10614097
+                  },
+                  "Maquinaria [miembro]": {
+                    "Edificios [miembro]": 38059717
+                  },
+                  "Vehículos [miembro]": {
+                    "Equipos de Transporte [miembro]": 859120,
+                    "Equipos de Transporte [miembro]__2": 859120
+                  },
+                  "Enseres y accesorios [miembro]": {
+                    "Equipos de Transporte [miembro]": 1072156
+                  },
+                  "Equipos informáticos [miembro]": {
+                    "Equipos de Transporte [miembro]": 1535
+                  },
+                  "Equipos de redes y comunicación [miembro]": {
+                    "Equipos de Transporte [miembro]": 352911
+                  },
+                  "Infraestructura de red [miembro]": {
+                    "Equipos de Transporte [miembro]": 3172138
+                  },
+                  "Construcciones en proceso [miembro]": {
+                    "Equipos de Transporte [miembro]": -59166687
+                  },
+                  "Otras [miembro]": {
+                    "Equipos de Transporte [miembro]": 10168463,
+                    "Equipos de Transporte [miembro]__2": 5133450
+                  }
+                }
+              }
+            },
+            "Disposiciones y retiros de servicio, propiedades, planta y equipo [resumen]": {
+              "Total incrementos (disminuciones) por transferencias y otros cambios, propiedades, planta y equipo": {},
+              "Disposiciones, propiedades, planta y equipo": {},
+              "Retiros, propiedades, planta y equipo": {
+                "Propiedades, planta y equipo [miembro]": {
+                  "Terrenos y construcciones [miembro]": {
+                    "Edificios [miembro]": 36437,
+                    "Edificios [miembro]__2": 36437
+                  },
+                  "Maquinaria [miembro]": {
+                    "Edificios [miembro]": 41051836
+                  },
+                  "Vehículos [miembro]": {
+                    "Equipos de Transporte [miembro]": 8980209,
+                    "Equipos de Transporte [miembro]__2": 8980209
+                  },
+                  "Enseres y accesorios [miembro]": {
+                    "Equipos de Transporte [miembro]": 2941918
+                  },
+                  "Equipos de redes y comunicación [miembro]": {
+                    "Equipos de Transporte [miembro]": 306518
+                  },
+                  "Infraestructura de red [miembro]": {
+                    "Equipos de Transporte [miembro]": 73814
+                  },
+                  "Construcciones en proceso [miembro]": {
+                    "Equipos de Transporte [miembro]": 164606
+                  },
+                  "Otras [miembro]": {
+                    "Equipos de Transporte [miembro]": 25566980,
+                    "Equipos de Transporte [miembro]__2": 79122318
+                  }
+                }
+              },
+              "Total de disposiciones y retiros de servicio, propiedades, planta y equipo": {
+                "Propiedades, planta y equipo [miembro]": {
+                  "Terrenos y construcciones [miembro]": {
+                    "Edificios [miembro]": 36437,
+                    "Edificios [miembro]__2": 36437
+                  },
+                  "Maquinaria [miembro]": {
+                    "Edificios [miembro]": 41051836
+                  },
+                  "Vehículos [miembro]": {
+                    "Equipos de Transporte [miembro]": 8980209,
+                    "Equipos de Transporte [miembro]__2": 8980209
+                  },
+                  "Enseres y accesorios [miembro]": {
+                    "Equipos de Transporte [miembro]": 2941918
+                  },
+                  "Equipos de redes y comunicación [miembro]": {
+                    "Equipos de Transporte [miembro]": 306518
+                  },
+                  "Infraestructura de red [miembro]": {
+                    "Equipos de Transporte [miembro]": 73814
+                  },
+                  "Construcciones en proceso [miembro]": {
+                    "Equipos de Transporte [miembro]": 164606
+                  },
+                  "Otras [miembro]": {
+                    "Equipos de Transporte [miembro]": 25566980,
+                    "Equipos de Transporte [miembro]__2": 79122318
+                  }
+                }
+              }
+            },
+            "Disminuciones por clasificar como mantenidos para la venta, propiedades, planta y equipo": {
+              "Total de disposiciones y retiros de servicio, propiedades, planta y equipo": {}
+            },
+            "Total incremento (disminución) en propiedades, planta y equipo": {
+              "Total de disposiciones y retiros de servicio, propiedades, planta y equipo": {
+                "Propiedades, planta y equipo [miembro]": {
+                  "Terrenos y construcciones [miembro]": {
+                    "Edificios [miembro]": 2814586,
+                    "Edificios [miembro]__2": 2814586
+                  },
+                  "Maquinaria [miembro]": {
+                    "Edificios [miembro]": -4902873
+                  },
+                  "Vehículos [miembro]": {
+                    "Equipos de Transporte [miembro]": 2156279,
+                    "Equipos de Transporte [miembro]__2": 2156279
+                  },
+                  "Enseres y accesorios [miembro]": {
+                    "Equipos de Transporte [miembro]": -154297
+                  },
+                  "Equipos informáticos [miembro]": {
+                    "Equipos de Transporte [miembro]": 12521
+                  },
+                  "Equipos de redes y comunicación [miembro]": {
+                    "Equipos de Transporte [miembro]": -10996960
+                  },
+                  "Infraestructura de red [miembro]": {
+                    "Equipos de Transporte [miembro]": 583201
+                  },
+                  "Construcciones en proceso [miembro]": {
+                    "Equipos de Transporte [miembro]": -30236120
+                  },
+                  "Otras [miembro]": {
+                    "Equipos de Transporte [miembro]": 3249885,
+                    "Equipos de Transporte [miembro]__2": -37473778
+                  }
+                }
+              }
+            }
+          },
+          "Propiedades, planta y equipo al final del periodo": {
+            "Total incremento (disminución) en propiedades, planta y equipo": {
+              "Total de disposiciones y retiros de servicio, propiedades, planta y equipo": {
+                "Propiedades, planta y equipo [miembro]": {
+                  "Terrenos y construcciones [miembro]": {
+                    "Terrenos [miembro]": 564404822,
+                    "Edificios [miembro]": 302425697,
+                    "Edificios [miembro]__2": 866830519
+                  },
+                  "Maquinaria [miembro]": {
+                    "Edificios [miembro]": 464035857
+                  },
+                  "Vehículos [miembro]": {
+                    "Equipos de Transporte [miembro]": 34603033,
+                    "Equipos de Transporte [miembro]__2": 34603033
+                  },
+                  "Enseres y accesorios [miembro]": {
+                    "Equipos de Transporte [miembro]": 10411038
+                  },
+                  "Equipos informáticos [miembro]": {
+                    "Equipos de Transporte [miembro]": 791396
+                  },
+                  "Equipos de redes y comunicación [miembro]": {
+                    "Equipos de Transporte [miembro]": 20091866
+                  },
+                  "Infraestructura de red [miembro]": {
+                    "Equipos de Transporte [miembro]": 57328239
+                  },
+                  "Construcciones en proceso [miembro]": {
+                    "Equipos de Transporte [miembro]": 25925120
+                  },
+                  "Otras [miembro]": {
+                    "Equipos de Transporte [miembro]": 61178737,
+                    "Equipos de Transporte [miembro]__2": 1541195805
+                  }
+                }
+              }
+            }
+          }
+        },
+        "Propiedades, planta y equipo, revaluación [sinopsis]": {
+          "Propiedades, planta y equipo al final del periodo": {
+            "Total incremento (disminución) en propiedades, planta y equipo": {
+              "Total de disposiciones y retiros de servicio, propiedades, planta y equipo": {}
+            }
+          },
+          "Propiedades, planta y equipo, activos revaluados": {
+            "Total incremento (disminución) en propiedades, planta y equipo": {
+              "Total de disposiciones y retiros de servicio, propiedades, planta y equipo": {}
+            }
+          },
+          "Propiedades, planta y equipo, activos revaluados, al costo": {
+            "Total incremento (disminución) en propiedades, planta y equipo": {
+              "Total de disposiciones y retiros de servicio, propiedades, planta y equipo": {}
+            }
+          },
+          "Propiedades, planta y equipo, superávit de revaluación": {
+            "Total incremento (disminución) en propiedades, planta y equipo": {
+              "Total de disposiciones y retiros de servicio, propiedades, planta y equipo": {}
+            }
+          }
+        }
+      }
+    }
+  },
+  "890903939_2024-12-31_Notas_Subclasificaciones_de_efectivo_y_equivalentes_al_efectivo_traduccion_flattened": {
+    "Efectivo y equivalentes al efectivo [sinopsis]": {
+      "Efectivo [sinopsis]": {
+        "Efectivo en caja": {
+          "Periodo Actual": 5560131
+        },
+        "Saldos en bancos": {
+          "Periodo Actual": 49073084
+        },
+        "Total efectivo": {
+          "Periodo Actual": 54633215
+        }
+      },
+      "Equivalentes al efectivo [sinopsis]": {
+        "Total efectivo": {},
+        "Depósitos a corto plazo, clasificados como equivalentes al efectivo": {
+          "Periodo Actual": 222760
+        },
+        "Inversiones a corto plazo, clasificados como equivalentes al efectivo": {
+          "Periodo Actual": 1845057
+        },
+        "Otros acuerdos bancarios, clasificados como equivalentes al efectivo": {
+          "Periodo Actual": 0
+        },
+        "Total equivalentes al efectivo": {
+          "Periodo Actual": 2067817
+        }
+      },
+      "Otro efectivo y equivalentes al efectivo": {
+        "Total equivalentes al efectivo": {
+          "Periodo Actual": 23200622
+        }
+      },
+      "Total de efectivo y equivalentes al efectivo": {
+        "Total equivalentes al efectivo": {
+          "Periodo Actual": 79901654
+        }
+      }
+    }
+  }
+}

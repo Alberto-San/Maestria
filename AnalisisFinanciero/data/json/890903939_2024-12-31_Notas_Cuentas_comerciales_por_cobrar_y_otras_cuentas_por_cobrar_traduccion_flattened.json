@@ -1,0 +1,237 @@
+{
+  "Cuentas comerciales por cobrar y otras cuentas por cobrar": {
+    "Cuentas comerciales por cobrar y otras cuentas por cobrar corrientes": {
+      "Cuentas comerciales por cobrar": {
+        "Cuentas comerciales por cobrar que no están en mora ni deterioradas de valor": {
+          "Cuentas comerciales por cobrar y otras cuentas por cobrar [resumen]": {
+            "Nacional o del exterior [miembro]": {
+              "Nacionales [miembro]": 691753308,
+              "En el exterior [miembro]": 34909064,
+              "Total saldo del ejercicio [miembro]": 726662372
+            },
+            "Bandas de tiempo acumuladas [miembro]": {
+              "Valor no vencidas [miembro]": 726662372
+            }
+          }
+        },
+        "Cuentas comerciales por cobrar en mora pero no deterioradas de valor": {
+          "Cuentas comerciales por cobrar y otras cuentas por cobrar [resumen]": {
+            "Nacional o del exterior [miembro]": {
+              "Nacionales [miembro]": 17926928,
+              "Total saldo del ejercicio [miembro]": 17926928
+            },
+            "Bandas de tiempo acumuladas [miembro]": {
+              "Valor vencidas de 1 a 90 días [miembro]": 13977858,
+              "Valor vencidas de 91 a 180 días [miembro]": 470645,
+              "Valor vencidas de 181 a 360 días  [miembro]": 104224,
+              "Valor vencidas de mas de 360 días [miembro]": 3374201,
+              "Total cuentas por cobrar vencidas [miembro]": 17926928
+            }
+          }
+        },
+        "Cuentas comerciales por cobrar deterioradas de valor": {
+          "Cuentas comerciales por cobrar y otras cuentas por cobrar [resumen]": {
+            "Nacional o del exterior [miembro]": {
+              "Nacionales [miembro]": 21733251,
+              "Total saldo del ejercicio [miembro]": 21733251
+            },
+            "Bandas de tiempo acumuladas [miembro]": {
+              "Valor vencidas de mas de 360 días [miembro]": 21733251,
+              "Total cuentas por cobrar vencidas [miembro]": 21733251
+            }
+          }
+        },
+        "Deterioro (menor valor)": {
+          "Cuentas comerciales por cobrar y otras cuentas por cobrar [resumen]": {
+            "Nacional o del exterior [miembro]": {
+              "Nacionales [miembro]": 21733251,
+              "Total saldo del ejercicio [miembro]": 21733251
+            },
+            "Bandas de tiempo acumuladas [miembro]": {
+              "Valor vencidas de mas de 360 días [miembro]": 21733251,
+              "Total cuentas por cobrar vencidas [miembro]": 21733251
+            }
+          }
+        },
+        "Total cuentas comerciales por cobrar corrientes": {
+          "Cuentas comerciales por cobrar y otras cuentas por cobrar [resumen]": {
+            "Nacional o del exterior [miembro]": {
+              "Nacionales [miembro]": 709680236,
+              "En el exterior [miembro]": 34909064,
+              "Total saldo del ejercicio [miembro]": 744589300
+            },
+            "Bandas de tiempo acumuladas [miembro]": {
+              "Valor no vencidas [miembro]": 726662372,
+              "Valor vencidas de 1 a 90 días [miembro]": 13977858,
+              "Valor vencidas de 91 a 180 días [miembro]": 470645,
+              "Valor vencidas de 181 a 360 días  [miembro]": 104224,
+              "Valor vencidas de mas de 360 días [miembro]": 3374201,
+              "Total cuentas por cobrar vencidas [miembro]": 17926928
+            }
+          }
+        }
+      },
+      "Otras cuentas por cobrar": {
+        "Total cuentas comerciales por cobrar corrientes": {},
+        "Otras cuentas por cobrar que no están en mora ni deterioradas de valor": {
+          "Cuentas comerciales por cobrar y otras cuentas por cobrar [resumen]": {
+            "Nacional o del exterior [miembro]": {
+              "Nacionales [miembro]": 27434917,
+              "Total saldo del ejercicio [miembro]": 27434917
+            },
+            "Bandas de tiempo acumuladas [miembro]": {
+              "Valor no vencidas [miembro]": 27434917
+            }
+          }
+        },
+        "Otras cuentas por cobrar en mora pero no deterioradas de valor": {},
+        "Otras cuentas por cobrar deterioradas de valor": {},
+        "Deterioro (menor valor)": {},
+        "Total otras cuentas por cobrar corrientes": {
+          "Cuentas comerciales por cobrar y otras cuentas por cobrar [resumen]": {
+            "Nacional o del exterior [miembro]": {
+              "Nacionales [miembro]": 27434917,
+              "Total saldo del ejercicio [miembro]": 27434917
+            },
+            "Bandas de tiempo acumuladas [miembro]": {
+              "Valor no vencidas [miembro]": 27434917
+            }
+          }
+        }
+      },
+      "Total cuentas por cobrar y otras cuentas por cobrar corrientes": {
+        "Total otras cuentas por cobrar corrientes": {
+          "Cuentas comerciales por cobrar y otras cuentas por cobrar [resumen]": {
+            "Nacional o del exterior [miembro]": {
+              "Nacionales [miembro]": 737115153,
+              "En el exterior [miembro]": 34909064,
+              "Total saldo del ejercicio [miembro]": 772024217
+            },
+            "Bandas de tiempo acumuladas [miembro]": {
+              "Valor vencidas de 1 a 90 días [miembro]": 13977858,
+              "Valor vencidas de 91 a 180 días [miembro]": 470645,
+              "Valor vencidas de 181 a 360 días  [miembro]": 104224,
+              "Valor vencidas de mas de 360 días [miembro]": 3374201,
+              "Total cuentas por cobrar vencidas [miembro]": 17926928
+            }
+          }
+        }
+      },
+      "Número de cuentas por cobrar corrientes vencidas": {
+        "Total otras cuentas por cobrar corrientes": {
+          "Cuentas comerciales por cobrar y otras cuentas por cobrar [resumen]": {
+            "Bandas de tiempo acumuladas [miembro]": {
+              "Valor vencidas de 1 a 90 días [miembro]": 862,
+              "Valor vencidas de 91 a 180 días [miembro]": 214,
+              "Valor vencidas de 181 a 360 días  [miembro]": 394,
+              "Valor vencidas de mas de 360 días [miembro]": 232,
+              "Total cuentas por cobrar vencidas [miembro]": 1702
+            }
+          }
+        }
+      }
+    },
+    "Cuentas comerciales por cobrar y otras cuentas por cobrar no corrientes": {
+      "Número de cuentas por cobrar corrientes vencidas": {
+        "Total otras cuentas por cobrar corrientes": {}
+      },
+      "Cuentas comerciales por cobrar": {
+        "Total otras cuentas por cobrar corrientes": {},
+        "Cuentas comerciales por cobrar que no están en mora ni deterioradas de valor": {
+          "Cuentas comerciales por cobrar y otras cuentas por cobrar [resumen]": {
+            "Nacional o del exterior [miembro]": {
+              "Nacionales [miembro]": 181997451,
+              "Total saldo del ejercicio [miembro]": 181997451
+            },
+            "Bandas de tiempo acumuladas [miembro]": {
+              "Valor no vencidas [miembro]": 181997451
+            }
+          }
+        },
+        "Cuentas comerciales por cobrar en mora pero no deterioradas de valor": {},
+        "Cuentas comerciales por cobrar deterioradas de valor": {
+          "Cuentas comerciales por cobrar y otras cuentas por cobrar [resumen]": {
+            "Nacional o del exterior [miembro]": {
+              "Nacionales [miembro]": 2367595,
+              "Total saldo del ejercicio [miembro]": 2367595
+            },
+            "Bandas de tiempo acumuladas [miembro]": {
+              "Valor vencidas de mas de 360 días [miembro]": 2367595,
+              "Total cuentas por cobrar vencidas [miembro]": 2367595
+            }
+          }
+        },
+        "Deterioro (menor valor)": {
+          "Cuentas comerciales por cobrar y otras cuentas por cobrar [resumen]": {
+            "Nacional o del exterior [miembro]": {
+              "Nacionales [miembro]": 2367595,
+              "Total saldo del ejercicio [miembro]": 2367595
+            },
+            "Bandas de tiempo acumuladas [miembro]": {
+              "Valor vencidas de mas de 360 días [miembro]": 2367595,
+              "Total cuentas por cobrar vencidas [miembro]": 2367595
+            }
+          }
+        },
+        "Total cuentas comerciales por cobrar no corrientes": {
+          "Cuentas comerciales por cobrar y otras cuentas por cobrar [resumen]": {
+            "Nacional o del exterior [miembro]": {
+              "Nacionales [miembro]": 181997451,
+              "Total saldo del ejercicio [miembro]": 181997451
+            },
+            "Bandas de tiempo acumuladas [miembro]": {
+              "Valor no vencidas [miembro]": 181997451,
+              "Valor vencidas de mas de 360 días [miembro]": 0,
+              "Total cuentas por cobrar vencidas [miembro]": 0
+            }
+          }
+        }
+      },
+      "Otras cuentas por cobrar": {
+        "Total cuentas comerciales por cobrar no corrientes": {},
+        "Otras cuentas por cobrar que no están en mora ni deterioradas de valor": {
+          "Cuentas comerciales por cobrar y otras cuentas por cobrar [resumen]": {
+            "Nacional o del exterior [miembro]": {
+              "Nacionales [miembro]": 658556,
+              "Total saldo del ejercicio [miembro]": 658556
+            },
+            "Bandas de tiempo acumuladas [miembro]": {
+              "Valor no vencidas [miembro]": 658556
+            }
+          }
+        },
+        "Otras cuentas por cobrar en mora pero no deterioradas de valor": {},
+        "Otras cuentas por cobrar deterioradas de valor": {},
+        "Deterioro (menor valor)": {},
+        "Total otras cuentas por cobrar no corrientes": {
+          "Cuentas comerciales por cobrar y otras cuentas por cobrar [resumen]": {
+            "Nacional o del exterior [miembro]": {
+              "Nacionales [miembro]": 658556,
+              "Total saldo del ejercicio [miembro]": 658556
+            },
+            "Bandas de tiempo acumuladas [miembro]": {
+              "Valor no vencidas [miembro]": 658556
+            }
+          }
+        }
+      },
+      "Total cuentas por cobrar y otras cuentas por cobrar no corrientes": {
+        "Total otras cuentas por cobrar no corrientes": {
+          "Cuentas comerciales por cobrar y otras cuentas por cobrar [resumen]": {
+            "Nacional o del exterior [miembro]": {
+              "Nacionales [miembro]": 182656007,
+              "Total saldo del ejercicio [miembro]": 182656007
+            },
+            "Bandas de tiempo acumuladas [miembro]": {
+              "Valor vencidas de mas de 360 días [miembro]": 0,
+              "Total cuentas por cobrar vencidas [miembro]": 0
+            }
+          }
+        }
+      },
+      "Número de cuentas por cobrar no corrientes vencidas": {
+        "Total otras cuentas por cobrar no corrientes": {}
+      }
+    }
+  }
+}

@@ -10,3 +10,13 @@ Como sería el algoritmo?
 2. Detectar donde se encuentra la información. 
 3. Formatear filas y columnas. Obedeciendo a una jerarquia separada por punto. Para las filas claramente se empieza en el ejemplo por "Estados de cambio en el patrimonio [sinopsis].Estados de cambios en el patrimonio [partidas].Patrimonio al comiendo del periodo" hasta dejar todo en terminos de 1 sola columna. Lo mismo las columnas que contienen a otras. 
 4. Una vez realizado esto se reconfiguran las columnas, y se pega el contenido en el nuevo esquema. 
+
+Eduard realizó el código.
+
+se tiene que correr en orden
+
+python3 AnalisisFinanciero\procesador_inicial_superintendencia\flatten_excel.py --input_dir AnalisisFinanciero\data --output_subdir flattened --keep_all_columns --verbose
+
+python3 AnalisisFinanciero\transformador_superintendencia\main.py --input_dir "AnalisisFinanciero\postobon\flattened" --output_dir "AnalisisFinanciero\postobon\transform" --verbose
+
+python3 AnalisisFinanciero\main.py --input_dir "AnalisisFinanciero\data\transform" --output_dir "AnalisisFinanciero\data\json"

@@ -1,0 +1,212 @@
+{
+  "Estado de cambios en el patrimonio [sinopsis]": {
+    "Estado de cambios en el patrimonio [partidas]": {
+      "Patrimonio al comienzo del periodo": {
+        "Patrimonio [miembro]": {
+          "Capital emitido [miembro]": 104859,
+          "Otras participaciones en el patrimonio [miembro]": 1094899,
+          "Superavit por revaluación [miembro]": 444273084,
+          "Otras reservas [miembro]": {
+            "Participación de otro resultado integral de asociadas y negocios conjuntos contabilizados utilizando el método de la participación [miembro]": -1589196,
+            "Reserva de nuevas mediciones de planes de beneficios definidos [miembro]": -1595593,
+            "Reserva Legal [miembro]": 21324246,
+            "Reserva ocasional y/o estatutaria [miembro]": 732389404,
+            "Total otras reservas [miembro]": 750528861
+          },
+          "Ganancias acumuladas [miembro]": {
+            "Ganancias acumuladas diferentes a las generadas por efectos de la convergencia [miembro]": 172874008,
+            "Ganancias acumuladas por efectos de la convergencia [miembro]": 136880273,
+            "Total ganancias acumuladas [miembro]": 309754281
+          },
+          "Total Patrimonio [miembro]": {
+            "Total ganancias acumuladas [miembro]": 1505755984
+          }
+        }
+      },
+      "Incremento (disminución) debido a cambios en políticas contables y correcciones de errores de periodos anteriores": {},
+      "Saldo reexpresado patrimonio al comienzo del periodo": {
+        "Patrimonio [miembro]": {
+          "Capital emitido [miembro]": 104859,
+          "Otras participaciones en el patrimonio [miembro]": 1094899,
+          "Superavit por revaluación [miembro]": 444273084,
+          "Otras reservas [miembro]": {
+            "Participación de otro resultado integral de asociadas y negocios conjuntos contabilizados utilizando el método de la participación [miembro]": -1589196,
+            "Reserva de nuevas mediciones de planes de beneficios definidos [miembro]": -1595593,
+            "Reserva Legal [miembro]": 21324246,
+            "Reserva ocasional y/o estatutaria [miembro]": 732389404,
+            "Total otras reservas [miembro]": 750528861
+          },
+          "Ganancias acumuladas [miembro]": {
+            "Ganancias acumuladas diferentes a las generadas por efectos de la convergencia [miembro]": 172874008,
+            "Ganancias acumuladas por efectos de la convergencia [miembro]": 136880273,
+            "Total ganancias acumuladas [miembro]": 309754281
+          },
+          "Total Patrimonio [miembro]": {
+            "Total ganancias acumuladas [miembro]": 1505755984
+          }
+        }
+      },
+      "Cambios en el patrimonio [sinopsis]": {
+        "Resultado integral [sinopsis]": {
+          "Ganancia (pérdida)": {
+            "Patrimonio [miembro]": {
+              "Ganancias acumuladas [miembro]": {
+                "Ganancias acumuladas diferentes a las generadas por efectos de la convergencia [miembro]": 44074579,
+                "Total ganancias acumuladas [miembro]": 44074579
+              },
+              "Total Patrimonio [miembro]": {
+                "Total ganancias acumuladas [miembro]": 44074579
+              }
+            }
+          },
+          "Otro resultado integral": {
+            "Patrimonio [miembro]": {
+              "Superavit por revaluación [miembro]": 0,
+              "Otras reservas [miembro]": {
+                "Reserva de nuevas mediciones de planes de beneficios definidos [miembro]": -180115,
+                "Total otras reservas [miembro]": -180115
+              },
+              "Total Patrimonio [miembro]": {
+                "Total ganancias acumuladas [miembro]": -180115
+              }
+            }
+          },
+          "Resultado integral total": {
+            "Patrimonio [miembro]": {
+              "Superavit por revaluación [miembro]": 0,
+              "Otras reservas [miembro]": {
+                "Reserva de nuevas mediciones de planes de beneficios definidos [miembro]": -180115,
+                "Total otras reservas [miembro]": -180115
+              },
+              "Ganancias acumuladas [miembro]": {
+                "Ganancias acumuladas diferentes a las generadas por efectos de la convergencia [miembro]": 44074579,
+                "Total ganancias acumuladas [miembro]": 44074579
+              },
+              "Total Patrimonio [miembro]": {
+                "Total ganancias acumuladas [miembro]": 43894464
+              }
+            }
+          }
+        },
+        "Emisión de patrimonio": {
+          "Resultado integral total": {}
+        },
+        "Dividendos reconocidos como distribuciones a los propietarios": {
+          "Resultado integral total": {}
+        },
+        "Incrementos por otras aportaciones de los propietarios, patrimonio": {
+          "Resultado integral total": {}
+        },
+        "Disminución por otras distribuciones a los propietarios, patrimonio": {
+          "Resultado integral total": {}
+        },
+        "Incrementos (disminuciones) por otros cambios, patrimonio": {
+          "Resultado integral total": {
+            "Patrimonio [miembro]": {
+              "Otras reservas [miembro]": {
+                "Reserva ocasional y/o estatutaria [miembro]": 172874007,
+                "Total otras reservas [miembro]": 172874007
+              },
+              "Ganancias acumuladas [miembro]": {
+                "Ganancias acumuladas diferentes a las generadas por efectos de la convergencia [miembro]": -46202119,
+                "Ganancias acumuladas por efectos de la convergencia [miembro]": -6668101,
+                "Total ganancias acumuladas [miembro]": -52870220
+              },
+              "Total Patrimonio [miembro]": {
+                "Total ganancias acumuladas [miembro]": 120003787
+              }
+            }
+          }
+        },
+        "Incrementos (disminuciones) por transacciones con acciones propias, patrimonio": {
+          "Resultado integral total": {}
+        },
+        "Incrementos (disminuciones) por cambios las participaciones en la propiedad de subsidiarias que no dan lugar a pérdida de control, patrimonio": {
+          "Resultado integral total": {
+            "Patrimonio [miembro]": {
+              "Otras reservas [miembro]": {
+                "Participación de otro resultado integral de asociadas y negocios conjuntos contabilizados utilizando el método de la participación [miembro]": -171775,
+                "Total otras reservas [miembro]": -171775
+              },
+              "Total Patrimonio [miembro]": {
+                "Total ganancias acumuladas [miembro]": -171775
+              }
+            }
+          }
+        },
+        "Incrementos (disminuciones) por transacciones con pagos basados en acciones, patrimonio": {
+          "Resultado integral total": {
+            "Patrimonio [miembro]": {
+              "Ganancias acumuladas [miembro]": {
+                "Ganancias acumuladas diferentes a las generadas por efectos de la convergencia [miembro]": -117556832,
+                "Total ganancias acumuladas [miembro]": -117556832
+              },
+              "Total Patrimonio [miembro]": {
+                "Total ganancias acumuladas [miembro]": -117556832
+              }
+            }
+          }
+        },
+        "Importe eliminado de reservas de coberturas de flujos de efectivo e incluido en el costo inicial u otro importe en libros de activos (pasivos) no financieros o compromisos en firme para los que se aplica la contabilidad de coberturas del valor razonable": {
+          "Resultado integral total": {}
+        },
+        "Importe eliminado de reservas de cambios en el valor temporal del dinero de opciones e incluido en el costo inicial u otro importe en libros de activos (pasivos) no financieros o compromisos en firme para los que se aplica la contabilidad de coberturas del valor razonable": {
+          "Resultado integral total": {}
+        },
+        "Importe eliminado de reservas de cambios en el valor de los elementos a término de contratos a término e incluido en el costo inicial u otro importe en libros de activos (pasivos) no financieros o compromisos en firme para los que se aplica la contabilidad de coberturas del valor razonable": {
+          "Resultado integral total": {}
+        },
+        "Importe eliminado de reservas de cambios en el valor de los diferenciales de tasa cambio de moneda extranjera e incluido en el costo inicial u otro importe en libros de activos (pasivos) no financieros o compromisos en firme para los que se aplica la contabilidad de coberturas del valor razonable": {
+          "Resultado integral total": {}
+        },
+        "Total incremento (disminución) en el patrimonio": {
+          "Resultado integral total": {
+            "Patrimonio [miembro]": {
+              "Superavit por revaluación [miembro]": 0,
+              "Otras reservas [miembro]": {
+                "Participación de otro resultado integral de asociadas y negocios conjuntos contabilizados utilizando el método de la participación [miembro]": -171775,
+                "Reserva de nuevas mediciones de planes de beneficios definidos [miembro]": -180115,
+                "Reserva ocasional y/o estatutaria [miembro]": 172874007,
+                "Total otras reservas [miembro]": 172522117
+              },
+              "Ganancias acumuladas [miembro]": {
+                "Ganancias acumuladas diferentes a las generadas por efectos de la convergencia [miembro]": -119684372,
+                "Ganancias acumuladas por efectos de la convergencia [miembro]": -6668101,
+                "Total ganancias acumuladas [miembro]": -126352473
+              },
+              "Total Patrimonio [miembro]": {
+                "Total ganancias acumuladas [miembro]": 46169644
+              }
+            }
+          }
+        }
+      },
+      "Patrimonio al final del periodo": {
+        "Total incremento (disminución) en el patrimonio": {
+          "Resultado integral total": {
+            "Patrimonio [miembro]": {
+              "Capital emitido [miembro]": 104859,
+              "Otras participaciones en el patrimonio [miembro]": 1094899,
+              "Superavit por revaluación [miembro]": 444273084,
+              "Otras reservas [miembro]": {
+                "Participación de otro resultado integral de asociadas y negocios conjuntos contabilizados utilizando el método de la participación [miembro]": -1760971,
+                "Reserva de nuevas mediciones de planes de beneficios definidos [miembro]": -1775708,
+                "Reserva Legal [miembro]": 21324246,
+                "Reserva ocasional y/o estatutaria [miembro]": 905263411,
+                "Total otras reservas [miembro]": 923050978
+              },
+              "Ganancias acumuladas [miembro]": {
+                "Ganancias acumuladas diferentes a las generadas por efectos de la convergencia [miembro]": 53189636,
+                "Ganancias acumuladas por efectos de la convergencia [miembro]": 130212172,
+                "Total ganancias acumuladas [miembro]": 183401808
+              },
+              "Total Patrimonio [miembro]": {
+                "Total ganancias acumuladas [miembro]": 1551925628
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

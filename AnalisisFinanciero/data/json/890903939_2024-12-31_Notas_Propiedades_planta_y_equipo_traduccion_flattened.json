@@ -1,0 +1,437 @@
+{
+  "Información a revelar detallada sobre propiedades, planta y equipo [resumen]": {
+    "Información a revelar detallada sobre propiedades, planta y equipo [partidas de los estados financieros]": {
+      "Bases de medición, propiedades, planta y equipo": {
+        "Propiedades, planta y equipo [miembro]": {
+          "Terrenos y construcciones [miembro]": {
+            "Terrenos [miembro]": "Valor razonable",
+            "Edificios [miembro]": "Costo"
+          },
+          "Maquinaria [miembro]": {
+            "Edificios [miembro]": "Costo"
+          },
+          "Vehículos [miembro]": {
+            "Equipos de Transporte [miembro]": "Costo"
+          },
+          "Enseres y accesorios [miembro]": {
+            "Equipos de Transporte [miembro]": "Costo"
+          },
+          "Equipos informáticos [miembro]": {
+            "Equipos de Transporte [miembro]": "Costo"
+          },
+          "Equipos de redes y comunicación [miembro]": {
+            "Equipos de Transporte [miembro]": "Costo"
+          },
+          "Infraestructura de red [miembro]": {
+            "Equipos de Transporte [miembro]": "Costo"
+          },
+          "Construcciones en proceso [miembro]": {
+            "Equipos de Transporte [miembro]": "Costo"
+          }
+        }
+      },
+      "Método de depreciación, propiedades, planta y equipo": {
+        "Propiedades, planta y equipo [miembro]": {
+          "Terrenos y construcciones [miembro]": {
+            "Edificios [miembro]": "Línea Recta"
+          },
+          "Maquinaria [miembro]": {
+            "Edificios [miembro]": "Línea Recta"
+          },
+          "Vehículos [miembro]": {
+            "Equipos de Transporte [miembro]": "Línea Recta"
+          },
+          "Enseres y accesorios [miembro]": {
+            "Equipos de Transporte [miembro]": "Línea Recta"
+          },
+          "Equipos informáticos [miembro]": {
+            "Equipos de Transporte [miembro]": "Línea Recta"
+          },
+          "Equipos de redes y comunicación [miembro]": {
+            "Equipos de Transporte [miembro]": "Línea Recta"
+          },
+          "Infraestructura de red [miembro]": {
+            "Equipos de Transporte [miembro]": "Línea Recta"
+          },
+          "Construcciones en proceso [miembro]": {
+            "Equipos de Transporte [miembro]": "Línea Recta"
+          }
+        }
+      },
+      "Vidas útiles o tasas de depreciación, propiedades, planta y equipo": {
+        "Propiedades, planta y equipo [miembro]": {
+          "Terrenos y construcciones [miembro]": {
+            "Edificios [miembro]": "40-60"
+          },
+          "Maquinaria [miembro]": {
+            "Edificios [miembro]": "5-35"
+          },
+          "Vehículos [miembro]": {
+            "Equipos de Transporte [miembro]": "5-15"
+          },
+          "Enseres y accesorios [miembro]": {
+            "Equipos de Transporte [miembro]": 10
+          },
+          "Equipos informáticos [miembro]": {
+            "Equipos de Transporte [miembro]": "5-10"
+          },
+          "Equipos de redes y comunicación [miembro]": {
+            "Equipos de Transporte [miembro]": "3-10"
+          },
+          "Infraestructura de red [miembro]": {
+            "Equipos de Transporte [miembro]": "20 - 45"
+          }
+        }
+      },
+      "Fecha de vigencia de revaluación, propiedades, planta y equipo": {},
+      "Explicación de la implicación del tasador independiente en la revaluación, propiedades, planta y equipo": {},
+      "Explicación del método de revaluación y supuestos significativos, propiedad, planta y equipo": {},
+      "Conciliación de cambios en propiedades, planta y equipo [sinopsis]": {
+        "Propiedades, planta y equipo al comienzo del periodo": {
+          "Propiedades, planta y equipo [miembro]": {
+            "Terrenos y construcciones [miembro]": {
+              "Terrenos [miembro]": 564404822,
+              "Edificios [miembro]": 299611111,
+              "Edificios [miembro]__2": 864015933
+            },
+            "Maquinaria [miembro]": {
+              "Edificios [miembro]": 468938730
+            },
+            "Vehículos [miembro]": {
+              "Equipos de Transporte [miembro]": 32446754,
+              "Equipos de Transporte [miembro]__2": 32446754
+            },
+            "Enseres y accesorios [miembro]": {
+              "Equipos de Transporte [miembro]": 10565335
+            },
+            "Equipos informáticos [miembro]": {
+              "Equipos de Transporte [miembro]": 778875
+            },
+            "Equipos de redes y comunicación [miembro]": {
+              "Equipos de Transporte [miembro]": 31088826
+            },
+            "Infraestructura de red [miembro]": {
+              "Equipos de Transporte [miembro]": 56745038
+            },
+            "Construcciones en proceso [miembro]": {
+              "Equipos de Transporte [miembro]": 56161240
+            },
+            "Otras [miembro]": {
+              "Equipos de Transporte [miembro]": 57928852,
+              "Equipos de Transporte [miembro]__2": 1578669583
+            }
+          }
+        },
+        "Cambios en propiedades, planta y equipo [sinopsis]": {
+          "Incrementos distintos de los procedentes de combinaciones de negocios, propiedades, planta y equipo": {
+            "Propiedades, planta y equipo [miembro]": {
+              "Terrenos y construcciones [miembro]": {
+                "Edificios [miembro]": 29676,
+                "Edificios [miembro]__2": 29676
+              },
+              "Maquinaria [miembro]": {
+                "Edificios [miembro]": 25690488
+              },
+              "Vehículos [miembro]": {
+                "Equipos de Transporte [miembro]": 10795966,
+                "Equipos de Transporte [miembro]__2": 10795966
+              },
+              "Enseres y accesorios [miembro]": {
+                "Equipos de Transporte [miembro]": 754613
+              },
+              "Equipos informáticos [miembro]": {
+                "Equipos de Transporte [miembro]": 248037
+              },
+              "Equipos de redes y comunicación [miembro]": {
+                "Equipos de Transporte [miembro]": 4428455
+              },
+              "Construcciones en proceso [miembro]": {
+                "Equipos de Transporte [miembro]": 29095173
+              },
+              "Otras [miembro]": {
+                "Equipos de Transporte [miembro]": 26168344,
+                "Equipos de Transporte [miembro]__2": 97210752
+              }
+            }
+          },
+          "Adquisiciones realizadas mediante combinaciones de negocios, propiedades, planta y equipo": {},
+          "Depreciación, propiedades, planta y equipo": {
+            "Propiedades, planta y equipo [miembro]": {
+              "Terrenos y construcciones [miembro]": {
+                "Edificios [miembro]": 7792750,
+                "Edificios [miembro]__2": 7792750
+              },
+              "Maquinaria [miembro]": {
+                "Edificios [miembro]": 27601242
+              },
+              "Vehículos [miembro]": {
+                "Equipos de Transporte [miembro]": 518598,
+                "Equipos de Transporte [miembro]__2": 518598
+              },
+              "Enseres y accesorios [miembro]": {
+                "Equipos de Transporte [miembro]": -960852
+              },
+              "Equipos informáticos [miembro]": {
+                "Equipos de Transporte [miembro]": 237051
+              },
+              "Equipos de redes y comunicación [miembro]": {
+                "Equipos de Transporte [miembro]": 15471808
+              },
+              "Infraestructura de red [miembro]": {
+                "Equipos de Transporte [miembro]": 2515123
+              },
+              "Otras [miembro]": {
+                "Equipos de Transporte [miembro]": 7519942,
+                "Equipos de Transporte [miembro]__2": 60695662
+              }
+            }
+          },
+          "Pérdidas por deterioro de valor reconocidas en el resultado del periodo, propiedades, planta y equipo": {},
+          "Reversión de pérdidas por deterioro de valor reconocidas en el resultado del periodo, propiedades, planta y equipo": {},
+          "Incrementos (disminuciones) de revaluaciones, propiedades, planta y equipo": {},
+          "Pérdidas por deterioro de valor reconocidas en otro resultado integral, propiedades, planta y equipo": {},
+          "Reversión de pérdidas por deterioro de valor reconocidas en otro resultado integral, propiedades, planta y equipo": {},
+          "Incrementos (disminuciones) por transferencias y otros cambios, propiedades, planta y equipo [resumen]": {
+            "Incrementos (disminuciones) por transferencias desde (hacia) propiedades de inversión, propiedades, planta y equipo": {},
+            "Incrementos (disminuciones) por transferencias desde construcciones en proceso , propiedades, planta y equipo": {
+              "Propiedades, planta y equipo [miembro]": {
+                "Terrenos y construcciones [miembro]": {
+                  "Edificios [miembro]": 10614097,
+                  "Edificios [miembro]__2": 10614097
+                },
+                "Maquinaria [miembro]": {
+                  "Edificios [miembro]": 38059717
+                },
+                "Vehículos [miembro]": {
+                  "Equipos de Transporte [miembro]": 859120,
+                  "Equipos de Transporte [miembro]__2": 859120
+                },
+                "Enseres y accesorios [miembro]": {
+                  "Equipos de Transporte [miembro]": 1072156
+                },
+                "Equipos informáticos [miembro]": {
+                  "Equipos de Transporte [miembro]": 1535
+                },
+                "Equipos de redes y comunicación [miembro]": {
+                  "Equipos de Transporte [miembro]": 352911
+                },
+                "Infraestructura de red [miembro]": {
+                  "Equipos de Transporte [miembro]": 3172138
+                },
+                "Construcciones en proceso [miembro]": {
+                  "Equipos de Transporte [miembro]": -59166687
+                },
+                "Otras [miembro]": {
+                  "Equipos de Transporte [miembro]": 10168463,
+                  "Equipos de Transporte [miembro]__2": 5133450
+                }
+              }
+            },
+            "Incrementos (disminuciones) por otros cambios, propiedades, planta y equipo": {},
+            "Propiedades, planta y equipo, valor en libros activos por derecho de uso (arrendamientos)": {},
+            "Total incrementos (disminuciones) por transferencias y otros cambios, propiedades, planta y equipo": {
+              "Propiedades, planta y equipo [miembro]": {
+                "Terrenos y construcciones [miembro]": {
+                  "Edificios [miembro]": 10614097,
+                  "Edificios [miembro]__2": 10614097
+                },
+                "Maquinaria [miembro]": {
+                  "Edificios [miembro]": 38059717
+                },
+                "Vehículos [miembro]": {
+                  "Equipos de Transporte [miembro]": 859120,
+                  "Equipos de Transporte [miembro]__2": 859120
+                },
+                "Enseres y accesorios [miembro]": {
+                  "Equipos de Transporte [miembro]": 1072156
+                },
+                "Equipos informáticos [miembro]": {
+                  "Equipos de Transporte [miembro]": 1535
+                },
+                "Equipos de redes y comunicación [miembro]": {
+                  "Equipos de Transporte [miembro]": 352911
+                },
+                "Infraestructura de red [miembro]": {
+                  "Equipos de Transporte [miembro]": 3172138
+                },
+                "Construcciones en proceso [miembro]": {
+                  "Equipos de Transporte [miembro]": -59166687
+                },
+                "Otras [miembro]": {
+                  "Equipos de Transporte [miembro]": 10168463,
+                  "Equipos de Transporte [miembro]__2": 5133450
+                }
+              }
+            }
+          },
+          "Disposiciones y retiros de servicio, propiedades, planta y equipo [resumen]": {
+            "Total incrementos (disminuciones) por transferencias y otros cambios, propiedades, planta y equipo": {},
+            "Disposiciones, propiedades, planta y equipo": {},
+            "Retiros, propiedades, planta y equipo": {
+              "Propiedades, planta y equipo [miembro]": {
+                "Terrenos y construcciones [miembro]": {
+                  "Edificios [miembro]": 36437,
+                  "Edificios [miembro]__2": 36437
+                },
+                "Maquinaria [miembro]": {
+                  "Edificios [miembro]": 41051836
+                },
+                "Vehículos [miembro]": {
+                  "Equipos de Transporte [miembro]": 8980209,
+                  "Equipos de Transporte [miembro]__2": 8980209
+                },
+                "Enseres y accesorios [miembro]": {
+                  "Equipos de Transporte [miembro]": 2941918
+                },
+                "Equipos de redes y comunicación [miembro]": {
+                  "Equipos de Transporte [miembro]": 306518
+                },
+                "Infraestructura de red [miembro]": {
+                  "Equipos de Transporte [miembro]": 73814
+                },
+                "Construcciones en proceso [miembro]": {
+                  "Equipos de Transporte [miembro]": 164606
+                },
+                "Otras [miembro]": {
+                  "Equipos de Transporte [miembro]": 25566980,
+                  "Equipos de Transporte [miembro]__2": 79122318
+                }
+              }
+            },
+            "Total de disposiciones y retiros de servicio, propiedades, planta y equipo": {
+              "Propiedades, planta y equipo [miembro]": {
+                "Terrenos y construcciones [miembro]": {
+                  "Edificios [miembro]": 36437,
+                  "Edificios [miembro]__2": 36437
+                },
+                "Maquinaria [miembro]": {
+                  "Edificios [miembro]": 41051836
+                },
+                "Vehículos [miembro]": {
+                  "Equipos de Transporte [miembro]": 8980209,
+                  "Equipos de Transporte [miembro]__2": 8980209
+                },
+                "Enseres y accesorios [miembro]": {
+                  "Equipos de Transporte [miembro]": 2941918
+                },
+                "Equipos de redes y comunicación [miembro]": {
+                  "Equipos de Transporte [miembro]": 306518
+                },
+                "Infraestructura de red [miembro]": {
+                  "Equipos de Transporte [miembro]": 73814
+                },
+                "Construcciones en proceso [miembro]": {
+                  "Equipos de Transporte [miembro]": 164606
+                },
+                "Otras [miembro]": {
+                  "Equipos de Transporte [miembro]": 25566980,
+                  "Equipos de Transporte [miembro]__2": 79122318
+                }
+              }
+            }
+          },
+          "Disminuciones por clasificar como mantenidos para la venta, propiedades, planta y equipo": {
+            "Total de disposiciones y retiros de servicio, propiedades, planta y equipo": {}
+          },
+          "Total incremento (disminución) en propiedades, planta y equipo": {
+            "Total de disposiciones y retiros de servicio, propiedades, planta y equipo": {
+              "Propiedades, planta y equipo [miembro]": {
+                "Terrenos y construcciones [miembro]": {
+                  "Edificios [miembro]": 2814586,
+                  "Edificios [miembro]__2": 2814586
+                },
+                "Maquinaria [miembro]": {
+                  "Edificios [miembro]": -4902873
+                },
+                "Vehículos [miembro]": {
+                  "Equipos de Transporte [miembro]": 2156279,
+                  "Equipos de Transporte [miembro]__2": 2156279
+                },
+                "Enseres y accesorios [miembro]": {
+                  "Equipos de Transporte [miembro]": -154297
+                },
+                "Equipos informáticos [miembro]": {
+                  "Equipos de Transporte [miembro]": 12521
+                },
+                "Equipos de redes y comunicación [miembro]": {
+                  "Equipos de Transporte [miembro]": -10996960
+                },
+                "Infraestructura de red [miembro]": {
+                  "Equipos de Transporte [miembro]": 583201
+                },
+                "Construcciones en proceso [miembro]": {
+                  "Equipos de Transporte [miembro]": -30236120
+                },
+                "Otras [miembro]": {
+                  "Equipos de Transporte [miembro]": 3249885,
+                  "Equipos de Transporte [miembro]__2": -37473778
+                }
+              }
+            }
+          }
+        },
+        "Propiedades, planta y equipo al final del periodo": {
+          "Total incremento (disminución) en propiedades, planta y equipo": {
+            "Total de disposiciones y retiros de servicio, propiedades, planta y equipo": {
+              "Propiedades, planta y equipo [miembro]": {
+                "Terrenos y construcciones [miembro]": {
+                  "Terrenos [miembro]": 564404822,
+                  "Edificios [miembro]": 302425697,
+                  "Edificios [miembro]__2": 866830519
+                },
+                "Maquinaria [miembro]": {
+                  "Edificios [miembro]": 464035857
+                },
+                "Vehículos [miembro]": {
+                  "Equipos de Transporte [miembro]": 34603033,
+                  "Equipos de Transporte [miembro]__2": 34603033
+                },
+                "Enseres y accesorios [miembro]": {
+                  "Equipos de Transporte [miembro]": 10411038
+                },
+                "Equipos informáticos [miembro]": {
+                  "Equipos de Transporte [miembro]": 791396
+                },
+                "Equipos de redes y comunicación [miembro]": {
+                  "Equipos de Transporte [miembro]": 20091866
+                },
+                "Infraestructura de red [miembro]": {
+                  "Equipos de Transporte [miembro]": 57328239
+                },
+                "Construcciones en proceso [miembro]": {
+                  "Equipos de Transporte [miembro]": 25925120
+                },
+                "Otras [miembro]": {
+                  "Equipos de Transporte [miembro]": 61178737,
+                  "Equipos de Transporte [miembro]__2": 1541195805
+                }
+              }
+            }
+          }
+        }
+      },
+      "Propiedades, planta y equipo, revaluación [sinopsis]": {
+        "Propiedades, planta y equipo al final del periodo": {
+          "Total incremento (disminución) en propiedades, planta y equipo": {
+            "Total de disposiciones y retiros de servicio, propiedades, planta y equipo": {}
+          }
+        },
+        "Propiedades, planta y equipo, activos revaluados": {
+          "Total incremento (disminución) en propiedades, planta y equipo": {
+            "Total de disposiciones y retiros de servicio, propiedades, planta y equipo": {}
+          }
+        },
+        "Propiedades, planta y equipo, activos revaluados, al costo": {
+          "Total incremento (disminución) en propiedades, planta y equipo": {
+            "Total de disposiciones y retiros de servicio, propiedades, planta y equipo": {}
+          }
+        },
+        "Propiedades, planta y equipo, superávit de revaluación": {
+          "Total incremento (disminución) en propiedades, planta y equipo": {
+            "Total de disposiciones y retiros de servicio, propiedades, planta y equipo": {}
+          }
+        }
+      }
+    }
+  }
+}

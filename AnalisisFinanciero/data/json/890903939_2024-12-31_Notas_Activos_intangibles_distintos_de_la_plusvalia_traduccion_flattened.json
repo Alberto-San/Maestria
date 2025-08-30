@@ -1,0 +1,108 @@
+{
+  "Información a revelar detallada sobre activos intangibles [resumen]": {
+    "Descripción método de amortización, activos intangibles distintos de la plusvalía": {
+      "Activos intangibles distintos de la plusvalía [miembro]": {
+        "Marcas comerciales [miembro]": "Linea Recta",
+        "Licencias y franquicias [miembro]": "Linea Recta",
+        "Otros activos intangibles [miembro]": "N/A (Proyectos en curso)"
+      }
+    },
+    "Vidas útiles o tasas de amortización, activos intangibles distintos de la plusvalía": {
+      "Activos intangibles distintos de la plusvalía [miembro]": {
+        "Marcas comerciales [miembro]": 10,
+        "Licencias y franquicias [miembro]": "1-5",
+        "Otros activos intangibles [miembro]": "N/A (Proyectos en curso)"
+      }
+    },
+    "Conciliación de cambios en activos intangibles distintos de la plusvalía [sinopsis]": {
+      "Activos intangibles distintos de la plusvalía al comienzo del periodo": {
+        "Activos intangibles distintos de la plusvalía [miembro]": {
+          "Marcas comerciales [miembro]": 28532418,
+          "Licencias y franquicias [miembro]": 8937312,
+          "Derechos [Miembro]": 0,
+          "Otros activos intangibles [miembro]": 44547562,
+          "Otros activos intangibles [miembro]__2": 82017292
+        }
+      },
+      "Incrementos distintos de los procedentes de combinaciones de negocios, activos intangibles distintos de la plusvalía": {
+        "Activos intangibles distintos de la plusvalía [miembro]": {
+          "Licencias y franquicias [miembro]": 12100197,
+          "Otros activos intangibles [miembro]": 8105290,
+          "Otros activos intangibles [miembro]__2": 20205487
+        }
+      },
+      "Adquisiciones realizadas mediante combinaciones de negocios, activos intangibles distintos a la plusvalía": {},
+      "Amortización, activos intangibles distintos de la plusvalía": {
+        "Activos intangibles distintos de la plusvalía [miembro]": {
+          "Licencias y franquicias [miembro]": 7459239,
+          "Derechos [Miembro]": -63992,
+          "Otros activos intangibles [miembro]__2": 7395247
+        }
+      },
+      "Pérdidas por deterioro de valor reconocidas en el resultado del periodo, activos intangibles distintos de la plusvalía": {},
+      "Reversión de pérdidas por deterioro de valor reconocidas en el resultado del periodo, activos intangibles distintos de la plusvalía": {},
+      "Incrementos (disminuciones) por transferencias y otros cambios, activos intangibles distintos de la plusvalía [resumen]": {
+        "Incrementos (disminuciones) por transferencias, activos intangibles distintas de la plusvalía": {
+          "Activos intangibles distintos de la plusvalía [miembro]": {
+            "Licencias y franquicias [miembro]": 19069556,
+            "Otros activos intangibles [miembro]": -19069556,
+            "Otros activos intangibles [miembro]__2": 0
+          }
+        },
+        "Incrementos (disminuciones) por otros cambios, activos intangibles distintos de la plusvalía": {},
+        "Intangibles, valor en libros activos por derecho de uso (arrendamientos)": {}
+      },
+      "Total incrementos (disminuciones) por transferencias y otros cambios, activos intangibles distintos de la plusvalía": {
+        "Intangibles, valor en libros activos por derecho de uso (arrendamientos)": {
+          "Activos intangibles distintos de la plusvalía [miembro]": {
+            "Licencias y franquicias [miembro]": 19069556,
+            "Otros activos intangibles [miembro]": -19069556,
+            "Otros activos intangibles [miembro]__2": 0
+          }
+        }
+      },
+      "Disposiciones y retiros de servicio, activos intangibles distintos de la plusvalía [resumen]": {
+        "Intangibles, valor en libros activos por derecho de uso (arrendamientos)": {},
+        "Disposiciones, activos intangibles distintos de la plusvalía": {},
+        "Retiros de servicio, activos intangibles distintos de la plusvalía": {
+          "Activos intangibles distintos de la plusvalía [miembro]": {
+            "Licencias y franquicias [miembro]": 2146337,
+            "Derechos [Miembro]": 63992,
+            "Otros activos intangibles [miembro]__2": 2210329
+          }
+        },
+        "Total de disposiciones y retiros de servicio, activos intangibles distintos de la plusvalía": {
+          "Activos intangibles distintos de la plusvalía [miembro]": {
+            "Licencias y franquicias [miembro]": 2146337,
+            "Derechos [Miembro]": 63992,
+            "Otros activos intangibles [miembro]__2": 2210329
+          }
+        }
+      },
+      "Disminuciones por clasificar como mantenidos para la venta, activos intangibles distintos de la plusvalía": {
+        "Total de disposiciones y retiros de servicio, activos intangibles distintos de la plusvalía": {}
+      },
+      "Total incremento (disminución) en activos intangibles distintos de la plusvalía": {
+        "Total de disposiciones y retiros de servicio, activos intangibles distintos de la plusvalía": {
+          "Activos intangibles distintos de la plusvalía [miembro]": {
+            "Licencias y franquicias [miembro]": 21564177,
+            "Derechos [Miembro]": 0,
+            "Otros activos intangibles [miembro]": -10964266,
+            "Otros activos intangibles [miembro]__2": 10599911
+          }
+        }
+      },
+      "Activos intangibles distintos de la plusvalía al final del periodo": {
+        "Total de disposiciones y retiros de servicio, activos intangibles distintos de la plusvalía": {
+          "Activos intangibles distintos de la plusvalía [miembro]": {
+            "Marcas comerciales [miembro]": 28532418,
+            "Licencias y franquicias [miembro]": 30501489,
+            "Derechos [Miembro]": 0,
+            "Otros activos intangibles [miembro]": 33583296,
+            "Otros activos intangibles [miembro]__2": 92617203
+          }
+        }
+      }
+    }
+  }
+}

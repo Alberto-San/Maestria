@@ -1,0 +1,51 @@
+{
+  "Información a revelar detallada sobre propiedades de inversión [resumen]": {
+    "Descripción de los activos": {},
+    "Descripción de los métodos y suposiciones significativas aplicadas para determinar el valor razonable de propiedades de inversión": {},
+    "Explicación de porqué el valor razonable no puede ser medido con fiabilidad para propiedades de inversión, modelo del costo": {},
+    "Conciliación de cambios en propiedades de inversión [resumen]": {
+      "Propiedades de inversión al comienzo del periodo": {
+        "Propiedades de inversión [resumen]": {
+          "Propiedades de inversión al valor razonable [miembro]": 4004000,
+          "Propiedades de inversión al costo menos depreciación acumulada y deterioro": {
+            "[miembro]": 79404140
+          }
+        }
+      },
+      "Cambios en las propiedades de inversión [resumen]": {
+        "Incrementos distintos de los procedentes de combinaciones de negocios, propiedades de inversión": {},
+        "Adquisiciones realizadas mediante combinaciones de negocios, propiedades de inversión": {},
+        "Ganancias (pérdidas) por ajuste del valor razonable, propiedades de inversión": {},
+        "Transferencia a propiedades de inversion al valor razonable, cuando pasa a estar disponible la medición fiable del Valor razonable": {},
+        "Transferencia de (a) inventarios y bienes inmuebles ocupados por el propietario, propiedades de inversión": {
+          "Propiedades de inversión [resumen]": {
+            "Propiedades de inversión al costo menos depreciación acumulada y deterioro": {
+              "[miembro]": 4788225
+            }
+          }
+        },
+        "Depreciación, propiedades de inversiòn al costo menos depreciación acumulada y deterioro": {
+          "Propiedades de inversión [resumen]": {
+            "Propiedades de inversión al costo menos depreciación acumulada y deterioro": {
+              "[miembro]": 1454211
+            }
+          }
+        },
+        "Pérdidas por deterioro de valor reconocidas en el resultado del periodo, propiedades de inversión al costo": {},
+        "Reversión de pérdidas por deterioro de valor reconocidas en el resultado del periodo, propiedades de inversiòn al costo": {},
+        "Incrementos (disminuciones) por otros cambios, propiedades de inversión": {},
+        "Disposiciones, propiedades de inversión": {}
+      },
+      "Propiedades de inversión al final del periodo": {
+        "Disposiciones, propiedades de inversión": {
+          "Propiedades de inversión [resumen]": {
+            "Propiedades de inversión al valor razonable [miembro]": 4004000,
+            "Propiedades de inversión al costo menos depreciación acumulada y deterioro": {
+              "[miembro]": 82738154
+            }
+          }
+        }
+      }
+    }
+  }
+}

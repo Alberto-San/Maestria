@@ -1,0 +1,172 @@
+[
+  {
+    "input": "C:\\Users\\Usuario\\Documents\\Repositorios\\Maestria\\AnalisisFinanciero\\postobon\\flattened\\890903939_2024-12-31_Caratula_traduccion_flattened.xlsx",
+    "output": "C:\\Users\\Usuario\\Documents\\Repositorios\\Maestria\\AnalisisFinanciero\\postobon\\transform\\890903939_2024-12-31_Caratula_traduccion_flattened.xlsx",
+    "sheets": [
+      {
+        "sheet": "flattened_Hoja1",
+        "column_changes": 0
+      }
+    ]
+  },
+  {
+    "input": "C:\\Users\\Usuario\\Documents\\Repositorios\\Maestria\\AnalisisFinanciero\\postobon\\flattened\\890903939_2024-12-31_Estado_de_cambios_en_el_patrimonio_traduccion_flattened.xlsx",
+    "output": "C:\\Users\\Usuario\\Documents\\Repositorios\\Maestria\\AnalisisFinanciero\\postobon\\transform\\890903939_2024-12-31_Estado_de_cambios_en_el_patrimonio_traduccion_flattened.xlsx",
+    "sheets": [
+      {
+        "sheet": "flattened_Hoja1",
+        "column_changes": 6,
+        "sample_changes": [
+          [
+            "Patrimonio [miembro].Capital emitido [miembro].Capital emitido [miembro]",
+            "Patrimonio [miembro].Capital emitido [miembro]"
+          ],
+          [
+            "Patrimonio [miembro].Prima de emisión [miembro].Prima de emisión [miembro]",
+            "Patrimonio [miembro].Prima de emisión [miembro]"
+          ],
+          [
+            "Patrimonio [miembro].Acciones propias en cartera [miembro].Acciones propias en cartera [miembro]",
+            "Patrimonio [miembro].Acciones propias en cartera [miembro]"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "input": "C:\\Users\\Usuario\\Documents\\Repositorios\\Maestria\\AnalisisFinanciero\\postobon\\flattened\\890903939_2024-12-31_Informacion_Circular_Basica_Juridica_capitulos_X_XIII_traduccion_flattened.xlsx",
+    "output": "C:\\Users\\Usuario\\Documents\\Repositorios\\Maestria\\AnalisisFinanciero\\postobon\\transform\\890903939_2024-12-31_Informacion_Circular_Basica_Juridica_capitulos_X_XIII_traduccion_flattened.xlsx",
+    "sheets": [
+      {
+        "sheet": "flattened_Hoja1",
+        "column_changes": 0
+      }
+    ]
+  },
+  {
+    "input": "C:\\Users\\Usuario\\Documents\\Repositorios\\Maestria\\AnalisisFinanciero\\postobon\\flattened\\890903939_2024-12-31_Notas_Activos_intangibles_distintos_de_la_plusvalia_traduccion_flattened.xlsx",
+    "output": "C:\\Users\\Usuario\\Documents\\Repositorios\\Maestria\\AnalisisFinanciero\\postobon\\transform\\890903939_2024-12-31_Notas_Activos_intangibles_distintos_de_la_plusvalia_traduccion_flattened.xlsx",
+    "sheets": [
+      {
+        "sheet": "flattened_Hoja1",
+        "column_changes": 0
+      }
+    ]
+  },
+  {
+    "input": "C:\\Users\\Usuario\\Documents\\Repositorios\\Maestria\\AnalisisFinanciero\\postobon\\flattened\\890903939_2024-12-31_Notas_Analisis_de_ingresos_traduccion_flattened.xlsx",
+    "output": "C:\\Users\\Usuario\\Documents\\Repositorios\\Maestria\\AnalisisFinanciero\\postobon\\transform\\890903939_2024-12-31_Notas_Analisis_de_ingresos_traduccion_flattened.xlsx",
+    "sheets": [
+      {
+        "sheet": "flattened_Hoja1",
+        "column_changes": 0
+      }
+    ]
+  },
+  {
+    "input": "C:\\Users\\Usuario\\Documents\\Repositorios\\Maestria\\AnalisisFinanciero\\postobon\\flattened\\890903939_2024-12-31_Notas_Analisis_de_otras_ganancias_perdidas_y_otros_gastos_traduccion_flattened.xlsx",
+    "output": "C:\\Users\\Usuario\\Documents\\Repositorios\\Maestria\\AnalisisFinanciero\\postobon\\transform\\890903939_2024-12-31_Notas_Analisis_de_otras_ganancias_perdidas_y_otros_gastos_traduccion_flattened.xlsx",
+    "sheets": [
+      {
+        "sheet": "flattened_Hoja1",
+        "column_changes": 0
+      }
+    ]
+  },
+  {
+    "input": "C:\\Users\\Usuario\\Documents\\Repositorios\\Maestria\\AnalisisFinanciero\\postobon\\flattened\\890903939_2024-12-31_Notas_Arrendamientos_traduccion_flattened.xlsx",
+    "output": "C:\\Users\\Usuario\\Documents\\Repositorios\\Maestria\\AnalisisFinanciero\\postobon\\transform\\890903939_2024-12-31_Notas_Arrendamientos_traduccion_flattened.xlsx",
+    "sheets": [
+      {
+        "sheet": "flattened_Hoja1",
+        "column_changes": 0
+      }
+    ]
+  },
+  {
+    "input": "C:\\Users\\Usuario\\Documents\\Repositorios\\Maestria\\AnalisisFinanciero\\postobon\\flattened\\890903939_2024-12-31_Notas_Cuentas_comerciales_por_cobrar_y_otras_cuentas_por_cobrar_traduccion_flattened.xlsx",
+    "output": "C:\\Users\\Usuario\\Documents\\Repositorios\\Maestria\\AnalisisFinanciero\\postobon\\transform\\890903939_2024-12-31_Notas_Cuentas_comerciales_por_cobrar_y_otras_cuentas_por_cobrar_traduccion_flattened.xlsx",
+    "sheets": [
+      {
+        "sheet": "flattened_Hoja1",
+        "column_changes": 0
+      }
+    ]
+  },
+  {
+    "input": "C:\\Users\\Usuario\\Documents\\Repositorios\\Maestria\\AnalisisFinanciero\\postobon\\flattened\\890903939_2024-12-31_Notas_Cuentas_comerciales_por_pagar_otras_cuentas_por_pagar_y_otros_pasivos_financieros_traduccion_flattened.xlsx",
+    "output": "C:\\Users\\Usuario\\Documents\\Repositorios\\Maestria\\AnalisisFinanciero\\postobon\\transform\\890903939_2024-12-31_Notas_Cuentas_comerciales_por_pagar_otras_cuentas_por_pagar_y_otros_pasivos_financieros_traduccion_flattened.xlsx",
+    "sheets": [
+      {
+        "sheet": "flattened_Hoja1",
+        "column_changes": 0
+      }
+    ]
+  },
+  {
+    "input": "C:\\Users\\Usuario\\Documents\\Repositorios\\Maestria\\AnalisisFinanciero\\postobon\\flattened\\890903939_2024-12-31_Notas_Informacion_a_revelar_sobre_asociadas_traduccion_flattened.xlsx",
+    "output": "C:\\Users\\Usuario\\Documents\\Repositorios\\Maestria\\AnalisisFinanciero\\postobon\\transform\\890903939_2024-12-31_Notas_Informacion_a_revelar_sobre_asociadas_traduccion_flattened.xlsx",
+    "sheets": [
+      {
+        "sheet": "flattened_Hoja1",
+        "column_changes": 0
+      }
+    ]
+  },
+  {
+    "input": "C:\\Users\\Usuario\\Documents\\Repositorios\\Maestria\\AnalisisFinanciero\\postobon\\flattened\\890903939_2024-12-31_Notas_Informacion_a_revelar_sobre_negocios_conjuntos_traduccion_flattened.xlsx",
+    "output": "C:\\Users\\Usuario\\Documents\\Repositorios\\Maestria\\AnalisisFinanciero\\postobon\\transform\\890903939_2024-12-31_Notas_Informacion_a_revelar_sobre_negocios_conjuntos_traduccion_flattened.xlsx",
+    "sheets": [
+      {
+        "sheet": "flattened_Hoja1",
+        "column_changes": 0
+      }
+    ]
+  },
+  {
+    "input": "C:\\Users\\Usuario\\Documents\\Repositorios\\Maestria\\AnalisisFinanciero\\postobon\\flattened\\890903939_2024-12-31_Notas_Información_a_revelar_sobre_propiedades_de_inversion_traduccion_flattened.xlsx",
+    "output": "C:\\Users\\Usuario\\Documents\\Repositorios\\Maestria\\AnalisisFinanciero\\postobon\\transform\\890903939_2024-12-31_Notas_Información_a_revelar_sobre_propiedades_de_inversion_traduccion_flattened.xlsx",
+    "sheets": [
+      {
+        "sheet": "flattened_Hoja1",
+        "column_changes": 1,
+        "sample_changes": [
+          [
+            "Propiedades de inversión [resumen].Propiedades de inversión al costo menos depreciación acumulada y deterioro. [miembro]",
+            "Propiedades de inversión [resumen].Propiedades de inversión al costo menos depreciación acumulada y deterioro.[miembro]"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "input": "C:\\Users\\Usuario\\Documents\\Repositorios\\Maestria\\AnalisisFinanciero\\postobon\\flattened\\890903939_2024-12-31_Notas_Otras_provisiones_pasivos_contingentes_traduccion_flattened.xlsx",
+    "output": "C:\\Users\\Usuario\\Documents\\Repositorios\\Maestria\\AnalisisFinanciero\\postobon\\transform\\890903939_2024-12-31_Notas_Otras_provisiones_pasivos_contingentes_traduccion_flattened.xlsx",
+    "sheets": [
+      {
+        "sheet": "flattened_Hoja1",
+        "column_changes": 0
+      }
+    ]
+  },
+  {
+    "input": "C:\\Users\\Usuario\\Documents\\Repositorios\\Maestria\\AnalisisFinanciero\\postobon\\flattened\\890903939_2024-12-31_Notas_Propiedades_planta_y_equipo_traduccion_flattened.xlsx",
+    "output": "C:\\Users\\Usuario\\Documents\\Repositorios\\Maestria\\AnalisisFinanciero\\postobon\\transform\\890903939_2024-12-31_Notas_Propiedades_planta_y_equipo_traduccion_flattened.xlsx",
+    "sheets": [
+      {
+        "sheet": "flattened_Hoja1",
+        "column_changes": 0
+      }
+    ]
+  },
+  {
+    "input": "C:\\Users\\Usuario\\Documents\\Repositorios\\Maestria\\AnalisisFinanciero\\postobon\\flattened\\890903939_2024-12-31_Notas_Subclasificaciones_de_efectivo_y_equivalentes_al_efectivo_traduccion_flattened.xlsx",
+    "output": "C:\\Users\\Usuario\\Documents\\Repositorios\\Maestria\\AnalisisFinanciero\\postobon\\transform\\890903939_2024-12-31_Notas_Subclasificaciones_de_efectivo_y_equivalentes_al_efectivo_traduccion_flattened.xlsx",
+    "sheets": [
+      {
+        "sheet": "flattened_Hoja1",
+        "column_changes": 0
+      }
+    ]
+  }
+]

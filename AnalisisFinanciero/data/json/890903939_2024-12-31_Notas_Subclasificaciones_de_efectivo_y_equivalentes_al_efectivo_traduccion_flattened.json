@@ -1,0 +1,40 @@
+{
+  "Efectivo y equivalentes al efectivo [sinopsis]": {
+    "Efectivo [sinopsis]": {
+      "Efectivo en caja": {
+        "Periodo Actual": 5560131
+      },
+      "Saldos en bancos": {
+        "Periodo Actual": 49073084
+      },
+      "Total efectivo": {
+        "Periodo Actual": 54633215
+      }
+    },
+    "Equivalentes al efectivo [sinopsis]": {
+      "Total efectivo": {},
+      "Depósitos a corto plazo, clasificados como equivalentes al efectivo": {
+        "Periodo Actual": 222760
+      },
+      "Inversiones a corto plazo, clasificados como equivalentes al efectivo": {
+        "Periodo Actual": 1845057
+      },
+      "Otros acuerdos bancarios, clasificados como equivalentes al efectivo": {
+        "Periodo Actual": 0
+      },
+      "Total equivalentes al efectivo": {
+        "Periodo Actual": 2067817
+      }
+    },
+    "Otro efectivo y equivalentes al efectivo": {
+      "Total equivalentes al efectivo": {
+        "Periodo Actual": 23200622
+      }
+    },
+    "Total de efectivo y equivalentes al efectivo": {
+      "Total equivalentes al efectivo": {
+        "Periodo Actual": 79901654
+      }
+    }
+  }
+}

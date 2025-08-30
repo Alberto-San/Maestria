@@ -1,0 +1,212 @@
+[
+  {
+    "input": "C:\\Users\\Usuario\\Documents\\Repositorios\\Maestria\\AnalisisFinanciero\\postobon\\890903939_2024-12-31_Caratula_traduccion.xlsx",
+    "output": "C:\\Users\\Usuario\\Documents\\Repositorios\\Maestria\\AnalisisFinanciero\\postobon\\flattened\\890903939_2024-12-31_Caratula_traduccion_flattened.xlsx",
+    "sheets": [
+      {
+        "sheet": "Hoja1",
+        "rows": 47,
+        "cols": 1,
+        "row_levels": 4,
+        "col_levels": 1,
+        "explanation": "Levels inferred from leading nulls:\n- Skipped 0 fully blank top row(s) (spacing).\n- Column-header levels = 1.\n- Row-header levels = 4.\n- Ignored 0 fully blank left column(s) as spacing.\nHeaders were forward-filled and dot-joined into flat labels.\nRows with all-null data are preserved."
+      }
+    ]
+  },
+  {
+    "input": "C:\\Users\\Usuario\\Documents\\Repositorios\\Maestria\\AnalisisFinanciero\\postobon\\890903939_2024-12-31_Estado_de_cambios_en_el_patrimonio_traduccion.xlsx",
+    "output": "C:\\Users\\Usuario\\Documents\\Repositorios\\Maestria\\AnalisisFinanciero\\postobon\\flattened\\890903939_2024-12-31_Estado_de_cambios_en_el_patrimonio_traduccion_flattened.xlsx",
+    "sheets": [
+      {
+        "sheet": "Hoja1",
+        "rows": 24,
+        "cols": 29,
+        "row_levels": 5,
+        "col_levels": 3,
+        "explanation": "Levels inferred from leading nulls:\n- Skipped 0 fully blank top row(s) (spacing).\n- Column-header levels = 3.\n- Row-header levels = 5.\n- Ignored 0 fully blank left column(s) as spacing.\nHeaders were forward-filled and dot-joined into flat labels.\nRows with all-null data are preserved."
+      }
+    ]
+  },
+  {
+    "input": "C:\\Users\\Usuario\\Documents\\Repositorios\\Maestria\\AnalisisFinanciero\\postobon\\890903939_2024-12-31_Informacion_Circular_Basica_Juridica_capitulos_X_XIII_traduccion.xlsx",
+    "output": "C:\\Users\\Usuario\\Documents\\Repositorios\\Maestria\\AnalisisFinanciero\\postobon\\flattened\\890903939_2024-12-31_Informacion_Circular_Basica_Juridica_capitulos_X_XIII_traduccion_flattened.xlsx",
+    "sheets": [
+      {
+        "sheet": "Hoja1",
+        "rows": 8,
+        "cols": 1,
+        "row_levels": 2,
+        "col_levels": 1,
+        "explanation": "Levels inferred from leading nulls:\n- Skipped 0 fully blank top row(s) (spacing).\n- Column-header levels = 1.\n- Row-header levels = 2.\n- Ignored 0 fully blank left column(s) as spacing.\nHeaders were forward-filled and dot-joined into flat labels.\nRows with all-null data are preserved."
+      }
+    ]
+  },
+  {
+    "input": "C:\\Users\\Usuario\\Documents\\Repositorios\\Maestria\\AnalisisFinanciero\\postobon\\890903939_2024-12-31_Notas_Activos_intangibles_distintos_de_la_plusvalia_traduccion.xlsx",
+    "output": "C:\\Users\\Usuario\\Documents\\Repositorios\\Maestria\\AnalisisFinanciero\\postobon\\flattened\\890903939_2024-12-31_Notas_Activos_intangibles_distintos_de_la_plusvalia_traduccion_flattened.xlsx",
+    "sheets": [
+      {
+        "sheet": "Hoja1",
+        "rows": 22,
+        "cols": 10,
+        "row_levels": 4,
+        "col_levels": 2,
+        "explanation": "Levels inferred from leading nulls:\n- Skipped 0 fully blank top row(s) (spacing).\n- Column-header levels = 2.\n- Row-header levels = 4.\n- Ignored 0 fully blank left column(s) as spacing.\nHeaders were forward-filled and dot-joined into flat labels.\nRows with all-null data are preserved."
+      }
+    ]
+  },
+  {
+    "input": "C:\\Users\\Usuario\\Documents\\Repositorios\\Maestria\\AnalisisFinanciero\\postobon\\890903939_2024-12-31_Notas_Analisis_de_ingresos_traduccion.xlsx",
+    "output": "C:\\Users\\Usuario\\Documents\\Repositorios\\Maestria\\AnalisisFinanciero\\postobon\\flattened\\890903939_2024-12-31_Notas_Analisis_de_ingresos_traduccion_flattened.xlsx",
+    "sheets": [
+      {
+        "sheet": "Hoja1",
+        "rows": 409,
+        "cols": 2,
+        "row_levels": 1,
+        "col_levels": 2,
+        "explanation": "Levels inferred from leading nulls:\n- Skipped 0 fully blank top row(s) (spacing).\n- Column-header levels = 2.\n- Row-header levels = 1.\n- Ignored 0 fully blank left column(s) as spacing.\nHeaders were forward-filled and dot-joined into flat labels.\nRows with all-null data are preserved."
+      }
+    ]
+  },
+  {
+    "input": "C:\\Users\\Usuario\\Documents\\Repositorios\\Maestria\\AnalisisFinanciero\\postobon\\890903939_2024-12-31_Notas_Analisis_de_otras_ganancias_perdidas_y_otros_gastos_traduccion.xlsx",
+    "output": "C:\\Users\\Usuario\\Documents\\Repositorios\\Maestria\\AnalisisFinanciero\\postobon\\flattened\\890903939_2024-12-31_Notas_Analisis_de_otras_ganancias_perdidas_y_otros_gastos_traduccion_flattened.xlsx",
+    "sheets": [
+      {
+        "sheet": "Hoja1",
+        "rows": 24,
+        "cols": 1,
+        "row_levels": 3,
+        "col_levels": 1,
+        "explanation": "Levels inferred from leading nulls:\n- Skipped 0 fully blank top row(s) (spacing).\n- Column-header levels = 1.\n- Row-header levels = 3.\n- Ignored 0 fully blank left column(s) as spacing.\nHeaders were forward-filled and dot-joined into flat labels.\nRows with all-null data are preserved."
+      }
+    ]
+  },
+  {
+    "input": "C:\\Users\\Usuario\\Documents\\Repositorios\\Maestria\\AnalisisFinanciero\\postobon\\890903939_2024-12-31_Notas_Arrendamientos_traduccion.xlsx",
+    "output": "C:\\Users\\Usuario\\Documents\\Repositorios\\Maestria\\AnalisisFinanciero\\postobon\\flattened\\890903939_2024-12-31_Notas_Arrendamientos_traduccion_flattened.xlsx",
+    "sheets": [
+      {
+        "sheet": "Hoja1",
+        "rows": 10,
+        "cols": 21,
+        "row_levels": 2,
+        "col_levels": 4,
+        "explanation": "Levels inferred from leading nulls:\n- Skipped 0 fully blank top row(s) (spacing).\n- Column-header levels = 4.\n- Row-header levels = 2.\n- Ignored 0 fully blank left column(s) as spacing.\nHeaders were forward-filled and dot-joined into flat labels.\nRows with all-null data are preserved."
+      }
+    ]
+  },
+  {
+    "input": "C:\\Users\\Usuario\\Documents\\Repositorios\\Maestria\\AnalisisFinanciero\\postobon\\890903939_2024-12-31_Notas_Cuentas_comerciales_por_cobrar_y_otras_cuentas_por_cobrar_traduccion.xlsx",
+    "output": "C:\\Users\\Usuario\\Documents\\Repositorios\\Maestria\\AnalisisFinanciero\\postobon\\flattened\\890903939_2024-12-31_Notas_Cuentas_comerciales_por_cobrar_y_otras_cuentas_por_cobrar_traduccion_flattened.xlsx",
+    "sheets": [
+      {
+        "sheet": "Hoja1",
+        "rows": 31,
+        "cols": 9,
+        "row_levels": 4,
+        "col_levels": 3,
+        "explanation": "Levels inferred from leading nulls:\n- Skipped 0 fully blank top row(s) (spacing).\n- Column-header levels = 3.\n- Row-header levels = 4.\n- Ignored 0 fully blank left column(s) as spacing.\nHeaders were forward-filled and dot-joined into flat labels.\nRows with all-null data are preserved."
+      }
+    ]
+  },
+  {
+    "input": "C:\\Users\\Usuario\\Documents\\Repositorios\\Maestria\\AnalisisFinanciero\\postobon\\890903939_2024-12-31_Notas_Cuentas_comerciales_por_pagar_otras_cuentas_por_pagar_y_otros_pasivos_financieros_traduccion.xlsx",
+    "output": "C:\\Users\\Usuario\\Documents\\Repositorios\\Maestria\\AnalisisFinanciero\\postobon\\flattened\\890903939_2024-12-31_Notas_Cuentas_comerciales_por_pagar_otras_cuentas_por_pagar_y_otros_pasivos_financieros_traduccion_flattened.xlsx",
+    "sheets": [
+      {
+        "sheet": "Hoja1",
+        "rows": 17,
+        "cols": 9,
+        "row_levels": 3,
+        "col_levels": 3,
+        "explanation": "Levels inferred from leading nulls:\n- Skipped 0 fully blank top row(s) (spacing).\n- Column-header levels = 3.\n- Row-header levels = 3.\n- Ignored 0 fully blank left column(s) as spacing.\nHeaders were forward-filled and dot-joined into flat labels.\nRows with all-null data are preserved."
+      }
+    ]
+  },
+  {
+    "input": "C:\\Users\\Usuario\\Documents\\Repositorios\\Maestria\\AnalisisFinanciero\\postobon\\890903939_2024-12-31_Notas_Informacion_a_revelar_sobre_asociadas_traduccion.xlsx",
+    "output": "C:\\Users\\Usuario\\Documents\\Repositorios\\Maestria\\AnalisisFinanciero\\postobon\\flattened\\890903939_2024-12-31_Notas_Informacion_a_revelar_sobre_asociadas_traduccion_flattened.xlsx",
+    "sheets": [
+      {
+        "sheet": "Hoja1",
+        "rows": 102,
+        "cols": 17,
+        "row_levels": 1,
+        "col_levels": 3,
+        "explanation": "Levels inferred from leading nulls:\n- Skipped 0 fully blank top row(s) (spacing).\n- Column-header levels = 3.\n- Row-header levels = 1.\n- Ignored 0 fully blank left column(s) as spacing.\nHeaders were forward-filled and dot-joined into flat labels.\nRows with all-null data are preserved."
+      }
+    ]
+  },
+  {
+    "input": "C:\\Users\\Usuario\\Documents\\Repositorios\\Maestria\\AnalisisFinanciero\\postobon\\890903939_2024-12-31_Notas_Informacion_a_revelar_sobre_negocios_conjuntos_traduccion.xlsx",
+    "output": "C:\\Users\\Usuario\\Documents\\Repositorios\\Maestria\\AnalisisFinanciero\\postobon\\flattened\\890903939_2024-12-31_Notas_Informacion_a_revelar_sobre_negocios_conjuntos_traduccion_flattened.xlsx",
+    "sheets": [
+      {
+        "sheet": "Hoja1",
+        "rows": 102,
+        "cols": 19,
+        "row_levels": 1,
+        "col_levels": 2,
+        "explanation": "Levels inferred from leading nulls:\n- Skipped 0 fully blank top row(s) (spacing).\n- Column-header levels = 2.\n- Row-header levels = 1.\n- Ignored 0 fully blank left column(s) as spacing.\nHeaders were forward-filled and dot-joined into flat labels.\nRows with all-null data are preserved."
+      }
+    ]
+  },
+  {
+    "input": "C:\\Users\\Usuario\\Documents\\Repositorios\\Maestria\\AnalisisFinanciero\\postobon\\890903939_2024-12-31_Notas_Informacio\u0301n_a_revelar_sobre_propiedades_de_inversion_traduccion.xlsx",
+    "output": "C:\\Users\\Usuario\\Documents\\Repositorios\\Maestria\\AnalisisFinanciero\\postobon\\flattened\\890903939_2024-12-31_Notas_Informacio\u0301n_a_revelar_sobre_propiedades_de_inversion_traduccion_flattened.xlsx",
+    "sheets": [
+      {
+        "sheet": "Hoja1",
+        "rows": 18,
+        "cols": 2,
+        "row_levels": 4,
+        "col_levels": 2,
+        "explanation": "Levels inferred from leading nulls:\n- Skipped 0 fully blank top row(s) (spacing).\n- Column-header levels = 2.\n- Row-header levels = 4.\n- Ignored 0 fully blank left column(s) as spacing.\nHeaders were forward-filled and dot-joined into flat labels.\nRows with all-null data are preserved."
+      }
+    ]
+  },
+  {
+    "input": "C:\\Users\\Usuario\\Documents\\Repositorios\\Maestria\\AnalisisFinanciero\\postobon\\890903939_2024-12-31_Notas_Otras_provisiones_pasivos_contingentes_traduccion.xlsx",
+    "output": "C:\\Users\\Usuario\\Documents\\Repositorios\\Maestria\\AnalisisFinanciero\\postobon\\flattened\\890903939_2024-12-31_Notas_Otras_provisiones_pasivos_contingentes_traduccion_flattened.xlsx",
+    "sheets": [
+      {
+        "sheet": "Hoja1",
+        "rows": 18,
+        "cols": 8,
+        "row_levels": 6,
+        "col_levels": 2,
+        "explanation": "Levels inferred from leading nulls:\n- Skipped 0 fully blank top row(s) (spacing).\n- Column-header levels = 2.\n- Row-header levels = 6.\n- Ignored 0 fully blank left column(s) as spacing.\nHeaders were forward-filled and dot-joined into flat labels.\nRows with all-null data are preserved."
+      }
+    ]
+  },
+  {
+    "input": "C:\\Users\\Usuario\\Documents\\Repositorios\\Maestria\\AnalisisFinanciero\\postobon\\890903939_2024-12-31_Notas_Propiedades_planta_y_equipo_traduccion.xlsx",
+    "output": "C:\\Users\\Usuario\\Documents\\Repositorios\\Maestria\\AnalisisFinanciero\\postobon\\flattened\\890903939_2024-12-31_Notas_Propiedades_planta_y_equipo_traduccion_flattened.xlsx",
+    "sheets": [
+      {
+        "sheet": "Hoja1",
+        "rows": 36,
+        "cols": 19,
+        "row_levels": 6,
+        "col_levels": 3,
+        "explanation": "Levels inferred from leading nulls:\n- Skipped 0 fully blank top row(s) (spacing).\n- Column-header levels = 3.\n- Row-header levels = 6.\n- Ignored 0 fully blank left column(s) as spacing.\nHeaders were forward-filled and dot-joined into flat labels.\nRows with all-null data are preserved."
+      }
+    ]
+  },
+  {
+    "input": "C:\\Users\\Usuario\\Documents\\Repositorios\\Maestria\\AnalisisFinanciero\\postobon\\890903939_2024-12-31_Notas_Subclasificaciones_de_efectivo_y_equivalentes_al_efectivo_traduccion.xlsx",
+    "output": "C:\\Users\\Usuario\\Documents\\Repositorios\\Maestria\\AnalisisFinanciero\\postobon\\flattened\\890903939_2024-12-31_Notas_Subclasificaciones_de_efectivo_y_equivalentes_al_efectivo_traduccion_flattened.xlsx",
+    "sheets": [
+      {
+        "sheet": "Hoja1",
+        "rows": 12,
+        "cols": 1,
+        "row_levels": 3,
+        "col_levels": 1,
+        "explanation": "Levels inferred from leading nulls:\n- Skipped 0 fully blank top row(s) (spacing).\n- Column-header levels = 1.\n- Row-header levels = 3.\n- Ignored 0 fully blank left column(s) as spacing.\nHeaders were forward-filled and dot-joined into flat labels.\nRows with all-null data are preserved."
+      }
+    ]
+  }
+]
