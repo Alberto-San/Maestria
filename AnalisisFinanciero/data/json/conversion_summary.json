@@ -2,7 +2,8 @@
   {
     "input": "C:\\Users\\Usuario\\Documents\\Repositorios\\Maestria\\AnalisisFinanciero\\data\\transform\\890903939_2024-12-31_Caratula_traduccion_flattened.xlsx",
     "output": "C:\\Users\\Usuario\\Documents\\Repositorios\\Maestria\\AnalisisFinanciero\\data\\json\\890903939_2024-12-31_Caratula_traduccion_flattened.json",
-    "status": "success"
+    "status": "success",
+    "comment": "Los resultados estan a fecha de corte 2024-12-31, con valor de utilidades totales de 44074579000. La revisora fiscal fue KPMG"
   },
   {
     "input": "C:\\Users\\Usuario\\Documents\\Repositorios\\Maestria\\AnalisisFinanciero\\data\\transform\\890903939_2024-12-31_Estado_de_cambios_en_el_patrimonio_traduccion_flattened.xlsx",
