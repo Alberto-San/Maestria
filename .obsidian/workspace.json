@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AnalisisFinanciero/clases/Resumen.md",
+                "file": "AnalisisFinanciero/clases/CFO Libro.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Resumen"
+              "title": "CFO Libro"
             }
           }
         ]
@@ -163,18 +163,20 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "excel:Create Excel File": false,
-      "univer:Univer": false
+      "bases:Create new base": false
     }
   },
   "active": "41194d7cd10b84f4",
   "lastOpenFiles": [
+    "AnalisisFinanciero/clases/ERI Futuro/Untitled.md",
+    "AnalisisFinanciero/clases/CFO Libro.md",
+    "AnalisisFinanciero/clases/ERI Futuro/Ingresos Financieros.md",
+    "AnalisisFinanciero/clases/ERI Futuro/Amortizaciones.md",
+    "AnalisisFinanciero/clases/ERI Futuro/Depreciaciones.md",
+    "AnalisisFinanciero/clases/Resumen.md",
     "Pasted image 20250909223702.png",
     "AnalisisFinanciero/clases/Drawing 2025-08-30 09.50.25.excalidraw.md",
     "Pasted Image 20250909223657_123.png",
-    "AnalisisFinanciero/clases/Resumen.md",
     "Pasted image 20250909223056.png",
     "Pasted image 20250909223041.png",
     "Pasted image 20250909222936.png",
@@ -195,7 +197,6 @@
     "AnalisisFinanciero/Files/how-ai-will-transform-the-cfos-role.pdf",
     "AnalisisFinanciero/Files/CFO Guidebook 4th Edition.pdf",
     "AnalisisFinanciero/Files/Caso 1a QUIMICOS SA.pdf",
-    "Pasted image 20250830095109.png",
     "AnalisisFinanciero/Analisis Financiero Postobón.md"
   ]
 }
