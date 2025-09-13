@@ -1,0 +1,37 @@
+
+## Endeudamiento
+
+El wacc son las interrelaciones entre pasivos y patrimonio. Es un promedio ponderado. El WACC es el costo de capital que una empresa tiene. 
+SD: Servicio de la Deuda
+FCL/SD > 2, significa que su flujo de caja libre es suficiente para cubrir la deuda. Cuando se analiza el % costo vs endudamiento podemos decir que existen empresas que pueden no tener endeudamiento hasta la mas endeudada, y como varia ese % de costo de endudamiento. Por supuesto, si la empresa no esta muy endeudada, existe un % de costo de esa deuda que es coonstante, dado que los intereses pueden ser un valor rango, no un valor exacto. Asi mismo, cuando se sobrepasa este rango, el costo aumenta, y cada vez mas los escalones son mas estrechos, porque no es lo mismo prestar 0-10 pesos a 1 anio, porque es muy poco dinero, a prestar 1000M-2000 M, los riesgos son mas costosos y probablemente los rangos disminuyen y el banco va a considerar un riesgo mayor. Cuando se ve mas a profundidad, el comportamiento es asintotico, que significa esto?, que existe un momento en que la deuda es tan alta que nunca puede alcanzar el 100%. Recordar endeudamiento es pasivo, si el pasivo es el 100% no hay equity, entonces se es el duenio. 
+
+## Inversionista 
+De igual manera, existe un modelo para definir el costo del patrominio,CAPM, que dice cual es la rentabilidad que debe dar un activo a los accionistas.La logica es que la rentabilidad esperada deberia darse por el factor de apalancamiento, el efecto deuda patrimonio. $\beta_{e}$ es el beta apalancado, $\beta_{u}$ es el de la industria. 
+$$\beta_{e} = \beta_{u}\cdot[1+\frac{D\cdot(1-t)}{E}]$$
+El inversionista siempre espera un retorno minimo, una tasa libre de riesgo (eg: CDT de bancolombia). Esto se llama tasa libre de riesgo. Pero ademas de esto, el inversionista quiere ganar lo que ya han venido ganando cosas, llamada rentabilidad de mercado, lo que historicamente han ganado,
+$$R_{f} = R_{f} - [R_{m} - R_{f}]$$
+$R_{m}$ puede ser calculado de acuerdo a lo del COLCAP (modelo colombiano), que es basicamente una forma historica para saber la prima de mercado. De tal manera que si el inversionista quiere entrar, la rentabilidad minima debe ser, lo que rente por ejemplo bancolombia, mas lo que el mercado ha reconocido historicamente
+$R_{f}=8\% + (20\%-8\%)=20\%$. Pero no todas las empresas son iguales. Obvio $R_{f} - R_{f}=0$  pero por eso hay una ponderacion, que es un coeficiente que pondera como se comporta el mercado el sector. Hay unos $\beta$ por mercado, que son calculados. De tal manera que 
+$$R_{f}=8\% + \beta_{industria}\cdot(20\%-8\%)=20\%$$
+$\beta \approx 0$ menor riesgo, menor retorno para el accionista.      
+
+Con esto se puede calcular el WACC. Se desea un $WACC_{minimo}$. Ejemplo, Si en endeudamiento 65% es endudamiento, y el 35% es equity, y si es WACC es minimo a este valor, se maximiza el valor de la empresa. Uno de los focos principales es la administracion de la estructura de capital, cuanto de pas y cuanto de equity. Sin embargo, la teoria no dice si ese % de endeudamiento debe ser a corto plazo, largo plazo, que plazo?. Solo dice que es un minimo lo que se debe de alcanzar. Sin embargo, es mejor estar en el minimo, por ejemplo en la guerra de las colas, si se esta en el minimo, y si se tuviera que financiear una nueva campania con deuda, se hubiera aumentado el WACC disminuyendo valor. Estar en el optimo permite no reaccionar, porque se esta muy restringido para tomar decisiones rapidas, en vez de eso deben ser decisiones muy analizadas que toman tiempo. 
+
+Capital estoy viendo que significa muchas cosas. Interesante. Estar largo es tener, estar corto es deber. Fundamental para estrategia de apalancamiento. 
+
+## Endeudamiento
+
+Estudiar la deuda no es simple. Por una parte unos dicen que la deuda/ebitda no puede superar 3, otros dicen que depende, otros dicen que dentro de la estructura de capital (deudas LP + patrimonio) se cuida la deuda, evitda y FCL. Se intenta cuidar mucho la reputacion financiera para poder seguir invirtiendo. 
+$$EVA = UODI - WACC$$
+El mejor es
+$$EVA_{max} = UODI_{max} - WACC_{min}$$
+en esto hay que tener un buen modelo operativo. Incrementar precios, reducir costos y gastos, incrementar volumen de ventas, tener inversiones, maximizar caja por el capital invertido en la operacion. Esto no es gratuito, esto implica analizar la operacion. Tambien se debe de manejar bien la estructura de capital, temas como dividendos, adquisiciones, riesgos, en general optimizacion del costo de capital. Todo va mucho mas alla de una formula. Hay mucha teoria detras de, pero la verdad es que a nivel financiero las tendencias de valor son diferentes, siempre hay que estar buscando que conviene mas. 
+
+Es curioso, tengo un suenio terrible, me esta consumiendo. La clase esta tremendamente aburrida, debo de hacer algo o si no caere dormido. Tal vez debo de respirar trdemendamente. Estamos viendo algo de estructura de capital, muchas cosas que realmente no entiendo y que parecen ser contraintuitivas. La verdad es que hay muchas cosas de deudas que no entiendo?. Endeudarse a tasa fija, a tasa variable?, por que?, que conviene mas?, que fue lo que sucedio en colombia en 2019, realmente no entiendo bien el tema de corto y largo plazo. El componente de administracion?, realmente hay muchas palabras en finanzas. Es inmenso el vocabulario, como realmente hablan?, parece un dialecto, entre financieros se entienden realmente?.  Encima veo demasiado texto, parece ser demasiado confiado, el problema que tiene es que no se detiene, habla demasiado contexto, abarca demasiado sin entrar en el detalle que se debe de tener. Lo otro es que es muy consistente con sus actitudes de que veremos temas en otras materias. Realmente siento que falla demasiado con comunicar sus ideas. Hacer pausas es algo que se deberia de sugerir. Intenta realizar sobresimplificaciones, pero nombrando demasiadas cosas que a la final no son necesarias, cosas que causan confusion. Hace muchos supuestos. Hace demasiados calculos en el aire. Se apoya en sus diapisitivas, pero no se da el tiempo de leerlas. Realmente siento que es pobre enseniando. De nuevo, se tienen sobresimplificaciones. Por ejemplo menciono riesgos del negocio, menciona riesgos pero no explica su origen, su detalle, su importancia. En general lo que puedo entender sobre riesgos es que los riesgos hay que pagarlos, hay riesgos que se pagan por tomar, se pagan por gestionar y se pagan por gestionar. Menciona tambien mucho TIR, pero no es claro que es. La gente creo que asume demasiado que sabe, pero todos estamos igual de perdidos. 
+
+
+![[Pasted image 20250913121706.png]]
+
+Que sucede en el grafico anterior. Es un analisis de riesgos. Es acerca de la incertidumbre, a pesar de que existe probabilidad de que A puede tener mayroes ganancias a menor probabiliad, la verdad es que para la expectativa media, existe mas probabilidad de que B sea capaz de cumplir en contraste con A, ya que la incertidumbre (desviacion estandar) es menor.
+
+Tal vez si sea buena idea leer el libro del CFO. Son tantas cosas, son muchos fin de semanas que pueden ser divertidos, pero tengo que empezar a salir mas, divertirme mas. Diferencias entre estructura de capital y capital de trabajo es fundamental. El EBITDA y el FCL son indicadores claros, ya que esto es lo que se usa para pagar intereses y los socios. Con eso se paga intereses, si hay un falante se usan las reservas del patrimnio o inv temporales, pero si eesto no esta hay incumplimientos o quiebras. 
